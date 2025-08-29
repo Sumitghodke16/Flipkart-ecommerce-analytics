@@ -1,0 +1,4001 @@
+Product_ID,Category,Brand,Price
+2204,Fashion,Heritage,4490
+3828,Beauty & Personal Care,RootRise,10000
+3326,Home & Kitchen,CoolBreeze,35000
+4917,Sports & Outdoors,MotionMade,2070
+4822,Sports & Outdoors,FlexForge,7960
+3094,Home & Kitchen,HeatWave,12480
+1862,Fashion,NorthBay,2260
+4340,Sports & Outdoors,CorePlus,30000
+1737,Electronics,ApexOne,150000
+4849,Sports & Outdoors,StaminaX,13470
+4224,Sports & Outdoors,CorePlus,5670
+1478,Electronics,ElectraNova,74500
+4416,Sports & Outdoors,TrailStar,25550
+1857,Fashion,NorthBay,3380
+3613,Beauty & Personal Care,DermaDawn,10000
+2274,Fashion,Ivory&Co,4090
+1149,Electronics,Zentrix,104830
+2737,Home & Kitchen,Nest&Nook,12880
+2459,Fashion,NorthBay,7310
+1470,Electronics,Zentrix,54010
+3843,Beauty & Personal Care,RootRise,3120
+4459,Sports & Outdoors,StaminaX,30000
+3070,Home & Kitchen,KitchenPro,4780
+1577,Electronics,CoreLink,150000
+4392,Sports & Outdoors,PeakPath,2790
+3755,Beauty & Personal Care,VelvetMist,5820
+1199,Electronics,TechSphere,109420
+4045,Beauty & Personal Care,HydraHue,10000
+4745,Sports & Outdoors,TrailStar,12070
+3239,Home & Kitchen,Nest&Nook,17790
+2798,Home & Kitchen,Nest&Nook,8020
+2679,Home & Kitchen,HeatWave,8260
+3631,Beauty & Personal Care,RootRise,2080
+1672,Electronics,TechSphere,29650
+4284,Sports & Outdoors,PulseGear,26080
+1073,Electronics,BlueWave,150000
+4645,Sports & Outdoors,MotionMade,2610
+1085,Electronics,ElectraNova,44960
+3130,Home & Kitchen,HomePulse,27840
+1877,Fashion,CanvasCo,4430
+3941,Beauty & Personal Care,PureLeaf,2510
+4084,Beauty & Personal Care,VelvetMist,2960
+4153,Beauty & Personal Care,VelvetMist,1350
+4711,Sports & Outdoors,FlexForge,29850
+1458,Electronics,TechSphere,71030
+2721,Home & Kitchen,HeatWave,10480
+3917,Beauty & Personal Care,GlowWell,1840
+1472,Electronics,OrbitX,14150
+1464,Electronics,TechSphere,91580
+2345,Fashion,SilkStreet,5440
+2722,Home & Kitchen,CoolBreeze,6910
+3443,Beauty & Personal Care,VelvetMist,1030
+4406,Sports & Outdoors,RunRidge,12530
+1734,Electronics,OrbitX,150000
+1572,Electronics,GigaMax,44100
+3140,Home & Kitchen,HomePulse,29240
+2867,Home & Kitchen,CasaCharm,5660
+4493,Sports & Outdoors,PulseGear,30000
+3696,Beauty & Personal Care,RootRise,10000
+1381,Electronics,TechSphere,150000
+1327,Electronics,Zentrix,150000
+1798,Electronics,TechSphere,80980
+3421,Beauty & Personal Care,DermaDawn,1910
+1044,Electronics,TechSphere,66620
+2314,Fashion,LunaWear,910
+4967,Sports & Outdoors,PeakPath,30000
+2884,Home & Kitchen,ZenLiving,35000
+4639,Sports & Outdoors,PulseGear,30000
+1839,Fashion,NorthBay,2750
+1190,Electronics,CoreLink,150000
+2660,Home & Kitchen,ZenLiving,26830
+4643,Sports & Outdoors,FlexForge,9840
+1320,Electronics,GigaMax,126690
+4974,Sports & Outdoors,StaminaX,4310
+2104,Fashion,NorthBay,1060
+3266,Home & Kitchen,KitchenPro,17970
+2287,Fashion,Heritage,2440
+1560,Electronics,GigaMax,35980
+3976,Beauty & Personal Care,DermaDawn,10000
+3031,Home & Kitchen,HomePulse,17330
+3092,Home & Kitchen,ZenLiving,14770
+2844,Home & Kitchen,KitchenPro,10400
+2747,Home & Kitchen,AuraHome,31350
+4495,Sports & Outdoors,TrailStar,21740
+2614,Home & Kitchen,AuraHome,33160
+3721,Beauty & Personal Care,PureLeaf,3410
+2260,Fashion,LunaWear,5540
+3751,Beauty & Personal Care,HydraHue,3430
+3137,Home & Kitchen,CoolBreeze,6800
+2712,Home & Kitchen,Nest&Nook,5370
+4072,Beauty & Personal Care,BloomNote,10000
+1473,Electronics,TechSphere,150000
+4089,Beauty & Personal Care,VelvetMist,1710
+1064,Electronics,Zentrix,52230
+3834,Beauty & Personal Care,DermaDawn,6890
+3454,Beauty & Personal Care,BloomNote,4070
+4944,Sports & Outdoors,PulseGear,30000
+4619,Sports & Outdoors,MotionMade,5030
+2888,Home & Kitchen,Nest&Nook,35000
+1542,Electronics,ApexOne,150000
+3896,Beauty & Personal Care,DermaDawn,2290
+2095,Fashion,LunaWear,12000
+1854,Fashion,SilkStreet,6440
+2968,Home & Kitchen,HeatWave,26080
+1776,Electronics,Zentrix,78000
+3178,Home & Kitchen,KitchenPro,12010
+3286,Home & Kitchen,HomePulse,31010
+4184,Beauty & Personal Care,DermaDawn,4760
+2751,Home & Kitchen,Nest&Nook,35000
+3083,Home & Kitchen,HeatWave,7680
+3059,Home & Kitchen,Nest&Nook,14150
+2718,Home & Kitchen,KitchenPro,15250
+4971,Sports & Outdoors,RunRidge,10550
+3407,Beauty & Personal Care,HydraHue,5070
+1834,Fashion,SilkStreet,12000
+3064,Home & Kitchen,HomePulse,6690
+3257,Home & Kitchen,KitchenPro,11060
+4265,Sports & Outdoors,RunRidge,7240
+4356,Sports & Outdoors,PeakPath,30000
+4838,Sports & Outdoors,TrailStar,15540
+2248,Fashion,UrbanThread,10920
+2682,Home & Kitchen,Nest&Nook,35000
+2066,Fashion,Heritage,4840
+1861,Fashion,LunaWear,4020
+4014,Beauty & Personal Care,HydraHue,3280
+1299,Electronics,BlueWave,120140
+3305,Home & Kitchen,KitchenPro,11370
+4975,Sports & Outdoors,PeakPath,11750
+1835,Fashion,NorthBay,6860
+2716,Home & Kitchen,HomePulse,28310
+3694,Beauty & Personal Care,PureLeaf,9810
+2065,Fashion,Heritage,10330
+3082,Home & Kitchen,Nest&Nook,33060
+3605,Beauty & Personal Care,VelvetMist,9060
+3320,Home & Kitchen,KitchenPro,18580
+3786,Beauty & Personal Care,DermaDawn,4810
+4710,Sports & Outdoors,CorePlus,14470
+1701,Electronics,BlueWave,150000
+1985,Fashion,Heritage,7830
+4050,Beauty & Personal Care,SilkStrand,2190
+3763,Beauty & Personal Care,SilkStrand,2860
+2940,Home & Kitchen,HomePulse,1740
+4341,Sports & Outdoors,RunRidge,16850
+4851,Sports & Outdoors,RunRidge,30000
+1880,Fashion,Ivory&Co,3940
+2953,Home & Kitchen,CoolBreeze,35000
+1821,Fashion,NorthBay,12000
+4257,Sports & Outdoors,PeakPath,19410
+1898,Fashion,Ivory&Co,5700
+2654,Home & Kitchen,HomePulse,35000
+4908,Sports & Outdoors,PeakPath,16920
+1525,Electronics,TechSphere,72540
+2460,Fashion,NorthBay,920
+2550,Fashion,NorthBay,12000
+1968,Fashion,CanvasCo,7890
+2472,Fashion,CanvasCo,3650
+1440,Electronics,CoreLink,59790
+2830,Home & Kitchen,KitchenPro,19440
+1538,Electronics,TechSphere,49780
+3557,Beauty & Personal Care,SilkStrand,2020
+4019,Beauty & Personal Care,HydraHue,8960
+1816,Fashion,SilkStreet,12000
+4024,Beauty & Personal Care,GlowWell,10000
+4826,Sports & Outdoors,PeakPath,18780
+1570,Electronics,GigaMax,94630
+3993,Beauty & Personal Care,DermaDawn,6230
+2417,Fashion,LunaWear,5650
+1614,Electronics,Zentrix,57750
+4621,Sports & Outdoors,RunRidge,5640
+4446,Sports & Outdoors,PulseGear,15490
+2782,Home & Kitchen,ZenLiving,24850
+3282,Home & Kitchen,HeatWave,6060
+2934,Home & Kitchen,Nest&Nook,13290
+3560,Beauty & Personal Care,SilkStrand,4730
+2393,Fashion,CanvasCo,3990
+1989,Fashion,SilkStreet,2490
+4064,Beauty & Personal Care,PureLeaf,2760
+1529,Electronics,ElectraNova,6100
+4825,Sports & Outdoors,CorePlus,17700
+3957,Beauty & Personal Care,SilkStrand,8710
+3367,Home & Kitchen,CasaCharm,20740
+1824,Fashion,LunaWear,12000
+2474,Fashion,ModeMuse,1220
+2578,Fashion,NorthBay,12000
+4071,Beauty & Personal Care,BloomNote,3530
+4746,Sports & Outdoors,FlexForge,14160
+2921,Home & Kitchen,AuraHome,17160
+3154,Home & Kitchen,ZenLiving,16230
+2999,Home & Kitchen,HomePulse,35000
+1386,Electronics,Zentrix,97970
+1528,Electronics,Zentrix,21770
+1633,Electronics,OrbitX,55690
+3211,Home & Kitchen,AuraHome,35000
+2277,Fashion,LunaWear,12000
+2896,Home & Kitchen,KitchenPro,5220
+4658,Sports & Outdoors,TrailStar,6470
+3042,Home & Kitchen,HomePulse,14910
+3648,Beauty & Personal Care,VelvetMist,9060
+2931,Home & Kitchen,KitchenPro,7510
+4730,Sports & Outdoors,PulseGear,6170
+2020,Fashion,ModeMuse,12000
+2456,Fashion,Heritage,3570
+1548,Electronics,CoreLink,150000
+3307,Home & Kitchen,Nest&Nook,12940
+2004,Fashion,CanvasCo,11570
+3301,Home & Kitchen,CoolBreeze,7750
+1759,Electronics,BlueWave,65330
+3974,Beauty & Personal Care,SilkStrand,2850
+3040,Home & Kitchen,AuraHome,12100
+3911,Beauty & Personal Care,RootRise,2960
+3750,Beauty & Personal Care,BloomNote,470
+1280,Electronics,TechSphere,52230
+1615,Electronics,ElectraNova,150000
+1591,Electronics,BlueWave,150000
+4674,Sports & Outdoors,RunRidge,6560
+4168,Beauty & Personal Care,SilkStrand,3700
+3353,Home & Kitchen,CasaCharm,14710
+2171,Fashion,SilkStreet,7360
+3209,Home & Kitchen,CasaCharm,18990
+1836,Fashion,CanvasCo,5050
+2354,Fashion,Ivory&Co,8970
+3665,Beauty & Personal Care,RootRise,6000
+2391,Fashion,UrbanThread,12000
+4029,Beauty & Personal Care,BloomNote,1200
+4582,Sports & Outdoors,TrailStar,22870
+1095,Electronics,Zentrix,150000
+3065,Home & Kitchen,CasaCharm,5680
+4612,Sports & Outdoors,CorePlus,5370
+2904,Home & Kitchen,CoolBreeze,35000
+3418,Beauty & Personal Care,VelvetMist,10000
+2847,Home & Kitchen,CoolBreeze,35000
+4773,Sports & Outdoors,StaminaX,9650
+3349,Home & Kitchen,AuraHome,12250
+2145,Fashion,NorthBay,7480
+3966,Beauty & Personal Care,DermaDawn,3140
+2937,Home & Kitchen,CoolBreeze,13870
+2500,Fashion,UrbanThread,4750
+3127,Home & Kitchen,HeatWave,10480
+3732,Beauty & Personal Care,HydraHue,4170
+2581,Fashion,UrbanThread,10810
+2186,Fashion,CanvasCo,1480
+1168,Electronics,ApexOne,113150
+2408,Fashion,SilkStreet,7740
+1566,Electronics,BlueWave,150000
+2965,Home & Kitchen,HomePulse,26750
+3653,Beauty & Personal Care,BloomNote,5250
+1794,Electronics,ElectraNova,77090
+2562,Fashion,LunaWear,12000
+3587,Beauty & Personal Care,GlowWell,4630
+1744,Electronics,GigaMax,77850
+2365,Fashion,Ivory&Co,10940
+3457,Beauty & Personal Care,PureLeaf,3260
+1564,Electronics,Zentrix,150000
+2449,Fashion,ModeMuse,11130
+4484,Sports & Outdoors,RunRidge,10710
+4419,Sports & Outdoors,RunRidge,7080
+4723,Sports & Outdoors,TrailStar,12580
+4402,Sports & Outdoors,RunRidge,16090
+2497,Fashion,CanvasCo,5850
+1421,Electronics,OrbitX,45190
+4620,Sports & Outdoors,MotionMade,17930
+4162,Beauty & Personal Care,DermaDawn,3340
+4527,Sports & Outdoors,FlexForge,16030
+4196,Beauty & Personal Care,GlowWell,8630
+1712,Electronics,BlueWave,11640
+2156,Fashion,SilkStreet,5840
+1906,Fashion,CanvasCo,7920
+4218,Sports & Outdoors,RunRidge,4380
+3337,Home & Kitchen,CasaCharm,21910
+3400,Home & Kitchen,KitchenPro,16120
+3156,Home & Kitchen,Nest&Nook,20750
+3795,Beauty & Personal Care,PureLeaf,4150
+3195,Home & Kitchen,ZenLiving,24130
+4907,Sports & Outdoors,PeakPath,30000
+3054,Home & Kitchen,ZenLiving,8640
+3838,Beauty & Personal Care,VelvetMist,9400
+3180,Home & Kitchen,Nest&Nook,27310
+1554,Electronics,BlueWave,100870
+2090,Fashion,Heritage,3940
+3113,Home & Kitchen,CasaCharm,4840
+4617,Sports & Outdoors,StaminaX,6980
+2174,Fashion,SilkStreet,3130
+2816,Home & Kitchen,Nest&Nook,6830
+2714,Home & Kitchen,CasaCharm,23690
+1120,Electronics,OrbitX,141740
+4629,Sports & Outdoors,PeakPath,20650
+1510,Electronics,Zentrix,142350
+1551,Electronics,CoreLink,34380
+1915,Fashion,SilkStreet,12000
+4503,Sports & Outdoors,RunRidge,17870
+1559,Electronics,Zentrix,93180
+3591,Beauty & Personal Care,RootRise,10000
+2590,Fashion,SilkStreet,4530
+4444,Sports & Outdoors,TrailStar,30000
+2775,Home & Kitchen,ZenLiving,19920
+4556,Sports & Outdoors,CorePlus,5020
+2410,Fashion,NorthBay,2210
+2861,Home & Kitchen,Nest&Nook,10690
+4331,Sports & Outdoors,PulseGear,30000
+1959,Fashion,UrbanThread,2630
+4727,Sports & Outdoors,TrailStar,30000
+2610,Home & Kitchen,CasaCharm,14750
+4219,Sports & Outdoors,PulseGear,3840
+4995,Sports & Outdoors,PulseGear,30000
+4616,Sports & Outdoors,RunRidge,1470
+3632,Beauty & Personal Care,GlowWell,10000
+3397,Home & Kitchen,CasaCharm,8040
+2007,Fashion,Ivory&Co,4510
+2950,Home & Kitchen,HeatWave,9470
+4835,Sports & Outdoors,StaminaX,13600
+1290,Electronics,BlueWave,134130
+1365,Electronics,GigaMax,150000
+1698,Electronics,CoreLink,71740
+1062,Electronics,ElectraNova,48290
+3629,Beauty & Personal Care,VelvetMist,4250
+4183,Beauty & Personal Care,PureLeaf,2270
+4987,Sports & Outdoors,RunRidge,14720
+1731,Electronics,ApexOne,150000
+3790,Beauty & Personal Care,HydraHue,10000
+2003,Fashion,CanvasCo,7180
+3322,Home & Kitchen,HomePulse,5810
+1894,Fashion,SilkStreet,5620
+4954,Sports & Outdoors,MotionMade,7870
+2613,Home & Kitchen,Nest&Nook,35000
+3315,Home & Kitchen,HeatWave,9880
+2418,Fashion,NorthBay,3750
+2234,Fashion,UrbanThread,4880
+1512,Electronics,ElectraNova,11750
+4441,Sports & Outdoors,StaminaX,9080
+2305,Fashion,Heritage,6400
+4994,Sports & Outdoors,PeakPath,3060
+3610,Beauty & Personal Care,SilkStrand,4250
+3486,Beauty & Personal Care,RootRise,1320
+1768,Electronics,ApexOne,79030
+3865,Beauty & Personal Care,VelvetMist,10000
+2916,Home & Kitchen,CoolBreeze,35000
+3077,Home & Kitchen,Nest&Nook,11720
+2941,Home & Kitchen,CoolBreeze,18490
+2238,Fashion,ModeMuse,4360
+2621,Home & Kitchen,ZenLiving,35000
+2149,Fashion,LunaWear,5420
+4339,Sports & Outdoors,CorePlus,23100
+2510,Fashion,UrbanThread,3340
+2575,Fashion,NorthBay,4830
+4860,Sports & Outdoors,CorePlus,12050
+2851,Home & Kitchen,HeatWave,7920
+1258,Electronics,BlueWave,18070
+4202,Sports & Outdoors,RunRidge,12300
+1967,Fashion,Ivory&Co,5620
+4187,Beauty & Personal Care,BloomNote,1820
+2534,Fashion,SilkStreet,7160
+2138,Fashion,NorthBay,8980
+2882,Home & Kitchen,CoolBreeze,12360
+3221,Home & Kitchen,CasaCharm,24210
+3356,Home & Kitchen,HomePulse,20240
+2832,Home & Kitchen,Nest&Nook,26220
+3580,Beauty & Personal Care,PureLeaf,3070
+1902,Fashion,UrbanThread,11060
+4788,Sports & Outdoors,FlexForge,7550
+1917,Fashion,ModeMuse,1540
+2674,Home & Kitchen,HeatWave,7930
+1534,Electronics,CoreLink,21210
+1476,Electronics,OrbitX,98910
+1086,Electronics,OrbitX,60190
+1180,Electronics,ElectraNova,150000
+3856,Beauty & Personal Care,BloomNote,5060
+4876,Sports & Outdoors,TrailStar,5460
+1022,Electronics,Zentrix,146420
+2002,Fashion,NorthBay,1560
+4436,Sports & Outdoors,TrailStar,4340
+3378,Home & Kitchen,CoolBreeze,26710
+4142,Beauty & Personal Care,GlowWell,3290
+4186,Beauty & Personal Care,GlowWell,10000
+2050,Fashion,SilkStreet,8860
+2188,Fashion,ModeMuse,12000
+1555,Electronics,ApexOne,150000
+1361,Electronics,ElectraNova,85560
+4504,Sports & Outdoors,PulseGear,8800
+1647,Electronics,Zentrix,78300
+3062,Home & Kitchen,HomePulse,35000
+3768,Beauty & Personal Care,VelvetMist,3570
+4893,Sports & Outdoors,StaminaX,11770
+2316,Fashion,NorthBay,5340
+4812,Sports & Outdoors,PeakPath,25470
+3936,Beauty & Personal Care,DermaDawn,10000
+2286,Fashion,UrbanThread,10330
+4705,Sports & Outdoors,TrailStar,29100
+1246,Electronics,BlueWave,84950
+4349,Sports & Outdoors,StaminaX,15430
+2996,Home & Kitchen,CasaCharm,8510
+2157,Fashion,Ivory&Co,4120
+1595,Electronics,GigaMax,55000
+3868,Beauty & Personal Care,PureLeaf,1010
+3889,Beauty & Personal Care,VelvetMist,1430
+1847,Fashion,Ivory&Co,12000
+2058,Fashion,CanvasCo,6710
+1477,Electronics,Zentrix,70490
+4670,Sports & Outdoors,PulseGear,25440
+1805,Fashion,CanvasCo,1520
+3243,Home & Kitchen,CasaCharm,10640
+2637,Home & Kitchen,KitchenPro,35000
+2291,Fashion,UrbanThread,2720
+1804,Fashion,SilkStreet,12000
+2543,Fashion,NorthBay,6990
+1681,Electronics,CoreLink,150000
+1958,Fashion,Heritage,9500
+1891,Fashion,Heritage,12000
+2367,Fashion,LunaWear,6940
+2987,Home & Kitchen,CasaCharm,28410
+3505,Beauty & Personal Care,DermaDawn,4160
+4965,Sports & Outdoors,PulseGear,30000
+4573,Sports & Outdoors,TrailStar,13780
+1026,Electronics,Zentrix,67180
+1602,Electronics,TechSphere,144160
+2492,Fashion,Ivory&Co,5570
+3689,Beauty & Personal Care,SilkStrand,7610
+2825,Home & Kitchen,HomePulse,35000
+1721,Electronics,OrbitX,27090
+2972,Home & Kitchen,AuraHome,14040
+3561,Beauty & Personal Care,BloomNote,5030
+1223,Electronics,GigaMax,133870
+3556,Beauty & Personal Care,BloomNote,3830
+4578,Sports & Outdoors,RunRidge,12750
+2566,Fashion,UrbanThread,1040
+4327,Sports & Outdoors,TrailStar,23990
+2371,Fashion,SilkStreet,12000
+3749,Beauty & Personal Care,GlowWell,4960
+1592,Electronics,ApexOne,150000
+2267,Fashion,Heritage,12000
+2131,Fashion,CanvasCo,12000
+2849,Home & Kitchen,AuraHome,9890
+1903,Fashion,LunaWear,12000
+2589,Fashion,ModeMuse,12000
+3494,Beauty & Personal Care,DermaDawn,10000
+1276,Electronics,GigaMax,104600
+3953,Beauty & Personal Care,BloomNote,5620
+3871,Beauty & Personal Care,RootRise,4710
+4665,Sports & Outdoors,PeakPath,21730
+2622,Home & Kitchen,HomePulse,10200
+1997,Fashion,Ivory&Co,6610
+4691,Sports & Outdoors,StaminaX,24370
+4348,Sports & Outdoors,TrailStar,7520
+4023,Beauty & Personal Care,RootRise,1280
+3630,Beauty & Personal Care,VelvetMist,8550
+2336,Fashion,CanvasCo,2560
+1355,Electronics,ApexOne,96280
+4662,Sports & Outdoors,PulseGear,30000
+1656,Electronics,TechSphere,21240
+2451,Fashion,CanvasCo,7420
+2019,Fashion,Heritage,2760
+3649,Beauty & Personal Care,PureLeaf,2900
+2412,Fashion,CanvasCo,5260
+2758,Home & Kitchen,HomePulse,35000
+1544,Electronics,GigaMax,84360
+2235,Fashion,Ivory&Co,4200
+3999,Beauty & Personal Care,BloomNote,7100
+3414,Beauty & Personal Care,BloomNote,10000
+1034,Electronics,GigaMax,13280
+3973,Beauty & Personal Care,DermaDawn,1200
+1284,Electronics,ApexOne,18690
+1867,Fashion,SilkStreet,12000
+4531,Sports & Outdoors,CorePlus,5660
+3385,Home & Kitchen,HeatWave,11570
+1876,Fashion,SilkStreet,4570
+3875,Beauty & Personal Care,VelvetMist,7760
+2028,Fashion,CanvasCo,5020
+1806,Fashion,Heritage,5400
+4315,Sports & Outdoors,PeakPath,30000
+1628,Electronics,GigaMax,29080
+3158,Home & Kitchen,HomePulse,14520
+4282,Sports & Outdoors,PeakPath,26370
+2372,Fashion,ModeMuse,4890
+3637,Beauty & Personal Care,GlowWell,5880
+4143,Beauty & Personal Care,HydraHue,4640
+1974,Fashion,Ivory&Co,5810
+3931,Beauty & Personal Care,RootRise,10000
+4294,Sports & Outdoors,StaminaX,16600
+2702,Home & Kitchen,Nest&Nook,35000
+3392,Home & Kitchen,KitchenPro,17960
+1441,Electronics,ApexOne,150000
+1587,Electronics,ApexOne,150000
+3979,Beauty & Personal Care,DermaDawn,4220
+1612,Electronics,GigaMax,50040
+2245,Fashion,NorthBay,3510
+1671,Electronics,GigaMax,43520
+4016,Beauty & Personal Care,VelvetMist,10000
+2665,Home & Kitchen,Nest&Nook,11360
+3592,Beauty & Personal Care,PureLeaf,5460
+2568,Fashion,NorthBay,7320
+4800,Sports & Outdoors,FlexForge,12530
+4074,Beauty & Personal Care,SilkStrand,10000
+2601,Home & Kitchen,Nest&Nook,35000
+2707,Home & Kitchen,Nest&Nook,16040
+1013,Electronics,ApexOne,150000
+4601,Sports & Outdoors,CorePlus,5150
+4804,Sports & Outdoors,PeakPath,24870
+2963,Home & Kitchen,ZenLiving,6640
+4160,Beauty & Personal Care,RootRise,1440
+2124,Fashion,SilkStreet,1790
+1977,Fashion,UrbanThread,9660
+2257,Fashion,SilkStreet,8550
+4070,Beauty & Personal Care,SilkStrand,3750
+2036,Fashion,ModeMuse,12000
+3002,Home & Kitchen,CoolBreeze,35000
+3371,Home & Kitchen,CoolBreeze,10800
+1715,Electronics,CoreLink,150000
+2067,Fashion,SilkStreet,2330
+1205,Electronics,OrbitX,150000
+1037,Electronics,ElectraNova,150000
+4922,Sports & Outdoors,FlexForge,30000
+3122,Home & Kitchen,HomePulse,20740
+3502,Beauty & Personal Care,PureLeaf,5360
+2299,Fashion,Ivory&Co,1340
+4178,Beauty & Personal Care,HydraHue,2600
+4572,Sports & Outdoors,MotionMade,29650
+3614,Beauty & Personal Care,HydraHue,7090
+1081,Electronics,ElectraNova,45960
+2520,Fashion,Heritage,3580
+4844,Sports & Outdoors,PulseGear,10730
+3791,Beauty & Personal Care,VelvetMist,10000
+2631,Home & Kitchen,KitchenPro,15260
+3578,Beauty & Personal Care,HydraHue,5510
+2280,Fashion,Heritage,12000
+3646,Beauty & Personal Care,HydraHue,7600
+2465,Fashion,SilkStreet,7020
+1603,Electronics,GigaMax,150000
+1518,Electronics,Zentrix,29940
+2085,Fashion,NorthBay,1580
+1186,Electronics,GigaMax,39820
+3987,Beauty & Personal Care,DermaDawn,4280
+4805,Sports & Outdoors,RunRidge,16250
+4914,Sports & Outdoors,TrailStar,21100
+2498,Fashion,Ivory&Co,11220
+2855,Home & Kitchen,CasaCharm,18240
+3168,Home & Kitchen,CoolBreeze,16680
+4510,Sports & Outdoors,TrailStar,9640
+3733,Beauty & Personal Care,HydraHue,1150
+3743,Beauty & Personal Care,PureLeaf,2600
+1169,Electronics,ApexOne,22950
+1775,Electronics,BlueWave,42550
+2396,Fashion,Heritage,5230
+4536,Sports & Outdoors,TrailStar,19610
+4461,Sports & Outdoors,PeakPath,10440
+3731,Beauty & Personal Care,SilkStrand,3710
+1733,Electronics,GigaMax,150000
+1650,Electronics,CoreLink,38390
+2902,Home & Kitchen,HeatWave,16780
+1154,Electronics,OrbitX,110540
+4030,Beauty & Personal Care,RootRise,10000
+3275,Home & Kitchen,KitchenPro,7240
+4062,Beauty & Personal Care,GlowWell,4270
+3984,Beauty & Personal Care,DermaDawn,4740
+1575,Electronics,TechSphere,150000
+2579,Fashion,LunaWear,3440
+2121,Fashion,UrbanThread,4290
+4094,Beauty & Personal Care,RootRise,3160
+1315,Electronics,TechSphere,122850
+2110,Fashion,NorthBay,11520
+2005,Fashion,ModeMuse,12000
+4732,Sports & Outdoors,FlexForge,30000
+1743,Electronics,CoreLink,109120
+2128,Fashion,Heritage,3690
+3573,Beauty & Personal Care,BloomNote,2590
+4646,Sports & Outdoors,TrailStar,9010
+4104,Beauty & Personal Care,HydraHue,2690
+4443,Sports & Outdoors,FlexForge,12490
+4007,Beauty & Personal Care,DermaDawn,3110
+1306,Electronics,CoreLink,150000
+1513,Electronics,OrbitX,73620
+3850,Beauty & Personal Care,BloomNote,10000
+1046,Electronics,GigaMax,45280
+4189,Beauty & Personal Care,BloomNote,9490
+3298,Home & Kitchen,KitchenPro,2400
+4740,Sports & Outdoors,FlexForge,14490
+4873,Sports & Outdoors,PulseGear,7830
+3292,Home & Kitchen,HomePulse,27990
+1598,Electronics,CoreLink,71220
+3705,Beauty & Personal Care,RootRise,10000
+4599,Sports & Outdoors,CorePlus,30000
+2433,Fashion,SilkStreet,12000
+4518,Sports & Outdoors,PeakPath,30000
+2752,Home & Kitchen,KitchenPro,4580
+4592,Sports & Outdoors,RunRidge,12010
+2009,Fashion,SilkStreet,12000
+1747,Electronics,CoreLink,150000
+2771,Home & Kitchen,CasaCharm,8550
+2091,Fashion,Heritage,3070
+3541,Beauty & Personal Care,HydraHue,3920
+1810,Fashion,SilkStreet,4650
+3499,Beauty & Personal Care,VelvetMist,3350
+4610,Sports & Outdoors,TrailStar,27200
+4046,Beauty & Personal Care,DermaDawn,6500
+4155,Beauty & Personal Care,SilkStrand,9140
+1896,Fashion,UrbanThread,12000
+1832,Fashion,ModeMuse,1040
+1710,Electronics,OrbitX,110770
+3599,Beauty & Personal Care,SilkStrand,6590
+4939,Sports & Outdoors,StaminaX,7950
+4068,Beauty & Personal Care,PureLeaf,4720
+4600,Sports & Outdoors,TrailStar,9480
+4726,Sports & Outdoors,PeakPath,30000
+2794,Home & Kitchen,ZenLiving,12570
+1336,Electronics,TechSphere,59250
+3198,Home & Kitchen,CoolBreeze,35000
+4840,Sports & Outdoors,TrailStar,14200
+3670,Beauty & Personal Care,GlowWell,10000
+4563,Sports & Outdoors,MotionMade,18040
+1285,Electronics,BlueWave,71120
+2630,Home & Kitchen,HeatWave,25070
+1393,Electronics,OrbitX,13570
+3289,Home & Kitchen,AuraHome,6600
+2913,Home & Kitchen,HomePulse,27490
+4821,Sports & Outdoors,RunRidge,30000
+4151,Beauty & Personal Care,PureLeaf,1840
+3926,Beauty & Personal Care,GlowWell,9250
+2910,Home & Kitchen,Nest&Nook,16320
+4031,Beauty & Personal Care,DermaDawn,8150
+3310,Home & Kitchen,CoolBreeze,6620
+4020,Beauty & Personal Care,DermaDawn,5170
+3135,Home & Kitchen,CoolBreeze,19230
+4367,Sports & Outdoors,PulseGear,8920
+2214,Fashion,Ivory&Co,4380
+2899,Home & Kitchen,CoolBreeze,12390
+3390,Home & Kitchen,CoolBreeze,24030
+2709,Home & Kitchen,ZenLiving,11320
+4275,Sports & Outdoors,MotionMade,6240
+4905,Sports & Outdoors,PeakPath,30000
+1616,Electronics,CoreLink,60310
+4728,Sports & Outdoors,PulseGear,17020
+4099,Beauty & Personal Care,DermaDawn,5520
+1778,Electronics,GigaMax,84660
+2763,Home & Kitchen,CoolBreeze,22190
+3146,Home & Kitchen,HeatWave,1650
+1762,Electronics,BlueWave,30830
+1697,Electronics,ApexOne,37920
+4376,Sports & Outdoors,CorePlus,30000
+1245,Electronics,TechSphere,42450
+4261,Sports & Outdoors,FlexForge,8370
+2596,Fashion,UrbanThread,5750
+2427,Fashion,Ivory&Co,5580
+4412,Sports & Outdoors,StaminaX,30000
+2136,Fashion,SilkStreet,7260
+1996,Fashion,SilkStreet,2270
+3215,Home & Kitchen,ZenLiving,32260
+3754,Beauty & Personal Care,PureLeaf,5640
+3016,Home & Kitchen,KitchenPro,29200
+2068,Fashion,UrbanThread,11530
+2723,Home & Kitchen,AuraHome,7550
+4333,Sports & Outdoors,PulseGear,12050
+1674,Electronics,ElectraNova,31880
+4420,Sports & Outdoors,FlexForge,18400
+4722,Sports & Outdoors,CorePlus,12150
+2516,Fashion,LunaWear,8100
+1634,Electronics,CoreLink,116220
+4237,Sports & Outdoors,RunRidge,30000
+3324,Home & Kitchen,HeatWave,35000
+4113,Beauty & Personal Care,SilkStrand,10000
+3787,Beauty & Personal Care,SilkStrand,1030
+2463,Fashion,Ivory&Co,12000
+4737,Sports & Outdoors,CorePlus,30000
+1685,Electronics,CoreLink,43250
+2684,Home & Kitchen,Nest&Nook,30560
+2819,Home & Kitchen,Nest&Nook,20420
+1994,Fashion,SilkStreet,7390
+2069,Fashion,UrbanThread,5360
+4364,Sports & Outdoors,CorePlus,23820
+3841,Beauty & Personal Care,GlowWell,2130
+4472,Sports & Outdoors,PeakPath,2860
+4644,Sports & Outdoors,CorePlus,30000
+2281,Fashion,SilkStreet,3830
+4609,Sports & Outdoors,PulseGear,9090
+3912,Beauty & Personal Care,VelvetMist,3220
+4877,Sports & Outdoors,TrailStar,5400
+3344,Home & Kitchen,AuraHome,6490
+4302,Sports & Outdoors,RunRidge,30000
+1638,Electronics,BlueWave,56030
+4848,Sports & Outdoors,CorePlus,8570
+4241,Sports & Outdoors,PulseGear,13500
+3726,Beauty & Personal Care,PureLeaf,7220
+2607,Home & Kitchen,Nest&Nook,16190
+2341,Fashion,LunaWear,12000
+2942,Home & Kitchen,CasaCharm,19370
+4970,Sports & Outdoors,RunRidge,30000
+2821,Home & Kitchen,HeatWave,28200
+3530,Beauty & Personal Care,PureLeaf,2160
+2917,Home & Kitchen,Nest&Nook,32790
+1344,Electronics,ApexOne,26390
+4808,Sports & Outdoors,PulseGear,27400
+1919,Fashion,LunaWear,4340
+1080,Electronics,ElectraNova,41960
+4385,Sports & Outdoors,FlexForge,12510
+4398,Sports & Outdoors,PulseGear,16000
+3874,Beauty & Personal Care,PureLeaf,7280
+2634,Home & Kitchen,HomePulse,35000
+3615,Beauty & Personal Care,SilkStrand,5040
+3757,Beauty & Personal Care,DermaDawn,1820
+1659,Electronics,TechSphere,53920
+1384,Electronics,ElectraNova,66070
+1264,Electronics,GigaMax,76580
+3176,Home & Kitchen,HomePulse,35000
+3582,Beauty & Personal Care,BloomNote,6890
+1043,Electronics,ElectraNova,150000
+2505,Fashion,Ivory&Co,5150
+3766,Beauty & Personal Care,PureLeaf,2960
+4411,Sports & Outdoors,CorePlus,30000
+2441,Fashion,UrbanThread,8600
+3086,Home & Kitchen,AuraHome,9640
+3635,Beauty & Personal Care,HydraHue,10000
+1910,Fashion,Heritage,12000
+3784,Beauty & Personal Care,VelvetMist,10000
+3098,Home & Kitchen,ZenLiving,14320
+2013,Fashion,UrbanThread,5350
+2834,Home & Kitchen,AuraHome,7270
+2828,Home & Kitchen,HomePulse,32910
+4198,Beauty & Personal Care,HydraHue,10000
+4537,Sports & Outdoors,PeakPath,16090
+2317,Fashion,UrbanThread,5410
+1771,Electronics,Zentrix,87250
+1774,Electronics,CoreLink,80760
+2946,Home & Kitchen,HeatWave,7430
+3551,Beauty & Personal Care,HydraHue,7260
+1692,Electronics,ElectraNova,87180
+4771,Sports & Outdoors,StaminaX,30000
+4697,Sports & Outdoors,StaminaX,30000
+1935,Fashion,Heritage,9380
+2887,Home & Kitchen,ZenLiving,27400
+4560,Sports & Outdoors,PeakPath,30000
+3230,Home & Kitchen,CoolBreeze,13280
+1627,Electronics,BlueWave,27530
+4903,Sports & Outdoors,PulseGear,22190
+3188,Home & Kitchen,AuraHome,35000
+1749,Electronics,ApexOne,56590
+3430,Beauty & Personal Care,GlowWell,2840
+4729,Sports & Outdoors,FlexForge,4970
+4534,Sports & Outdoors,StaminaX,2870
+4602,Sports & Outdoors,TrailStar,7580
+4512,Sports & Outdoors,CorePlus,28990
+2564,Fashion,ModeMuse,3570
+3061,Home & Kitchen,KitchenPro,14830
+2170,Fashion,NorthBay,610
+1138,Electronics,OrbitX,150000
+3812,Beauty & Personal Care,BloomNote,3880
+1655,Electronics,Zentrix,130980
+3145,Home & Kitchen,ZenLiving,19880
+3802,Beauty & Personal Care,GlowWell,7410
+1466,Electronics,BlueWave,40840
+3466,Beauty & Personal Care,SilkStrand,10000
+1066,Electronics,ElectraNova,150000
+4900,Sports & Outdoors,FlexForge,16020
+3424,Beauty & Personal Care,GlowWell,5050
+4175,Beauty & Personal Care,BloomNote,2540
+2362,Fashion,CanvasCo,12000
+3808,Beauty & Personal Care,BloomNote,4530
+1208,Electronics,CoreLink,107330
+1060,Electronics,TechSphere,150000
+3270,Home & Kitchen,ZenLiving,14480
+3720,Beauty & Personal Care,PureLeaf,6800
+1823,Fashion,LunaWear,6250
+2512,Fashion,ModeMuse,8020
+1648,Electronics,BlueWave,119540
+1304,Electronics,Zentrix,106320
+1116,Electronics,BlueWave,150000
+4669,Sports & Outdoors,PulseGear,30000
+2755,Home & Kitchen,KitchenPro,18010
+2406,Fashion,Ivory&Co,3470
+4887,Sports & Outdoors,PulseGear,8390
+2017,Fashion,CanvasCo,12000
+3511,Beauty & Personal Care,DermaDawn,3920
+1253,Electronics,TechSphere,150000
+4272,Sports & Outdoors,FlexForge,30000
+2928,Home & Kitchen,HeatWave,13920
+1713,Electronics,GigaMax,22740
+4047,Beauty & Personal Care,GlowWell,5620
+1883,Fashion,LunaWear,11060
+3717,Beauty & Personal Care,GlowWell,5360
+4932,Sports & Outdoors,StaminaX,22130
+4809,Sports & Outdoors,PeakPath,23860
+2398,Fashion,Heritage,9030
+2883,Home & Kitchen,HeatWave,3770
+3886,Beauty & Personal Care,RootRise,3340
+3989,Beauty & Personal Care,GlowWell,4480
+4147,Beauty & Personal Care,DermaDawn,10000
+2285,Fashion,Ivory&Co,5400
+4827,Sports & Outdoors,PulseGear,10520
+4181,Beauty & Personal Care,SilkStrand,2670
+3982,Beauty & Personal Care,PureLeaf,2750
+1189,Electronics,CoreLink,58130
+3510,Beauty & Personal Care,RootRise,2040
+4190,Beauty & Personal Care,SilkStrand,2550
+4448,Sports & Outdoors,FlexForge,30000
+2363,Fashion,LunaWear,5900
+3119,Home & Kitchen,CasaCharm,26990
+1135,Electronics,CoreLink,64640
+2528,Fashion,Heritage,5480
+3909,Beauty & Personal Care,HydraHue,3300
+1396,Electronics,CoreLink,150000
+2311,Fashion,NorthBay,5810
+3283,Home & Kitchen,ZenLiving,10970
+3664,Beauty & Personal Care,GlowWell,3930
+2172,Fashion,CanvasCo,1950
+2421,Fashion,SilkStreet,1670
+2639,Home & Kitchen,CoolBreeze,9640
+1617,Electronics,CoreLink,150000
+1185,Electronics,CoreLink,18990
+3076,Home & Kitchen,KitchenPro,19580
+1388,Electronics,BlueWave,46660
+3817,Beauty & Personal Care,BloomNote,1840
+2692,Home & Kitchen,CoolBreeze,20980
+2060,Fashion,CanvasCo,12000
+1266,Electronics,BlueWave,119380
+1115,Electronics,CoreLink,45020
+2200,Fashion,SilkStreet,3560
+1429,Electronics,CoreLink,58940
+1132,Electronics,ApexOne,150000
+4390,Sports & Outdoors,TrailStar,5300
+4757,Sports & Outdoors,FlexForge,5030
+3640,Beauty & Personal Care,RootRise,10000
+1924,Fashion,SilkStreet,5610
+1619,Electronics,BlueWave,150000
+4638,Sports & Outdoors,CorePlus,16630
+1594,Electronics,ElectraNova,55080
+2228,Fashion,LunaWear,6100
+3598,Beauty & Personal Care,BloomNote,10000
+3555,Beauty & Personal Care,RootRise,3590
+4173,Beauty & Personal Care,SilkStrand,1560
+1102,Electronics,ElectraNova,150000
+2868,Home & Kitchen,Nest&Nook,22670
+3090,Home & Kitchen,HomePulse,12080
+2047,Fashion,CanvasCo,12000
+4437,Sports & Outdoors,CorePlus,7070
+3089,Home & Kitchen,CasaCharm,16760
+3116,Home & Kitchen,CoolBreeze,6810
+3681,Beauty & Personal Care,GlowWell,1980
+2805,Home & Kitchen,KitchenPro,13930
+3997,Beauty & Personal Care,VelvetMist,6760
+4552,Sports & Outdoors,RunRidge,30000
+1447,Electronics,Zentrix,52350
+1221,Electronics,CoreLink,150000
+3004,Home & Kitchen,AuraHome,10140
+4489,Sports & Outdoors,PeakPath,3910
+1424,Electronics,ElectraNova,52760
+4498,Sports & Outdoors,MotionMade,19640
+3835,Beauty & Personal Care,PureLeaf,4190
+3317,Home & Kitchen,CasaCharm,35000
+1683,Electronics,CoreLink,150000
+3747,Beauty & Personal Care,DermaDawn,4860
+3464,Beauty & Personal Care,VelvetMist,6680
+2180,Fashion,CanvasCo,5190
+2766,Home & Kitchen,KitchenPro,7660
+4413,Sports & Outdoors,MotionMade,15790
+2225,Fashion,CanvasCo,1870
+4926,Sports & Outdoors,PeakPath,30000
+2377,Fashion,ModeMuse,8960
+3088,Home & Kitchen,CoolBreeze,33130
+2227,Fashion,LunaWear,5510
+2209,Fashion,Ivory&Co,11380
+3008,Home & Kitchen,AuraHome,13310
+3998,Beauty & Personal Care,DermaDawn,5460
+4244,Sports & Outdoors,MotionMade,10450
+2779,Home & Kitchen,CasaCharm,3000
+1770,Electronics,ElectraNova,150000
+1949,Fashion,NorthBay,5110
+2496,Fashion,Ivory&Co,12000
+4082,Beauty & Personal Care,RootRise,7910
+1016,Electronics,BlueWave,84200
+2416,Fashion,LunaWear,3420
+1076,Electronics,ApexOne,61870
+3876,Beauty & Personal Care,RootRise,10000
+4251,Sports & Outdoors,PulseGear,30000
+2208,Fashion,CanvasCo,4700
+2033,Fashion,Ivory&Co,5270
+3079,Home & Kitchen,KitchenPro,3170
+2693,Home & Kitchen,HeatWave,25180
+1926,Fashion,NorthBay,2570
+2108,Fashion,NorthBay,3000
+2930,Home & Kitchen,KitchenPro,32100
+2190,Fashion,NorthBay,10550
+1970,Fashion,CanvasCo,9940
+2484,Fashion,LunaWear,2100
+3338,Home & Kitchen,HomePulse,10460
+2879,Home & Kitchen,CasaCharm,35000
+4706,Sports & Outdoors,PulseGear,8140
+3816,Beauty & Personal Care,GlowWell,2090
+4752,Sports & Outdoors,MotionMade,11020
+3940,Beauty & Personal Care,SilkStrand,10000
+2612,Home & Kitchen,AuraHome,31830
+4768,Sports & Outdoors,PeakPath,9420
+1736,Electronics,OrbitX,80390
+2638,Home & Kitchen,CasaCharm,30840
+2814,Home & Kitchen,KitchenPro,5200
+3199,Home & Kitchen,KitchenPro,9230
+3666,Beauty & Personal Care,VelvetMist,10000
+1853,Fashion,SilkStreet,10430
+2797,Home & Kitchen,KitchenPro,17390
+1815,Fashion,UrbanThread,3760
+2056,Fashion,ModeMuse,3390
+4508,Sports & Outdoors,TrailStar,16180
+1699,Electronics,GigaMax,150000
+1236,Electronics,ApexOne,88540
+1668,Electronics,Zentrix,54800
+3007,Home & Kitchen,HeatWave,21920
+1316,Electronics,TechSphere,55260
+2084,Fashion,Ivory&Co,5260
+3280,Home & Kitchen,Nest&Nook,30210
+3048,Home & Kitchen,HeatWave,35000
+1936,Fashion,CanvasCo,2880
+2276,Fashion,SilkStreet,9410
+2853,Home & Kitchen,CasaCharm,16110
+4399,Sports & Outdoors,FlexForge,3890
+1569,Electronics,Zentrix,24830
+4947,Sports & Outdoors,RunRidge,18560
+4463,Sports & Outdoors,PulseGear,14540
+4108,Beauty & Personal Care,BloomNote,2980
+2122,Fashion,NorthBay,6350
+3775,Beauty & Personal Care,SilkStrand,4630
+3703,Beauty & Personal Care,DermaDawn,930
+4648,Sports & Outdoors,RunRidge,13260
+2873,Home & Kitchen,AuraHome,21300
+3869,Beauty & Personal Care,SilkStrand,10000
+1207,Electronics,OrbitX,143900
+4964,Sports & Outdoors,RunRidge,20500
+2446,Fashion,UrbanThread,5020
+2319,Fashion,ModeMuse,3680
+3897,Beauty & Personal Care,DermaDawn,3760
+3991,Beauty & Personal Care,RootRise,4090
+1308,Electronics,ElectraNova,118960
+2294,Fashion,Heritage,12000
+1690,Electronics,TechSphere,46370
+2263,Fashion,Ivory&Co,7660
+2673,Home & Kitchen,HomePulse,22090
+1730,Electronics,ElectraNova,147920
+3034,Home & Kitchen,CoolBreeze,6300
+4150,Beauty & Personal Care,GlowWell,10000
+3121,Home & Kitchen,HeatWave,35000
+2730,Home & Kitchen,Nest&Nook,6060
+2075,Fashion,CanvasCo,11570
+4923,Sports & Outdoors,PulseGear,6150
+3161,Home & Kitchen,CasaCharm,22360
+3709,Beauty & Personal Care,GlowWell,4360
+4308,Sports & Outdoors,TrailStar,14090
+4212,Sports & Outdoors,MotionMade,30000
+4770,Sports & Outdoors,CorePlus,30000
+4025,Beauty & Personal Care,PureLeaf,3820
+4991,Sports & Outdoors,PulseGear,6330
+3498,Beauty & Personal Care,SilkStrand,10000
+3227,Home & Kitchen,CasaCharm,35000
+4836,Sports & Outdoors,MotionMade,14110
+4783,Sports & Outdoors,MotionMade,880
+2423,Fashion,CanvasCo,3510
+3507,Beauty & Personal Care,PureLeaf,10000
+3096,Home & Kitchen,ZenLiving,35000
+3920,Beauty & Personal Care,PureLeaf,3080
+1380,Electronics,CoreLink,29480
+1842,Fashion,NorthBay,8570
+1252,Electronics,CoreLink,8270
+4435,Sports & Outdoors,FlexForge,26310
+4565,Sports & Outdoors,MotionMade,21470
+4833,Sports & Outdoors,FlexForge,14940
+4999,Sports & Outdoors,FlexForge,23000
+3355,Home & Kitchen,HomePulse,9770
+4862,Sports & Outdoors,CorePlus,18180
+1918,Fashion,ModeMuse,850
+1385,Electronics,ElectraNova,110260
+4323,Sports & Outdoors,MotionMade,14040
+1059,Electronics,GigaMax,89760
+2701,Home & Kitchen,AuraHome,5570
+1785,Electronics,TechSphere,11670
+4380,Sports & Outdoors,FlexForge,27460
+4088,Beauty & Personal Care,BloomNote,2870
+3512,Beauty & Personal Care,DermaDawn,9340
+2318,Fashion,Ivory&Co,5740
+2357,Fashion,NorthBay,920
+1855,Fashion,Ivory&Co,12000
+4211,Sports & Outdoors,TrailStar,30000
+2431,Fashion,ModeMuse,4200
+1019,Electronics,TechSphere,58830
+4222,Sports & Outdoors,StaminaX,17060
+4785,Sports & Outdoors,PeakPath,7450
+3124,Home & Kitchen,KitchenPro,2060
+1606,Electronics,ElectraNova,52320
+4979,Sports & Outdoors,MotionMade,22940
+3985,Beauty & Personal Care,RootRise,3740
+1345,Electronics,TechSphere,150000
+4337,Sports & Outdoors,PeakPath,17340
+2626,Home & Kitchen,HeatWave,35000
+4636,Sports & Outdoors,FlexForge,30000
+2284,Fashion,Heritage,9750
+4106,Beauty & Personal Care,SilkStrand,9400
+3846,Beauty & Personal Care,VelvetMist,5630
+3136,Home & Kitchen,ZenLiving,22040
+4263,Sports & Outdoors,TrailStar,30000
+2981,Home & Kitchen,HomePulse,4030
+1404,Electronics,CoreLink,57440
+1705,Electronics,BlueWave,105000
+3260,Home & Kitchen,Nest&Nook,29870
+3331,Home & Kitchen,HomePulse,17620
+1897,Fashion,SilkStreet,11130
+4469,Sports & Outdoors,PulseGear,30000
+4759,Sports & Outdoors,StaminaX,28390
+4902,Sports & Outdoors,FlexForge,6830
+4239,Sports & Outdoors,PeakPath,30000
+1792,Electronics,CoreLink,149570
+1524,Electronics,ApexOne,47520
+4734,Sports & Outdoors,CorePlus,6130
+1243,Electronics,ElectraNova,39250
+2958,Home & Kitchen,KitchenPro,21630
+1583,Electronics,ApexOne,150000
+1240,Electronics,ElectraNova,12230
+1418,Electronics,CoreLink,150000
+1707,Electronics,BlueWave,150000
+2205,Fashion,Heritage,2630
+1843,Fashion,SilkStreet,5540
+4291,Sports & Outdoors,PeakPath,12210
+3151,Home & Kitchen,Nest&Nook,35000
+1430,Electronics,ApexOne,44270
+1708,Electronics,GigaMax,73410
+3157,Home & Kitchen,Nest&Nook,35000
+3764,Beauty & Personal Care,RootRise,3600
+2429,Fashion,ModeMuse,12000
+2919,Home & Kitchen,CasaCharm,35000
+4816,Sports & Outdoors,FlexForge,7950
+3798,Beauty & Personal Care,SilkStrand,6300
+2184,Fashion,LunaWear,7660
+4301,Sports & Outdoors,PulseGear,30000
+4515,Sports & Outdoors,PulseGear,30000
+4940,Sports & Outdoors,StaminaX,25800
+3902,Beauty & Personal Care,VelvetMist,10000
+1961,Fashion,LunaWear,1790
+1229,Electronics,ElectraNova,69440
+1808,Fashion,CanvasCo,10940
+1938,Fashion,ModeMuse,12000
+3944,Beauty & Personal Care,GlowWell,2680
+3045,Home & Kitchen,KitchenPro,6830
+1247,Electronics,Zentrix,67720
+1187,Electronics,CoreLink,150000
+4823,Sports & Outdoors,PulseGear,4750
+1991,Fashion,Heritage,12000
+4980,Sports & Outdoors,FlexForge,7290
+1419,Electronics,TechSphere,43920
+2808,Home & Kitchen,CoolBreeze,29660
+4858,Sports & Outdoors,PulseGear,12840
+4790,Sports & Outdoors,FlexForge,14510
+4530,Sports & Outdoors,FlexForge,9450
+3296,Home & Kitchen,CoolBreeze,9720
+3163,Home & Kitchen,AuraHome,4840
+3134,Home & Kitchen,CasaCharm,26280
+1694,Electronics,OrbitX,106660
+1957,Fashion,Heritage,12000
+1329,Electronics,CoreLink,104820
+3799,Beauty & Personal Care,SilkStrand,10000
+4103,Beauty & Personal Care,VelvetMist,6180
+1494,Electronics,GigaMax,51250
+4465,Sports & Outdoors,PeakPath,30000
+4647,Sports & Outdoors,RunRidge,30000
+4871,Sports & Outdoors,PulseGear,16550
+3858,Beauty & Personal Care,SilkStrand,10000
+3716,Beauty & Personal Care,HydraHue,7700
+2189,Fashion,LunaWear,5160
+2699,Home & Kitchen,AuraHome,10540
+1665,Electronics,CoreLink,18090
+3254,Home & Kitchen,AuraHome,9210
+1946,Fashion,Heritage,8220
+1191,Electronics,BlueWave,112050
+3921,Beauty & Personal Care,GlowWell,4630
+4564,Sports & Outdoors,PulseGear,6410
+4585,Sports & Outdoors,MotionMade,30000
+4358,Sports & Outdoors,StaminaX,5680
+4304,Sports & Outdoors,PulseGear,11040
+3639,Beauty & Personal Care,RootRise,9330
+1718,Electronics,GigaMax,86160
+3827,Beauty & Personal Care,DermaDawn,3120
+1179,Electronics,ApexOne,64850
+1119,Electronics,TechSphere,98010
+1801,Fashion,Heritage,5180
+3774,Beauty & Personal Care,RootRise,2280
+2523,Fashion,ModeMuse,12000
+1142,Electronics,CoreLink,99690
+4423,Sports & Outdoors,CorePlus,18700
+3803,Beauty & Personal Care,VelvetMist,10000
+1209,Electronics,ElectraNova,11650
+1432,Electronics,ApexOne,67140
+2042,Fashion,CanvasCo,12000
+3482,Beauty & Personal Care,PureLeaf,2260
+1585,Electronics,ElectraNova,150000
+1204,Electronics,Zentrix,147970
+2425,Fashion,NorthBay,5230
+3184,Home & Kitchen,HeatWave,18940
+4176,Beauty & Personal Care,PureLeaf,6450
+2167,Fashion,Ivory&Co,3260
+4130,Beauty & Personal Care,PureLeaf,5800
+3825,Beauty & Personal Care,DermaDawn,7880
+3492,Beauty & Personal Care,SilkStrand,6630
+1547,Electronics,ElectraNova,28860
+2256,Fashion,ModeMuse,9450
+1300,Electronics,TechSphere,33240
+4075,Beauty & Personal Care,SilkStrand,6780
+1369,Electronics,CoreLink,37450
+3459,Beauty & Personal Care,BloomNote,5270
+1237,Electronics,CoreLink,84530
+4895,Sports & Outdoors,StaminaX,19910
+1349,Electronics,ElectraNova,41780
+1662,Electronics,OrbitX,37360
+1311,Electronics,GigaMax,83430
+4467,Sports & Outdoors,StaminaX,4190
+3925,Beauty & Personal Care,BloomNote,4000
+4811,Sports & Outdoors,FlexForge,19030
+1087,Electronics,CoreLink,34060
+1990,Fashion,LunaWear,3680
+4371,Sports & Outdoors,PeakPath,7430
+1271,Electronics,OrbitX,150000
+1105,Electronics,GigaMax,60290
+3431,Beauty & Personal Care,GlowWell,7270
+4452,Sports & Outdoors,PulseGear,5880
+1352,Electronics,CoreLink,150000
+2549,Fashion,CanvasCo,3420
+4283,Sports & Outdoors,MotionMade,19980
+2781,Home & Kitchen,CasaCharm,23600
+4491,Sports & Outdoors,PeakPath,15500
+1113,Electronics,Zentrix,55810
+4924,Sports & Outdoors,RunRidge,15940
+4798,Sports & Outdoors,StaminaX,10350
+2600,Fashion,CanvasCo,3280
+4309,Sports & Outdoors,FlexForge,7600
+1502,Electronics,Zentrix,92550
+2405,Fashion,ModeMuse,7480
+4774,Sports & Outdoors,RunRidge,12440
+3596,Beauty & Personal Care,BloomNote,7630
+3711,Beauty & Personal Care,SilkStrand,1880
+2080,Fashion,ModeMuse,4010
+1922,Fashion,NorthBay,6400
+4657,Sports & Outdoors,StaminaX,8400
+2414,Fashion,SilkStreet,12000
+4273,Sports & Outdoors,FlexForge,28660
+4913,Sports & Outdoors,CorePlus,11870
+3376,Home & Kitchen,Nest&Nook,15700
+2269,Fashion,CanvasCo,12000
+3826,Beauty & Personal Care,GlowWell,1130
+1450,Electronics,OrbitX,150000
+4676,Sports & Outdoors,CorePlus,20900
+1420,Electronics,GigaMax,29180
+3744,Beauty & Personal Care,GlowWell,6380
+4765,Sports & Outdoors,RunRidge,8990
+2572,Fashion,Heritage,4710
+2018,Fashion,LunaWear,3470
+1128,Electronics,ApexOne,92560
+2811,Home & Kitchen,HomePulse,16590
+1930,Fashion,LunaWear,3940
+1777,Electronics,ApexOne,150000
+2786,Home & Kitchen,AuraHome,35000
+4338,Sports & Outdoors,PeakPath,30000
+1104,Electronics,OrbitX,24960
+1363,Electronics,ApexOne,119440
+1645,Electronics,TechSphere,127900
+2012,Fashion,Ivory&Co,12000
+2838,Home & Kitchen,CoolBreeze,35000
+2708,Home & Kitchen,HomePulse,12030
+3581,Beauty & Personal Care,PureLeaf,10000
+1596,Electronics,ApexOne,21610
+4791,Sports & Outdoors,FlexForge,26010
+3878,Beauty & Personal Care,VelvetMist,8780
+3884,Beauty & Personal Care,VelvetMist,2910
+2135,Fashion,NorthBay,3480
+4169,Beauty & Personal Care,VelvetMist,1040
+4111,Beauty & Personal Care,PureLeaf,10000
+4266,Sports & Outdoors,PulseGear,18970
+2749,Home & Kitchen,AuraHome,30550
+1829,Fashion,Heritage,6440
+2625,Home & Kitchen,KitchenPro,35000
+3112,Home & Kitchen,HeatWave,18890
+2035,Fashion,ModeMuse,6730
+1354,Electronics,Zentrix,150000
+3405,Beauty & Personal Care,GlowWell,10000
+1049,Electronics,ElectraNova,150000
+3115,Home & Kitchen,HeatWave,12400
+2733,Home & Kitchen,ZenLiving,35000
+4369,Sports & Outdoors,TrailStar,17750
+2850,Home & Kitchen,KitchenPro,5570
+4497,Sports & Outdoors,PeakPath,30000
+3009,Home & Kitchen,Nest&Nook,26760
+1250,Electronics,ApexOne,150000
+1069,Electronics,TechSphere,95760
+1578,Electronics,GigaMax,17930
+2470,Fashion,Heritage,1070
+1217,Electronics,BlueWave,55980
+2052,Fashion,UrbanThread,12000
+2118,Fashion,SilkStreet,12000
+2395,Fashion,LunaWear,12000
+1337,Electronics,ElectraNova,46660
+2740,Home & Kitchen,CasaCharm,10920
+4715,Sports & Outdoors,PeakPath,6520
+4682,Sports & Outdoors,TrailStar,9400
+1800,Electronics,ApexOne,45750
+2854,Home & Kitchen,CasaCharm,12240
+1487,Electronics,ElectraNova,145010
+3847,Beauty & Personal Care,VelvetMist,10000
+1950,Fashion,SilkStreet,11340
+1118,Electronics,ElectraNova,45370
+3574,Beauty & Personal Care,HydraHue,7380
+3295,Home & Kitchen,HomePulse,18580
+2739,Home & Kitchen,AuraHome,35000
+2672,Home & Kitchen,CasaCharm,35000
+4191,Beauty & Personal Care,VelvetMist,6460
+2338,Fashion,Heritage,7140
+1075,Electronics,ApexOne,150000
+4280,Sports & Outdoors,PeakPath,10690
+2415,Fashion,NorthBay,6870
+4470,Sports & Outdoors,MotionMade,19770
+3169,Home & Kitchen,AuraHome,12440
+3472,Beauty & Personal Care,VelvetMist,7760
+2051,Fashion,NorthBay,12000
+3253,Home & Kitchen,HeatWave,8440
+4606,Sports & Outdoors,CorePlus,20010
+2517,Fashion,LunaWear,8600
+4943,Sports & Outdoors,MotionMade,11870
+1639,Electronics,ElectraNova,74140
+3084,Home & Kitchen,HeatWave,35000
+2567,Fashion,NorthBay,2970
+2971,Home & Kitchen,CasaCharm,35000
+1899,Fashion,SilkStreet,7140
+2818,Home & Kitchen,KitchenPro,3500
+2413,Fashion,LunaWear,820
+4471,Sports & Outdoors,PulseGear,17280
+2770,Home & Kitchen,Nest&Nook,28830
+4807,Sports & Outdoors,TrailStar,2280
+3183,Home & Kitchen,KitchenPro,23510
+1005,Electronics,OrbitX,150000
+3994,Beauty & Personal Care,HydraHue,1500
+3319,Home & Kitchen,CoolBreeze,35000
+1646,Electronics,GigaMax,14050
+1724,Electronics,GigaMax,29150
+3509,Beauty & Personal Care,SilkStrand,2450
+2197,Fashion,LunaWear,6660
+3309,Home & Kitchen,CasaCharm,10400
+1374,Electronics,TechSphere,150000
+2352,Fashion,NorthBay,6280
+2216,Fashion,ModeMuse,6850
+3535,Beauty & Personal Care,BloomNote,5090
+2524,Fashion,NorthBay,1590
+1840,Fashion,ModeMuse,7730
+4982,Sports & Outdoors,PulseGear,30000
+1201,Electronics,ApexOne,35680
+4080,Beauty & Personal Care,HydraHue,6830
+1319,Electronics,Zentrix,38440
+2296,Fashion,ModeMuse,5260
+1305,Electronics,OrbitX,79530
+2374,Fashion,UrbanThread,4080
+4993,Sports & Outdoors,FlexForge,6730
+3862,Beauty & Personal Care,PureLeaf,8760
+3951,Beauty & Personal Care,DermaDawn,9890
+4447,Sports & Outdoors,TrailStar,10170
+1729,Electronics,BlueWave,150000
+4123,Beauty & Personal Care,HydraHue,4170
+4547,Sports & Outdoors,MotionMade,6050
+4976,Sports & Outdoors,MotionMade,30000
+2554,Fashion,Ivory&Co,11620
+3863,Beauty & Personal Care,RootRise,5230
+4712,Sports & Outdoors,MotionMade,13370
+1622,Electronics,BlueWave,76150
+3515,Beauty & Personal Care,BloomNote,10000
+1760,Electronics,ElectraNova,25190
+4533,Sports & Outdoors,TrailStar,28930
+4543,Sports & Outdoors,RunRidge,1410
+1197,Electronics,ElectraNova,66490
+4624,Sports & Outdoors,PeakPath,23650
+1137,Electronics,GigaMax,135780
+2450,Fashion,Ivory&Co,12000
+1082,Electronics,ApexOne,144710
+2725,Home & Kitchen,KitchenPro,9460
+2335,Fashion,ModeMuse,2770
+1590,Electronics,ApexOne,8690
+2139,Fashion,LunaWear,12000
+2574,Fashion,ModeMuse,7760
+4990,Sports & Outdoors,PulseGear,30000
+2385,Fashion,CanvasCo,9440
+4681,Sports & Outdoors,TrailStar,4800
+1109,Electronics,CoreLink,149670
+4684,Sports & Outdoors,StaminaX,17310
+1124,Electronics,CoreLink,92520
+4796,Sports & Outdoors,CorePlus,30000
+3052,Home & Kitchen,ZenLiving,35000
+4899,Sports & Outdoors,StaminaX,14710
+4653,Sports & Outdoors,PulseGear,25280
+2487,Fashion,ModeMuse,3620
+2846,Home & Kitchen,KitchenPro,10030
+3236,Home & Kitchen,HomePulse,35000
+4570,Sports & Outdoors,MotionMade,21170
+4462,Sports & Outdoors,PulseGear,26510
+1117,Electronics,Zentrix,38460
+3323,Home & Kitchen,KitchenPro,3310
+3647,Beauty & Personal Care,BloomNote,2670
+4718,Sports & Outdoors,CorePlus,9720
+3014,Home & Kitchen,HomePulse,17430
+1611,Electronics,GigaMax,63390
+3634,Beauty & Personal Care,PureLeaf,1450
+3919,Beauty & Personal Care,VelvetMist,3840
+4013,Beauty & Personal Care,BloomNote,10000
+1222,Electronics,BlueWave,52340
+4314,Sports & Outdoors,RunRidge,1880
+2792,Home & Kitchen,AuraHome,5960
+3478,Beauty & Personal Care,VelvetMist,10000
+2662,Home & Kitchen,CasaCharm,35000
+3870,Beauty & Personal Care,SilkStrand,1840
+2292,Fashion,SilkStreet,12000
+4295,Sports & Outdoors,PulseGear,19580
+4126,Beauty & Personal Care,VelvetMist,4250
+2494,Fashion,ModeMuse,2380
+4859,Sports & Outdoors,CorePlus,30000
+2103,Fashion,Ivory&Co,2630
+2254,Fashion,Ivory&Co,7260
+2310,Fashion,CanvasCo,2420
+2015,Fashion,Heritage,12000
+2083,Fashion,NorthBay,8280
+1973,Fashion,Heritage,4880
+3913,Beauty & Personal Care,BloomNote,2620
+4105,Beauty & Personal Care,RootRise,1840
+1519,Electronics,ElectraNova,138230
+1819,Fashion,Heritage,3150
+1879,Fashion,ModeMuse,12000
+2906,Home & Kitchen,KitchenPro,31760
+1475,Electronics,TechSphere,37960
+3255,Home & Kitchen,CasaCharm,16350
+1130,Electronics,TechSphere,59140
+2914,Home & Kitchen,Nest&Nook,8000
+1133,Electronics,GigaMax,42930
+3262,Home & Kitchen,KitchenPro,13490
+4779,Sports & Outdoors,RunRidge,30000
+2976,Home & Kitchen,Nest&Nook,22900
+4702,Sports & Outdoors,PeakPath,11590
+2088,Fashion,Heritage,12000
+4813,Sports & Outdoors,CorePlus,5840
+1228,Electronics,Zentrix,29700
+3148,Home & Kitchen,HeatWave,31480
+1642,Electronics,ElectraNova,150000
+2207,Fashion,LunaWear,6030
+4889,Sports & Outdoors,StaminaX,11910
+4828,Sports & Outdoors,FlexForge,3580
+4663,Sports & Outdoors,FlexForge,14550
+3288,Home & Kitchen,ZenLiving,35000
+2442,Fashion,CanvasCo,4380
+3723,Beauty & Personal Care,GlowWell,6520
+2530,Fashion,Heritage,8810
+1238,Electronics,CoreLink,26350
+3025,Home & Kitchen,HeatWave,35000
+1310,Electronics,ApexOne,150000
+2504,Fashion,LunaWear,6060
+3916,Beauty & Personal Care,VelvetMist,10000
+3383,Home & Kitchen,CasaCharm,35000
+1947,Fashion,UrbanThread,9280
+2587,Fashion,Ivory&Co,10710
+3804,Beauty & Personal Care,DermaDawn,5680
+1177,Electronics,TechSphere,49220
+2437,Fashion,Heritage,12000
+1563,Electronics,ApexOne,133620
+4511,Sports & Outdoors,MotionMade,18230
+3972,Beauty & Personal Care,HydraHue,4890
+4524,Sports & Outdoors,RunRidge,14460
+3067,Home & Kitchen,CoolBreeze,28280
+3753,Beauty & Personal Care,PureLeaf,3120
+3246,Home & Kitchen,CoolBreeze,5330
+1885,Fashion,ModeMuse,12000
+3063,Home & Kitchen,AuraHome,26790
+4125,Beauty & Personal Care,RootRise,10000
+3449,Beauty & Personal Care,HydraHue,10000
+1123,Electronics,TechSphere,144220
+2748,Home & Kitchen,AuraHome,2830
+3873,Beauty & Personal Care,BloomNote,6820
+4896,Sports & Outdoors,StaminaX,30000
+4408,Sports & Outdoors,PeakPath,14550
+1953,Fashion,Heritage,6370
+1505,Electronics,TechSphere,150000
+4042,Beauty & Personal Care,RootRise,4480
+2799,Home & Kitchen,CasaCharm,22730
+2810,Home & Kitchen,HeatWave,2260
+4762,Sports & Outdoors,PulseGear,30000
+2303,Fashion,UrbanThread,6790
+3500,Beauty & Personal Care,SilkStrand,1810
+3770,Beauty & Personal Care,PureLeaf,3210
+4886,Sports & Outdoors,MotionMade,30000
+1851,Fashion,LunaWear,7470
+3311,Home & Kitchen,ZenLiving,12770
+4319,Sports & Outdoors,TrailStar,4760
+3350,Home & Kitchen,CasaCharm,24710
+3672,Beauty & Personal Care,VelvetMist,6110
+4370,Sports & Outdoors,StaminaX,5380
+4623,Sports & Outdoors,MotionMade,30000
+3735,Beauty & Personal Care,HydraHue,4940
+3531,Beauty & Personal Care,VelvetMist,10000
+2643,Home & Kitchen,HomePulse,35000
+3043,Home & Kitchen,CoolBreeze,35000
+3143,Home & Kitchen,Nest&Nook,14100
+1780,Electronics,ApexOne,69810
+4952,Sports & Outdoors,PulseGear,4120
+2864,Home & Kitchen,HeatWave,15380
+4034,Beauty & Personal Care,BloomNote,5900
+1172,Electronics,TechSphere,42920
+1175,Electronics,GigaMax,150000
+3584,Beauty & Personal Care,BloomNote,5030
+1995,Fashion,LunaWear,5680
+1793,Electronics,TechSphere,63610
+1244,Electronics,CoreLink,150000
+1448,Electronics,CoreLink,103120
+1498,Electronics,ApexOne,32630
+2046,Fashion,UrbanThread,4240
+1203,Electronics,CoreLink,54290
+2866,Home & Kitchen,AuraHome,11440
+3740,Beauty & Personal Care,HydraHue,6060
+2183,Fashion,NorthBay,2630
+2644,Home & Kitchen,KitchenPro,8680
+3374,Home & Kitchen,AuraHome,15610
+1001,Electronics,ElectraNova,34220
+2988,Home & Kitchen,Nest&Nook,9060
+1382,Electronics,CoreLink,150000
+3583,Beauty & Personal Care,HydraHue,2170
+2681,Home & Kitchen,CasaCharm,12120
+4365,Sports & Outdoors,PeakPath,30000
+3781,Beauty & Personal Care,DermaDawn,5510
+1394,Electronics,TechSphere,145330
+4960,Sports & Outdoors,MotionMade,4380
+4589,Sports & Outdoors,PeakPath,4290
+2477,Fashion,NorthBay,3080
+1029,Electronics,ApexOne,103360
+1111,Electronics,ApexOne,150000
+3883,Beauty & Personal Care,PureLeaf,3360
+4192,Beauty & Personal Care,VelvetMist,8570
+2573,Fashion,CanvasCo,2950
+1799,Electronics,ApexOne,150000
+2841,Home & Kitchen,ZenLiving,35000
+4651,Sports & Outdoors,FlexForge,10570
+4440,Sports & Outdoors,RunRidge,12310
+4550,Sports & Outdoors,MotionMade,5810
+3815,Beauty & Personal Care,RootRise,3510
+3299,Home & Kitchen,AuraHome,8000
+4320,Sports & Outdoors,FlexForge,20740
+1900,Fashion,UrbanThread,8700
+3882,Beauty & Personal Care,BloomNote,940
+4157,Beauty & Personal Care,RootRise,3530
+4347,Sports & Outdoors,CorePlus,30000
+2192,Fashion,UrbanThread,7000
+1451,Electronics,GigaMax,150000
+4519,Sports & Outdoors,PeakPath,20570
+3406,Beauty & Personal Care,HydraHue,3530
+2583,Fashion,CanvasCo,9390
+4584,Sports & Outdoors,PeakPath,8660
+4680,Sports & Outdoors,PeakPath,30000
+1006,Electronics,Zentrix,119800
+2661,Home & Kitchen,Nest&Nook,13660
+4285,Sports & Outdoors,StaminaX,13940
+4389,Sports & Outdoors,FlexForge,13900
+2037,Fashion,NorthBay,4960
+2059,Fashion,NorthBay,3350
+3577,Beauty & Personal Care,DermaDawn,3500
+4751,Sports & Outdoors,MotionMade,30000
+4523,Sports & Outdoors,StaminaX,30000
+1499,Electronics,ApexOne,45960
+4097,Beauty & Personal Care,HydraHue,4130
+4936,Sports & Outdoors,PulseGear,5670
+2246,Fashion,CanvasCo,1870
+3428,Beauty & Personal Care,SilkStrand,2540
+4748,Sports & Outdoors,RunRidge,14620
+2295,Fashion,Heritage,2270
+3387,Home & Kitchen,KitchenPro,5150
+2585,Fashion,LunaWear,1080
+2072,Fashion,SilkStreet,12000
+4354,Sports & Outdoors,RunRidge,13860
+1988,Fashion,Heritage,650
+1025,Electronics,GigaMax,138100
+2570,Fashion,SilkStreet,12000
+3277,Home & Kitchen,HeatWave,18420
+4789,Sports & Outdoors,PulseGear,13620
+3191,Home & Kitchen,CoolBreeze,24260
+4022,Beauty & Personal Care,HydraHue,5120
+2734,Home & Kitchen,CoolBreeze,15810
+4012,Beauty & Personal Care,BloomNote,10000
+3369,Home & Kitchen,HomePulse,12560
+4414,Sports & Outdoors,TrailStar,30000
+1032,Electronics,OrbitX,28220
+1063,Electronics,BlueWave,58610
+4962,Sports & Outdoors,MotionMade,26790
+3480,Beauty & Personal Care,GlowWell,1320
+2519,Fashion,SilkStreet,8680
+1340,Electronics,CoreLink,17750
+4362,Sports & Outdoors,CorePlus,12310
+1680,Electronics,TechSphere,58800
+2802,Home & Kitchen,HomePulse,12610
+1165,Electronics,CoreLink,150000
+4625,Sports & Outdoors,RunRidge,30000
+4480,Sports & Outdoors,TrailStar,10850
+1227,Electronics,ApexOne,97900
+3216,Home & Kitchen,CasaCharm,35000
+4044,Beauty & Personal Care,SilkStrand,5090
+4086,Beauty & Personal Care,RootRise,8240
+4733,Sports & Outdoors,MotionMade,7170
+1992,Fashion,Ivory&Co,12000
+2404,Fashion,Ivory&Co,6640
+1972,Fashion,Ivory&Co,12000
+4963,Sports & Outdoors,PeakPath,20980
+3906,Beauty & Personal Care,GlowWell,5900
+3930,Beauty & Personal Care,BloomNote,10000
+3037,Home & Kitchen,CoolBreeze,15660
+3690,Beauty & Personal Care,HydraHue,10000
+1225,Electronics,CoreLink,150000
+2100,Fashion,UrbanThread,12000
+1318,Electronics,TechSphere,20130
+1403,Electronics,ElectraNova,47230
+1257,Electronics,ApexOne,150000
+1467,Electronics,ElectraNova,87540
+2893,Home & Kitchen,ZenLiving,35000
+1557,Electronics,CoreLink,150000
+2823,Home & Kitchen,KitchenPro,35000
+3212,Home & Kitchen,CasaCharm,7560
+3643,Beauty & Personal Care,SilkStrand,10000
+4137,Beauty & Personal Care,PureLeaf,1630
+4918,Sports & Outdoors,CorePlus,18080
+3328,Home & Kitchen,AuraHome,7020
+4514,Sports & Outdoors,MotionMade,10720
+1312,Electronics,BlueWave,97240
+2043,Fashion,Ivory&Co,8170
+4869,Sports & Outdoors,PeakPath,30000
+3777,Beauty & Personal Care,VelvetMist,2860
+3539,Beauty & Personal Care,GlowWell,10000
+1651,Electronics,BlueWave,58770
+2064,Fashion,Heritage,12000
+2869,Home & Kitchen,Nest&Nook,35000
+2353,Fashion,UrbanThread,9990
+1871,Fashion,CanvasCo,12000
+4989,Sports & Outdoors,StaminaX,18350
+3258,Home & Kitchen,HomePulse,17850
+4496,Sports & Outdoors,RunRidge,30000
+2217,Fashion,SilkStreet,4840
+4937,Sports & Outdoors,FlexForge,30000
+3000,Home & Kitchen,CoolBreeze,35000
+1302,Electronics,ApexOne,69940
+3810,Beauty & Personal Care,DermaDawn,3410
+4814,Sports & Outdoors,TrailStar,10050
+1814,Fashion,CanvasCo,9510
+2452,Fashion,Ivory&Co,12000
+2179,Fashion,LunaWear,4210
+2032,Fashion,Ivory&Co,4360
+2271,Fashion,UrbanThread,12000
+1676,Electronics,ElectraNova,150000
+3364,Home & Kitchen,HomePulse,22910
+1267,Electronics,OrbitX,42030
+3340,Home & Kitchen,AuraHome,35000
+1216,Electronics,CoreLink,84100
+4996,Sports & Outdoors,MotionMade,30000
+2582,Fashion,Heritage,10230
+1983,Fashion,NorthBay,7390
+4040,Beauty & Personal Care,PureLeaf,5720
+1194,Electronics,BlueWave,36530
+1750,Electronics,OrbitX,49190
+1051,Electronics,Zentrix,77500
+3272,Home & Kitchen,Nest&Nook,35000
+3248,Home & Kitchen,HeatWave,35000
+3537,Beauty & Personal Care,GlowWell,8740
+2293,Fashion,SilkStreet,2550
+2307,Fashion,LunaWear,4250
+4494,Sports & Outdoors,StaminaX,11290
+3905,Beauty & Personal Care,PureLeaf,10000
+3015,Home & Kitchen,ZenLiving,34330
+1907,Fashion,SilkStreet,3760
+3739,Beauty & Personal Care,HydraHue,3510
+1351,Electronics,Zentrix,96550
+3013,Home & Kitchen,CoolBreeze,35000
+3782,Beauty & Personal Care,RootRise,1420
+4551,Sports & Outdoors,FlexForge,5120
+2985,Home & Kitchen,HeatWave,19480
+4559,Sports & Outdoors,TrailStar,7990
+4318,Sports & Outdoors,CorePlus,30000
+1395,Electronics,CoreLink,150000
+4692,Sports & Outdoors,TrailStar,11260
+4772,Sports & Outdoors,PeakPath,30000
+1376,Electronics,ApexOne,70900
+1220,Electronics,GigaMax,16750
+3493,Beauty & Personal Care,RootRise,3020
+1978,Fashion,UrbanThread,5140
+2168,Fashion,LunaWear,12000
+4605,Sports & Outdoors,PulseGear,15380
+4968,Sports & Outdoors,StaminaX,18590
+2044,Fashion,Heritage,8570
+4660,Sports & Outdoors,MotionMade,6250
+2454,Fashion,CanvasCo,11650
+4141,Beauty & Personal Care,PureLeaf,10000
+3103,Home & Kitchen,KitchenPro,35000
+2401,Fashion,Heritage,2470
+2403,Fashion,SilkStreet,910
+1503,Electronics,GigaMax,136260
+3660,Beauty & Personal Care,SilkStrand,5090
+1928,Fashion,CanvasCo,6010
+1027,Electronics,ElectraNova,150000
+2301,Fashion,Heritage,4200
+3237,Home & Kitchen,CasaCharm,16680
+3446,Beauty & Personal Care,PureLeaf,5440
+1402,Electronics,CoreLink,41320
+2328,Fashion,NorthBay,12000
+1684,Electronics,Zentrix,79110
+1786,Electronics,ApexOne,46810
+1333,Electronics,OrbitX,58820
+3313,Home & Kitchen,HeatWave,14160
+4852,Sports & Outdoors,PulseGear,7230
+2669,Home & Kitchen,Nest&Nook,35000
+1580,Electronics,BlueWave,150000
+2724,Home & Kitchen,ZenLiving,22110
+3417,Beauty & Personal Care,BloomNote,5470
+3058,Home & Kitchen,ZenLiving,8010
+1279,Electronics,TechSphere,80350
+1427,Electronics,ApexOne,142780
+3759,Beauty & Personal Care,BloomNote,2520
+1328,Electronics,GigaMax,82490
+3245,Home & Kitchen,HomePulse,7790
+3187,Home & Kitchen,HomePulse,35000
+4207,Sports & Outdoors,MotionMade,12770
+4546,Sports & Outdoors,MotionMade,24990
+4269,Sports & Outdoors,CorePlus,27460
+2078,Fashion,Heritage,12000
+1014,Electronics,CoreLink,44140
+2187,Fashion,Ivory&Co,7940
+4901,Sports & Outdoors,PeakPath,6720
+1976,Fashion,SilkStreet,3300
+4626,Sports & Outdoors,TrailStar,1940
+2424,Fashion,Ivory&Co,12000
+4683,Sports & Outdoors,RunRidge,30000
+3813,Beauty & Personal Care,DermaDawn,4820
+2016,Fashion,CanvasCo,12000
+2021,Fashion,CanvasCo,1130
+3866,Beauty & Personal Care,DermaDawn,3610
+4627,Sports & Outdoors,TrailStar,15280
+4874,Sports & Outdoors,MotionMade,9770
+4067,Beauty & Personal Care,PureLeaf,2300
+3651,Beauty & Personal Care,DermaDawn,3560
+2619,Home & Kitchen,HomePulse,24890
+4208,Sports & Outdoors,TrailStar,3980
+3274,Home & Kitchen,AuraHome,28260
+1353,Electronics,ElectraNova,150000
+2001,Fashion,SilkStreet,12000
+2457,Fashion,NorthBay,9050
+3205,Home & Kitchen,Nest&Nook,35000
+3788,Beauty & Personal Care,HydraHue,10000
+3550,Beauty & Personal Care,VelvetMist,3500
+3056,Home & Kitchen,KitchenPro,32810
+2034,Fashion,Heritage,3430
+2447,Fashion,Heritage,10390
+4763,Sports & Outdoors,PulseGear,27430
+2462,Fashion,NorthBay,1310
+2053,Fashion,SilkStreet,12000
+4077,Beauty & Personal Care,PureLeaf,550
+3412,Beauty & Personal Care,VelvetMist,7280
+3267,Home & Kitchen,HomePulse,13860
+2727,Home & Kitchen,HomePulse,18920
+3335,Home & Kitchen,CoolBreeze,7790
+1521,Electronics,GigaMax,35300
+4927,Sports & Outdoors,PulseGear,13280
+4159,Beauty & Personal Care,RootRise,4070
+1791,Electronics,ApexOne,12900
+2962,Home & Kitchen,HomePulse,16260
+3771,Beauty & Personal Care,VelvetMist,4220
+2097,Fashion,NorthBay,3020
+1537,Electronics,OrbitX,61660
+3971,Beauty & Personal Care,SilkStrand,3940
+1649,Electronics,ApexOne,18480
+4254,Sports & Outdoors,CorePlus,17780
+4775,Sports & Outdoors,FlexForge,6990
+3372,Home & Kitchen,KitchenPro,21830
+1962,Fashion,LunaWear,10750
+3977,Beauty & Personal Care,DermaDawn,10000
+4685,Sports & Outdoors,CorePlus,12090
+2137,Fashion,UrbanThread,2790
+2885,Home & Kitchen,Nest&Nook,21920
+2677,Home & Kitchen,ZenLiving,35000
+2588,Fashion,Ivory&Co,8650
+4630,Sports & Outdoors,CorePlus,16200
+3899,Beauty & Personal Care,VelvetMist,3580
+3238,Home & Kitchen,ZenLiving,11870
+4594,Sports & Outdoors,TrailStar,18970
+2689,Home & Kitchen,Nest&Nook,20080
+2343,Fashion,LunaWear,5430
+3120,Home & Kitchen,AuraHome,26650
+3278,Home & Kitchen,KitchenPro,15750
+2483,Fashion,SilkStreet,1560
+1904,Fashion,CanvasCo,12000
+2653,Home & Kitchen,HomePulse,16920
+2983,Home & Kitchen,CoolBreeze,6080
+3152,Home & Kitchen,CoolBreeze,35000
+2061,Fashion,Ivory&Co,6360
+2741,Home & Kitchen,CasaCharm,6410
+3006,Home & Kitchen,AuraHome,17090
+3159,Home & Kitchen,KitchenPro,23570
+3035,Home & Kitchen,HeatWave,35000
+4778,Sports & Outdoors,MotionMade,5130
+4194,Beauty & Personal Care,SilkStrand,8340
+3377,Home & Kitchen,Nest&Nook,2420
+2694,Home & Kitchen,HomePulse,13300
+1644,Electronics,TechSphere,24920
+4395,Sports & Outdoors,MotionMade,24420
+1530,Electronics,BlueWave,44190
+4069,Beauty & Personal Care,PureLeaf,10000
+4451,Sports & Outdoors,StaminaX,11390
+1131,Electronics,ElectraNova,49020
+4245,Sports & Outdoors,PulseGear,30000
+2994,Home & Kitchen,Nest&Nook,26210
+1984,Fashion,CanvasCo,4320
+4223,Sports & Outdoors,FlexForge,17710
+3928,Beauty & Personal Care,RootRise,7880
+1858,Fashion,Heritage,3090
+1971,Fashion,NorthBay,3630
+3247,Home & Kitchen,HeatWave,27380
+1347,Electronics,GigaMax,66660
+1121,Electronics,ApexOne,56770
+2114,Fashion,Ivory&Co,1070
+2533,Fashion,UrbanThread,12000
+2030,Fashion,UrbanThread,2910
+1031,Electronics,ElectraNova,56530
+2789,Home & Kitchen,ZenLiving,10100
+1293,Electronics,ElectraNova,106110
+2729,Home & Kitchen,ZenLiving,15480
+2774,Home & Kitchen,CasaCharm,35000
+4171,Beauty & Personal Care,DermaDawn,2700
+3915,Beauty & Personal Care,SilkStrand,10000
+4766,Sports & Outdoors,CorePlus,30000
+1723,Electronics,TechSphere,39930
+1174,Electronics,OrbitX,55670
+3562,Beauty & Personal Care,PureLeaf,10000
+4432,Sports & Outdoors,CorePlus,10510
+3797,Beauty & Personal Care,HydraHue,4490
+2801,Home & Kitchen,AuraHome,18020
+2376,Fashion,LunaWear,2570
+4957,Sports & Outdoors,PeakPath,30000
+1092,Electronics,Zentrix,85190
+4226,Sports & Outdoors,PeakPath,30000
+4894,Sports & Outdoors,MotionMade,18440
+2757,Home & Kitchen,HeatWave,35000
+3887,Beauty & Personal Care,GlowWell,5440
+3177,Home & Kitchen,HomePulse,26920
+3549,Beauty & Personal Care,DermaDawn,10000
+3960,Beauty & Personal Care,GlowWell,7130
+2290,Fashion,ModeMuse,12000
+2618,Home & Kitchen,Nest&Nook,19690
+4158,Beauty & Personal Care,SilkStrand,3230
+4152,Beauty & Personal Care,GlowWell,6700
+1148,Electronics,CoreLink,150000
+3434,Beauty & Personal Care,HydraHue,2510
+2273,Fashion,CanvasCo,3350
+1739,Electronics,TechSphere,43120
+3996,Beauty & Personal Care,HydraHue,8920
+2478,Fashion,LunaWear,8330
+4131,Beauty & Personal Care,PureLeaf,4580
+1609,Electronics,Zentrix,38010
+2206,Fashion,CanvasCo,1160
+3604,Beauty & Personal Care,HydraHue,10000
+3336,Home & Kitchen,AuraHome,11920
+4558,Sports & Outdoors,RunRidge,19130
+1453,Electronics,ElectraNova,91860
+1586,Electronics,ApexOne,89600
+4043,Beauty & Personal Care,SilkStrand,2980
+1053,Electronics,OrbitX,77230
+3281,Home & Kitchen,KitchenPro,17450
+4698,Sports & Outdoors,PeakPath,3820
+1859,Fashion,Ivory&Co,12000
+1927,Fashion,Ivory&Co,7550
+4637,Sports & Outdoors,PulseGear,6350
+4028,Beauty & Personal Care,GlowWell,1840
+4346,Sports & Outdoors,StaminaX,10290
+4586,Sports & Outdoors,PulseGear,26570
+2545,Fashion,CanvasCo,6950
+3618,Beauty & Personal Care,GlowWell,1860
+2728,Home & Kitchen,HomePulse,23540
+3927,Beauty & Personal Care,HydraHue,10000
+1101,Electronics,TechSphere,49970
+1445,Electronics,OrbitX,22760
+2309,Fashion,LunaWear,2850
+3861,Beauty & Personal Care,BloomNote,3260
+1235,Electronics,GigaMax,150000
+1484,Electronics,OrbitX,31610
+4038,Beauty & Personal Care,VelvetMist,4270
+4193,Beauty & Personal Care,GlowWell,4200
+4671,Sports & Outdoors,FlexForge,5970
+2392,Fashion,NorthBay,7640
+4335,Sports & Outdoors,PeakPath,30000
+3365,Home & Kitchen,ZenLiving,22060
+4061,Beauty & Personal Care,RootRise,10000
+3306,Home & Kitchen,ZenLiving,9260
+3607,Beauty & Personal Care,GlowWell,10000
+3099,Home & Kitchen,HomePulse,11060
+2738,Home & Kitchen,KitchenPro,12010
+2079,Fashion,NorthBay,7630
+4041,Beauty & Personal Care,GlowWell,10000
+3521,Beauty & Personal Care,RootRise,8750
+2658,Home & Kitchen,AuraHome,24640
+3956,Beauty & Personal Care,DermaDawn,3590
+3197,Home & Kitchen,ZenLiving,9270
+1516,Electronics,ElectraNova,110330
+3435,Beauty & Personal Care,PureLeaf,6290
+2177,Fashion,SilkStreet,6660
+2038,Fashion,LunaWear,12000
+3219,Home & Kitchen,AuraHome,35000
+3206,Home & Kitchen,KitchenPro,35000
+4988,Sports & Outdoors,StaminaX,9350
+3402,Beauty & Personal Care,GlowWell,2430
+2860,Home & Kitchen,CasaCharm,10110
+3039,Home & Kitchen,KitchenPro,14670
+1400,Electronics,OrbitX,134370
+1979,Fashion,Ivory&Co,2740
+3704,Beauty & Personal Care,PureLeaf,8030
+3532,Beauty & Personal Care,DermaDawn,10000
+3636,Beauty & Personal Care,VelvetMist,6530
+1434,Electronics,OrbitX,60340
+1411,Electronics,GigaMax,7620
+1309,Electronics,CoreLink,90440
+1422,Electronics,ApexOne,49070
+1561,Electronics,CoreLink,76810
+3190,Home & Kitchen,ZenLiving,3870
+4483,Sports & Outdoors,FlexForge,30000
+4817,Sports & Outdoors,PulseGear,11480
+2325,Fashion,ModeMuse,10020
+1389,Electronics,OrbitX,23940
+3821,Beauty & Personal Care,GlowWell,3220
+3071,Home & Kitchen,HeatWave,33430
+4382,Sports & Outdoors,RunRidge,12390
+4292,Sports & Outdoors,CorePlus,16710
+4526,Sports & Outdoors,PeakPath,26340
+2769,Home & Kitchen,AuraHome,35000
+1565,Electronics,Zentrix,54490
+3139,Home & Kitchen,HomePulse,27290
+4787,Sports & Outdoors,PulseGear,22090
+4334,Sports & Outdoors,FlexForge,22550
+4650,Sports & Outdoors,CorePlus,15140
+2964,Home & Kitchen,AuraHome,9420
+3659,Beauty & Personal Care,DermaDawn,9790
+4095,Beauty & Personal Care,RootRise,9900
+3503,Beauty & Personal Care,DermaDawn,5850
+4118,Beauty & Personal Care,SilkStrand,1300
+1184,Electronics,ElectraNova,41410
+1156,Electronics,ElectraNova,56680
+1170,Electronics,GigaMax,88240
+4767,Sports & Outdoors,RunRidge,9780
+3682,Beauty & Personal Care,GlowWell,9130
+3824,Beauty & Personal Care,VelvetMist,1350
+1501,Electronics,BlueWave,11380
+3538,Beauty & Personal Care,VelvetMist,7220
+3706,Beauty & Personal Care,GlowWell,3260
+4180,Beauty & Personal Care,DermaDawn,6190
+2388,Fashion,Ivory&Co,5470
+1410,Electronics,CoreLink,64490
+3204,Home & Kitchen,AuraHome,16490
+1892,Fashion,CanvasCo,11080
+1702,Electronics,ElectraNova,34560
+3265,Home & Kitchen,AuraHome,4540
+4316,Sports & Outdoors,StaminaX,6060
+1407,Electronics,Zentrix,150000
+4360,Sports & Outdoors,MotionMade,30000
+3793,Beauty & Personal Care,BloomNote,2190
+4649,Sports & Outdoors,FlexForge,30000
+3126,Home & Kitchen,CoolBreeze,35000
+3852,Beauty & Personal Care,VelvetMist,9150
+3359,Home & Kitchen,KitchenPro,2540
+3908,Beauty & Personal Care,HydraHue,10000
+1178,Electronics,BlueWave,150000
+3423,Beauty & Personal Care,DermaDawn,10000
+3427,Beauty & Personal Care,PureLeaf,5040
+4240,Sports & Outdoors,CorePlus,14160
+3569,Beauty & Personal Care,DermaDawn,1490
+3662,Beauty & Personal Care,DermaDawn,1510
+2300,Fashion,NorthBay,4060
+2332,Fashion,Heritage,5390
+4747,Sports & Outdoors,PeakPath,5020
+2342,Fashion,CanvasCo,5190
+2127,Fashion,UrbanThread,12000
+4486,Sports & Outdoors,StaminaX,20530
+2759,Home & Kitchen,CasaCharm,10410
+4603,Sports & Outdoors,FlexForge,18370
+1631,Electronics,CoreLink,54270
+4490,Sports & Outdoors,PulseGear,20330
+4228,Sports & Outdoors,PulseGear,11920
+4010,Beauty & Personal Care,BloomNote,3930
+1211,Electronics,ElectraNova,150000
+1008,Electronics,TechSphere,116480
+4898,Sports & Outdoors,RunRidge,15040
+1679,Electronics,TechSphere,41740
+4689,Sports & Outdoors,MotionMade,10580
+2599,Fashion,ModeMuse,10400
+1295,Electronics,TechSphere,41240
+2620,Home & Kitchen,HeatWave,29640
+3165,Home & Kitchen,CasaCharm,23970
+3563,Beauty & Personal Care,VelvetMist,10000
+1277,Electronics,Zentrix,54950
+1348,Electronics,ApexOne,150000
+2664,Home & Kitchen,Nest&Nook,5610
+3566,Beauty & Personal Care,SilkStrand,2800
+3102,Home & Kitchen,CoolBreeze,8680
+3080,Home & Kitchen,CoolBreeze,16570
+3312,Home & Kitchen,CoolBreeze,6950
+3029,Home & Kitchen,ZenLiving,19090
+2117,Fashion,ModeMuse,6680
+2099,Fashion,Heritage,2750
+2261,Fashion,Heritage,1610
+3728,Beauty & Personal Care,HydraHue,1630
+2806,Home & Kitchen,AuraHome,29030
+3738,Beauty & Personal Care,PureLeaf,3970
+1188,Electronics,TechSphere,58040
+3684,Beauty & Personal Care,HydraHue,4010
+2023,Fashion,ModeMuse,3750
+1964,Fashion,LunaWear,8520
+3595,Beauty & Personal Care,PureLeaf,6410
+3368,Home & Kitchen,CasaCharm,35000
+2400,Fashion,LunaWear,12000
+2202,Fashion,SilkStreet,4390
+4667,Sports & Outdoors,MotionMade,14130
+1350,Electronics,ApexOne,97160
+3420,Beauty & Personal Care,GlowWell,10000
+3437,Beauty & Personal Care,RootRise,2900
+3737,Beauty & Personal Care,PureLeaf,1990
+2606,Home & Kitchen,HeatWave,35000
+2107,Fashion,UrbanThread,2810
+4003,Beauty & Personal Care,VelvetMist,7050
+2645,Home & Kitchen,ZenLiving,35000
+2480,Fashion,ModeMuse,12000
+3401,Beauty & Personal Care,HydraHue,4810
+1607,Electronics,TechSphere,86590
+4342,Sports & Outdoors,StaminaX,13220
+4116,Beauty & Personal Care,BloomNote,5870
+1716,Electronics,GigaMax,150000
+1624,Electronics,ApexOne,102350
+2571,Fashion,UrbanThread,6600
+4972,Sports & Outdoors,FlexForge,22090
+2690,Home & Kitchen,AuraHome,24210
+3233,Home & Kitchen,HomePulse,35000
+3036,Home & Kitchen,Nest&Nook,20900
+4735,Sports & Outdoors,MotionMade,21000
+3594,Beauty & Personal Care,VelvetMist,1860
+4005,Beauty & Personal Care,HydraHue,1880
+4387,Sports & Outdoors,FlexForge,10200
+1757,Electronics,BlueWave,98650
+3947,Beauty & Personal Care,DermaDawn,6100
+3983,Beauty & Personal Care,PureLeaf,4770
+2270,Fashion,SilkStreet,9290
+1158,Electronics,BlueWave,102740
+2865,Home & Kitchen,ZenLiving,24670
+4270,Sports & Outdoors,RunRidge,24110
+1969,Fashion,Heritage,1890
+1735,Electronics,BlueWave,55460
+4562,Sports & Outdoors,StaminaX,9080
+3617,Beauty & Personal Care,VelvetMist,2930
+4303,Sports & Outdoors,FlexForge,30000
+3761,Beauty & Personal Care,RootRise,10000
+3898,Beauty & Personal Care,BloomNote,5690
+3452,Beauty & Personal Care,HydraHue,9160
+2697,Home & Kitchen,KitchenPro,35000
+4457,Sports & Outdoors,TrailStar,6200
+4841,Sports & Outdoors,MotionMade,11190
+2132,Fashion,CanvasCo,8260
+2933,Home & Kitchen,ZenLiving,22090
+3133,Home & Kitchen,KitchenPro,18380
+1604,Electronics,TechSphere,150000
+2473,Fashion,UrbanThread,8450
+1230,Electronics,TechSphere,150000
+1057,Electronics,TechSphere,37880
+2224,Fashion,ModeMuse,1770
+1036,Electronics,GigaMax,86110
+1459,Electronics,CoreLink,97080
+4293,Sports & Outdoors,TrailStar,4380
+2251,Fashion,Heritage,4540
+4945,Sports & Outdoors,PeakPath,23320
+1143,Electronics,ApexOne,84090
+3095,Home & Kitchen,CasaCharm,16290
+3440,Beauty & Personal Care,VelvetMist,7190
+3433,Beauty & Personal Care,PureLeaf,8110
+4404,Sports & Outdoors,PeakPath,13880
+1358,Electronics,TechSphere,40880
+2598,Fashion,LunaWear,4410
+3329,Home & Kitchen,AuraHome,15990
+3807,Beauty & Personal Care,SilkStrand,5460
+2956,Home & Kitchen,CoolBreeze,18090
+1153,Electronics,CoreLink,33090
+2481,Fashion,SilkStreet,11350
+3244,Home & Kitchen,AuraHome,5640
+1982,Fashion,Ivory&Co,8660
+2489,Fashion,Heritage,7160
+2668,Home & Kitchen,AuraHome,13840
+2704,Home & Kitchen,AuraHome,22720
+4258,Sports & Outdoors,RunRidge,20010
+4719,Sports & Outdoors,MotionMade,24670
+3497,Beauty & Personal Care,BloomNote,1720
+4002,Beauty & Personal Care,VelvetMist,3080
+4353,Sports & Outdoors,CorePlus,6690
+1831,Fashion,NorthBay,2140
+1966,Fashion,ModeMuse,9570
+2703,Home & Kitchen,KitchenPro,15190
+1254,Electronics,ElectraNova,139110
+4741,Sports & Outdoors,PeakPath,13230
+1268,Electronics,Zentrix,31720
+3849,Beauty & Personal Care,PureLeaf,2630
+2073,Fashion,Ivory&Co,5840
+4879,Sports & Outdoors,StaminaX,15140
+2010,Fashion,Heritage,12000
+2115,Fashion,SilkStreet,5410
+4384,Sports & Outdoors,StaminaX,30000
+2409,Fashion,UrbanThread,12000
+1160,Electronics,ElectraNova,78850
+3988,Beauty & Personal Care,RootRise,6420
+4298,Sports & Outdoors,FlexForge,6660
+1262,Electronics,BlueWave,51980
+4422,Sports & Outdoors,PeakPath,11070
+1012,Electronics,ApexOne,22270
+2196,Fashion,UrbanThread,1780
+4009,Beauty & Personal Care,BloomNote,2340
+4539,Sports & Outdoors,PeakPath,9050
+4615,Sports & Outdoors,FlexForge,5320
+1669,Electronics,Zentrix,16920
+4635,Sports & Outdoors,MotionMade,16650
+4383,Sports & Outdoors,StaminaX,27710
+1371,Electronics,BlueWave,5400
+1099,Electronics,TechSphere,146230
+4107,Beauty & Personal Care,DermaDawn,4590
+2695,Home & Kitchen,HeatWave,6330
+3699,Beauty & Personal Care,DermaDawn,5100
+3341,Home & Kitchen,KitchenPro,28910
+3702,Beauty & Personal Care,DermaDawn,10000
+1274,Electronics,TechSphere,79750
+1219,Electronics,OrbitX,25200
+3325,Home & Kitchen,AuraHome,21270
+3181,Home & Kitchen,KitchenPro,9090
+4568,Sports & Outdoors,PulseGear,30000
+1357,Electronics,GigaMax,47910
+4561,Sports & Outdoors,MotionMade,7360
+4101,Beauty & Personal Care,DermaDawn,7710
+3674,Beauty & Personal Care,PureLeaf,4740
+3525,Beauty & Personal Care,PureLeaf,4390
+1682,Electronics,CoreLink,13720
+2482,Fashion,SilkStreet,5810
+2381,Fashion,LunaWear,4060
+3773,Beauty & Personal Care,PureLeaf,4420
+4521,Sports & Outdoors,FlexForge,30000
+4051,Beauty & Personal Care,PureLeaf,3290
+3955,Beauty & Personal Care,PureLeaf,4190
+2380,Fashion,Ivory&Co,12000
+2333,Fashion,UrbanThread,3270
+1416,Electronics,BlueWave,75120
+1872,Fashion,Heritage,12000
+4760,Sports & Outdoors,TrailStar,30000
+3517,Beauty & Personal Care,PureLeaf,5810
+2490,Fashion,NorthBay,12000
+4654,Sports & Outdoors,PulseGear,14420
+3069,Home & Kitchen,HeatWave,8160
+2458,Fashion,LunaWear,9510
+2746,Home & Kitchen,Nest&Nook,8030
+2597,Fashion,Heritage,4870
+2339,Fashion,LunaWear,2480
+1828,Fashion,Heritage,3410
+1717,Electronics,GigaMax,25790
+3958,Beauty & Personal Care,SilkStrand,2080
+4325,Sports & Outdoors,StaminaX,18790
+2076,Fashion,SilkStreet,2080
+3358,Home & Kitchen,ZenLiving,12360
+2791,Home & Kitchen,ZenLiving,20420
+3760,Beauty & Personal Care,RootRise,6740
+2807,Home & Kitchen,CoolBreeze,30610
+3967,Beauty & Personal Care,PureLeaf,3080
+4587,Sports & Outdoors,PulseGear,30000
+2096,Fashion,LunaWear,6790
+2711,Home & Kitchen,KitchenPro,28350
+3327,Home & Kitchen,CoolBreeze,29490
+2909,Home & Kitchen,ZenLiving,24880
+4379,Sports & Outdoors,MotionMade,22340
+4277,Sports & Outdoors,CorePlus,6960
+4782,Sports & Outdoors,PeakPath,18430
+1428,Electronics,BlueWave,115630
+2334,Fashion,UrbanThread,3380
+4217,Sports & Outdoors,TrailStar,22150
+3727,Beauty & Personal Care,PureLeaf,10000
+1797,Electronics,TechSphere,68020
+1157,Electronics,Zentrix,70300
+1077,Electronics,GigaMax,50620
+1438,Electronics,ElectraNova,35800
+2194,Fashion,Ivory&Co,5380
+2560,Fashion,NorthBay,7310
+1948,Fashion,NorthBay,5180
+4400,Sports & Outdoors,CorePlus,30000
+4177,Beauty & Personal Care,BloomNote,2630
+4264,Sports & Outdoors,FlexForge,7870
+1065,Electronics,CoreLink,23930
+2918,Home & Kitchen,HomePulse,14760
+1183,Electronics,Zentrix,89540
+1848,Fashion,CanvasCo,12000
+3832,Beauty & Personal Care,DermaDawn,10000
+3375,Home & Kitchen,HeatWave,16410
+2593,Fashion,UrbanThread,9670
+3688,Beauty & Personal Care,VelvetMist,3350
+4969,Sports & Outdoors,PulseGear,20950
+2960,Home & Kitchen,Nest&Nook,8860
+1251,Electronics,TechSphere,43900
+1255,Electronics,ElectraNova,86190
+4361,Sports & Outdoors,FlexForge,10010
+4946,Sports & Outdoors,CorePlus,30000
+2675,Home & Kitchen,ZenLiving,11080
+4161,Beauty & Personal Care,VelvetMist,3400
+1210,Electronics,TechSphere,150000
+4425,Sports & Outdoors,TrailStar,26270
+4256,Sports & Outdoors,PulseGear,8120
+2927,Home & Kitchen,HeatWave,9390
+4377,Sports & Outdoors,MotionMade,11700
+3548,Beauty & Personal Care,PureLeaf,7380
+1841,Fashion,LunaWear,12000
+4984,Sports & Outdoors,TrailStar,24180
+3892,Beauty & Personal Care,BloomNote,2300
+4427,Sports & Outdoors,FlexForge,6330
+3391,Home & Kitchen,HomePulse,10220
+4553,Sports & Outdoors,TrailStar,15230
+1711,Electronics,ApexOne,42910
+3676,Beauty & Personal Care,GlowWell,1390
+3153,Home & Kitchen,HeatWave,14520
+1155,Electronics,TechSphere,38150
+1952,Fashion,LunaWear,1610
+2144,Fashion,Ivory&Co,2420
+1629,Electronics,TechSphere,127350
+1307,Electronics,BlueWave,26890
+3284,Home & Kitchen,AuraHome,5630
+1030,Electronics,ApexOne,75810
+2856,Home & Kitchen,HeatWave,20320
+1070,Electronics,ElectraNova,53160
+3049,Home & Kitchen,AuraHome,10600
+4078,Beauty & Personal Care,HydraHue,9770
+4300,Sports & Outdoors,PeakPath,16260
+4170,Beauty & Personal Care,GlowWell,4270
+2359,Fashion,UrbanThread,12000
+2726,Home & Kitchen,Nest&Nook,6480
+1719,Electronics,OrbitX,43900
+3363,Home & Kitchen,ZenLiving,9720
+3110,Home & Kitchen,HeatWave,4510
+3734,Beauty & Personal Care,HydraHue,10000
+3780,Beauty & Personal Care,HydraHue,1090
+4312,Sports & Outdoors,TrailStar,12270
+4110,Beauty & Personal Care,RootRise,3640
+4063,Beauty & Personal Care,HydraHue,4350
+1773,Electronics,ElectraNova,104200
+4677,Sports & Outdoors,TrailStar,4960
+3923,Beauty & Personal Care,BloomNote,5640
+1788,Electronics,OrbitX,36940
+4596,Sports & Outdoors,MotionMade,30000
+3231,Home & Kitchen,HomePulse,6420
+2387,Fashion,Ivory&Co,880
+2532,Fashion,ModeMuse,2930
+1297,Electronics,ElectraNova,112950
+1574,Electronics,CoreLink,39420
+1536,Electronics,OrbitX,63740
+4839,Sports & Outdoors,CorePlus,11580
+3904,Beauty & Personal Care,VelvetMist,2600
+1664,Electronics,Zentrix,150000
+1373,Electronics,BlueWave,71430
+1213,Electronics,OrbitX,91050
+1929,Fashion,ModeMuse,2640
+1635,Electronics,OrbitX,142750
+3304,Home & Kitchen,KitchenPro,35000
+4780,Sports & Outdoors,RunRidge,30000
+3736,Beauty & Personal Care,SilkStrand,5720
+3540,Beauty & Personal Care,VelvetMist,4460
+4204,Sports & Outdoors,CorePlus,11440
+2120,Fashion,NorthBay,3540
+3055,Home & Kitchen,CoolBreeze,35000
+4128,Beauty & Personal Care,RootRise,7860
+1067,Electronics,CoreLink,107270
+2655,Home & Kitchen,HomePulse,5440
+4373,Sports & Outdoors,StaminaX,30000
+3439,Beauty & Personal Care,HydraHue,3230
+2486,Fashion,CanvasCo,3150
+2006,Fashion,UrbanThread,2530
+2229,Fashion,UrbanThread,3880
+3729,Beauty & Personal Care,PureLeaf,1430
+2955,Home & Kitchen,HeatWave,6270
+4847,Sports & Outdoors,CorePlus,30000
+1332,Electronics,CoreLink,15690
+4163,Beauty & Personal Care,SilkStrand,2560
+4985,Sports & Outdoors,MotionMade,30000
+1261,Electronics,ApexOne,101610
+3686,Beauty & Personal Care,PureLeaf,10000
+4481,Sports & Outdoors,PulseGear,14410
+3924,Beauty & Personal Care,BloomNote,2230
+2835,Home & Kitchen,ZenLiving,35000
+3891,Beauty & Personal Care,BloomNote,2680
+1479,Electronics,Zentrix,127720
+1601,Electronics,Zentrix,11640
+1779,Electronics,TechSphere,77860
+4401,Sports & Outdoors,PeakPath,13420
+2098,Fashion,Heritage,4770
+1703,Electronics,GigaMax,135260
+1055,Electronics,CoreLink,51360
+3695,Beauty & Personal Care,HydraHue,8670
+3894,Beauty & Personal Care,DermaDawn,2770
+3003,Home & Kitchen,KitchenPro,11020
+1726,Electronics,CoreLink,15080
+1021,Electronics,TechSphere,12910
+2384,Fashion,SilkStreet,10730
+3489,Beauty & Personal Care,DermaDawn,3030
+2048,Fashion,ModeMuse,1810
+4271,Sports & Outdoors,RunRidge,21880
+1313,Electronics,TechSphere,150000
+4109,Beauty & Personal Care,PureLeaf,2050
+3829,Beauty & Personal Care,PureLeaf,2160
+2275,Fashion,SilkStreet,12000
+4460,Sports & Outdoors,MotionMade,18090
+3715,Beauty & Personal Care,GlowWell,3200
+1370,Electronics,GigaMax,58170
+1782,Electronics,ElectraNova,108760
+3877,Beauty & Personal Care,GlowWell,10000
+1398,Electronics,TechSphere,115350
+1193,Electronics,CoreLink,148960
+4076,Beauty & Personal Care,RootRise,3580
+4786,Sports & Outdoors,MotionMade,2530
+2907,Home & Kitchen,ZenLiving,14810
+2320,Fashion,ModeMuse,5090
+2624,Home & Kitchen,HomePulse,16190
+2974,Home & Kitchen,Nest&Nook,35000
+2656,Home & Kitchen,AuraHome,35000
+4195,Beauty & Personal Care,DermaDawn,10000
+4955,Sports & Outdoors,FlexForge,14730
+3316,Home & Kitchen,KitchenPro,28720
+1433,Electronics,Zentrix,148010
+3091,Home & Kitchen,KitchenPro,11270
+1278,Electronics,ElectraNova,15770
+2397,Fashion,Ivory&Co,5500
+3196,Home & Kitchen,ZenLiving,35000
+3370,Home & Kitchen,CasaCharm,6630
+3476,Beauty & Personal Care,SilkStrand,4010
+4216,Sports & Outdoors,PeakPath,28410
+3334,Home & Kitchen,CoolBreeze,8700
+1469,Electronics,ApexOne,114730
+1126,Electronics,CoreLink,97100
+2361,Fashion,UrbanThread,1710
+4793,Sports & Outdoors,StaminaX,11670
+4743,Sports & Outdoors,TrailStar,7080
+3185,Home & Kitchen,Nest&Nook,28970
+3691,Beauty & Personal Care,RootRise,1580
+2027,Fashion,Heritage,7110
+2331,Fashion,Ivory&Co,10420
+2109,Fashion,LunaWear,4540
+4910,Sports & Outdoors,StaminaX,30000
+2201,Fashion,Heritage,8570
+4053,Beauty & Personal Care,HydraHue,1910
+1321,Electronics,ElectraNova,18190
+1709,Electronics,BlueWave,66170
+4343,Sports & Outdoors,TrailStar,12400
+3416,Beauty & Personal Care,BloomNote,8570
+3959,Beauty & Personal Care,PureLeaf,4910
+4549,Sports & Outdoors,MotionMade,8130
+4276,Sports & Outdoors,MotionMade,12030
+4588,Sports & Outdoors,PeakPath,3390
+2780,Home & Kitchen,Nest&Nook,19400
+1825,Fashion,LunaWear,12000
+4749,Sports & Outdoors,CorePlus,21240
+3677,Beauty & Personal Care,SilkStrand,9540
+2943,Home & Kitchen,ZenLiving,35000
+3164,Home & Kitchen,HeatWave,3810
+4290,Sports & Outdoors,PulseGear,22530
+3142,Home & Kitchen,KitchenPro,17390
+1088,Electronics,OrbitX,60690
+1383,Electronics,BlueWave,23860
+2469,Fashion,UrbanThread,5550
+3346,Home & Kitchen,HomePulse,26280
+1913,Fashion,LunaWear,6320
+4731,Sports & Outdoors,PeakPath,11870
+1486,Electronics,CoreLink,32660
+4238,Sports & Outdoors,PulseGear,25390
+1727,Electronics,TechSphere,129820
+3745,Beauty & Personal Care,HydraHue,5470
+3836,Beauty & Personal Care,RootRise,10000
+3962,Beauty & Personal Care,SilkStrand,8940
+4597,Sports & Outdoors,StaminaX,5690
+2591,Fashion,LunaWear,3230
+4781,Sports & Outdoors,StaminaX,13480
+3438,Beauty & Personal Care,HydraHue,5240
+2086,Fashion,CanvasCo,12000
+2386,Fashion,Ivory&Co,12000
+2468,Fashion,UrbanThread,2250
+3470,Beauty & Personal Care,DermaDawn,7180
+2813,Home & Kitchen,ZenLiving,22460
+1523,Electronics,CoreLink,31490
+3628,Beauty & Personal Care,GlowWell,3910
+4541,Sports & Outdoors,MotionMade,14210
+3182,Home & Kitchen,HeatWave,21470
+2698,Home & Kitchen,ZenLiving,2670
+4854,Sports & Outdoors,RunRidge,30000
+2744,Home & Kitchen,HeatWave,16830
+4632,Sports & Outdoors,StaminaX,30000
+3425,Beauty & Personal Care,SilkStrand,4060
+3203,Home & Kitchen,HeatWave,18090
+2870,Home & Kitchen,HomePulse,15770
+3961,Beauty & Personal Care,BloomNote,4310
+2592,Fashion,NorthBay,2320
+1567,Electronics,TechSphere,150000
+3935,Beauty & Personal Care,SilkStrand,10000
+1045,Electronics,TechSphere,44040
+1549,Electronics,OrbitX,150000
+3252,Home & Kitchen,HomePulse,18340
+3693,Beauty & Personal Care,BloomNote,3110
+1653,Electronics,TechSphere,75040
+1122,Electronics,OrbitX,61530
+4961,Sports & Outdoors,MotionMade,13040
+4488,Sports & Outdoors,PulseGear,14870
+2178,Fashion,NorthBay,5020
+4386,Sports & Outdoors,MotionMade,8530
+4049,Beauty & Personal Care,RootRise,4000
+2375,Fashion,CanvasCo,8000
+3859,Beauty & Personal Care,RootRise,8320
+3922,Beauty & Personal Care,SilkStrand,6130
+1738,Electronics,BlueWave,86910
+3235,Home & Kitchen,CoolBreeze,33410
+4951,Sports & Outdoors,FlexForge,12420
+4591,Sports & Outdoors,StaminaX,4030
+3357,Home & Kitchen,HomePulse,6720
+2024,Fashion,Heritage,12000
+2102,Fashion,Ivory&Co,7840
+2493,Fashion,Heritage,3570
+3910,Beauty & Personal Care,HydraHue,8550
+3444,Beauty & Personal Care,HydraHue,1570
+2895,Home & Kitchen,ZenLiving,15260
+2842,Home & Kitchen,CasaCharm,35000
+1981,Fashion,ModeMuse,5450
+2181,Fashion,Heritage,3560
+3234,Home & Kitchen,Nest&Nook,18770
+4633,Sports & Outdoors,CorePlus,10070
+1686,Electronics,ApexOne,150000
+3679,Beauty & Personal Care,HydraHue,6430
+2787,Home & Kitchen,CoolBreeze,35000
+4872,Sports & Outdoors,TrailStar,10210
+2857,Home & Kitchen,CasaCharm,4820
+3527,Beauty & Personal Care,DermaDawn,3190
+4417,Sports & Outdoors,RunRidge,11740
+3259,Home & Kitchen,CoolBreeze,19190
+1765,Electronics,ApexOne,60910
+1490,Electronics,OrbitX,36370
+1298,Electronics,ElectraNova,56500
+1812,Fashion,NorthBay,930
+3455,Beauty & Personal Care,BloomNote,1350
+1888,Fashion,Heritage,12000
+2282,Fashion,Ivory&Co,3470
+2833,Home & Kitchen,KitchenPro,17920
+4613,Sports & Outdoors,RunRidge,13670
+3783,Beauty & Personal Care,DermaDawn,10000
+1375,Electronics,CoreLink,18530
+4795,Sports & Outdoors,RunRidge,12780
+4695,Sports & Outdoors,StaminaX,15880
+4725,Sports & Outdoors,MotionMade,28610
+2890,Home & Kitchen,ZenLiving,31330
+4146,Beauty & Personal Care,VelvetMist,7820
+3117,Home & Kitchen,Nest&Nook,35000
+2479,Fashion,UrbanThread,5910
+3903,Beauty & Personal Care,BloomNote,5920
+4391,Sports & Outdoors,PeakPath,28670
+2609,Home & Kitchen,CoolBreeze,25550
+2279,Fashion,NorthBay,12000
+3673,Beauty & Personal Care,BloomNote,4610
+3602,Beauty & Personal Care,SilkStrand,10000
+1314,Electronics,BlueWave,142760
+2908,Home & Kitchen,HomePulse,28790
+1526,Electronics,TechSphere,150000
+4066,Beauty & Personal Care,DermaDawn,10000
+1346,Electronics,ApexOne,47990
+4500,Sports & Outdoors,PulseGear,13450
+2691,Home & Kitchen,CasaCharm,15200
+1039,Electronics,CoreLink,150000
+2054,Fashion,UrbanThread,4230
+4755,Sports & Outdoors,RunRidge,4460
+1562,Electronics,TechSphere,150000
+2464,Fashion,CanvasCo,1820
+2159,Fashion,NorthBay,3360
+1956,Fashion,Heritage,4810
+2220,Fashion,LunaWear,1400
+2040,Fashion,CanvasCo,12000
+1437,Electronics,CoreLink,150000
+3663,Beauty & Personal Care,VelvetMist,1210
+4679,Sports & Outdoors,MotionMade,13560
+3179,Home & Kitchen,CasaCharm,25060
+3250,Home & Kitchen,ZenLiving,7770
+3809,Beauty & Personal Care,DermaDawn,2900
+4776,Sports & Outdoors,PeakPath,8380
+2000,Fashion,SilkStreet,7450
+2815,Home & Kitchen,ZenLiving,24630
+3547,Beauty & Personal Care,SilkStrand,1740
+3125,Home & Kitchen,CoolBreeze,11640
+1096,Electronics,Zentrix,28400
+3571,Beauty & Personal Care,GlowWell,8950
+2266,Fashion,CanvasCo,6920
+1162,Electronics,OrbitX,64000
+2221,Fashion,UrbanThread,10640
+2355,Fashion,NorthBay,12000
+2829,Home & Kitchen,AuraHome,11640
+3050,Home & Kitchen,HeatWave,12060
+2553,Fashion,Ivory&Co,12000
+4139,Beauty & Personal Care,VelvetMist,1410
+4949,Sports & Outdoors,RunRidge,7240
+1483,Electronics,BlueWave,79570
+1234,Electronics,ElectraNova,39760
+4794,Sports & Outdoors,CorePlus,10460
+2175,Fashion,ModeMuse,4830
+2686,Home & Kitchen,Nest&Nook,2720
+4507,Sports & Outdoors,TrailStar,5450
+2773,Home & Kitchen,CoolBreeze,26530
+1725,Electronics,Zentrix,44730
+4429,Sports & Outdoors,PeakPath,29700
+4267,Sports & Outdoors,PeakPath,4210
+4442,Sports & Outdoors,PulseGear,30000
+1317,Electronics,BlueWave,84380
+1387,Electronics,Zentrix,22410
+3831,Beauty & Personal Care,SilkStrand,5600
+3085,Home & Kitchen,KitchenPro,35000
+3458,Beauty & Personal Care,HydraHue,1740
+3351,Home & Kitchen,KitchenPro,6230
+1144,Electronics,CoreLink,45160
+3603,Beauty & Personal Care,VelvetMist,3210
+4717,Sports & Outdoors,TrailStar,30000
+1480,Electronics,TechSphere,51170
+2944,Home & Kitchen,Nest&Nook,8000
+4935,Sports & Outdoors,PeakPath,30000
+4724,Sports & Outdoors,StaminaX,26510
+3501,Beauty & Personal Care,VelvetMist,2420
+2659,Home & Kitchen,HomePulse,2310
+4634,Sports & Outdoors,PeakPath,30000
+3654,Beauty & Personal Care,PureLeaf,10000
+2537,Fashion,Ivory&Co,8290
+1954,Fashion,Ivory&Co,1740
+1020,Electronics,Zentrix,98920
+3814,Beauty & Personal Care,SilkStrand,4290
+4230,Sports & Outdoors,CorePlus,30000
+2240,Fashion,Heritage,12000
+2143,Fashion,SilkStreet,12000
+1654,Electronics,GigaMax,103610
+4520,Sports & Outdoors,RunRidge,5730
+2130,Fashion,CanvasCo,2040
+2980,Home & Kitchen,Nest&Nook,11280
+1667,Electronics,BlueWave,13740
+2998,Home & Kitchen,ZenLiving,6090
+1912,Fashion,CanvasCo,8000
+2541,Fashion,UrbanThread,7120
+3210,Home & Kitchen,KitchenPro,11170
+3456,Beauty & Personal Care,VelvetMist,9640
+1866,Fashion,Ivory&Co,4270
+4037,Beauty & Personal Care,VelvetMist,9120
+2165,Fashion,ModeMuse,4690
+1754,Electronics,GigaMax,65620
+3072,Home & Kitchen,CasaCharm,27660
+3118,Home & Kitchen,CoolBreeze,21730
+2924,Home & Kitchen,ZenLiving,25880
+2288,Fashion,LunaWear,12000
+4614,Sports & Outdoors,MotionMade,17910
+1818,Fashion,Heritage,9640
+4229,Sports & Outdoors,CorePlus,7430
+3381,Home & Kitchen,AuraHome,35000
+4434,Sports & Outdoors,CorePlus,10630
+1146,Electronics,CoreLink,150000
+1151,Electronics,BlueWave,81800
+2348,Fashion,LunaWear,12000
+2467,Fashion,SilkStreet,3100
+1942,Fashion,UrbanThread,12000
+2218,Fashion,CanvasCo,10890
+1987,Fashion,ModeMuse,5030
+3218,Home & Kitchen,HomePulse,8000
+3986,Beauty & Personal Care,DermaDawn,4260
+2210,Fashion,CanvasCo,12000
+1652,Electronics,CoreLink,68500
+3114,Home & Kitchen,CoolBreeze,35000
+1911,Fashion,CanvasCo,12000
+1884,Fashion,Ivory&Co,8560
+2623,Home & Kitchen,HeatWave,10900
+2153,Fashion,CanvasCo,9040
+1474,Electronics,ApexOne,48360
+1167,Electronics,CoreLink,90050
+1796,Electronics,OrbitX,57370
+1500,Electronics,ElectraNova,36400
+3220,Home & Kitchen,CasaCharm,5180
+1335,Electronics,BlueWave,53720
+3097,Home & Kitchen,KitchenPro,35000
+1231,Electronics,GigaMax,77460
+1098,Electronics,ElectraNova,29520
+4305,Sports & Outdoors,StaminaX,30000
+3222,Home & Kitchen,ZenLiving,11280
+1436,Electronics,Zentrix,38640
+3980,Beauty & Personal Care,RootRise,3600
+3332,Home & Kitchen,HeatWave,15960
+4322,Sports & Outdoors,StaminaX,16810
+2370,Fashion,Heritage,4410
+4819,Sports & Outdoors,MotionMade,24730
+1945,Fashion,Heritage,3750
+2081,Fashion,NorthBay,6580
+3661,Beauty & Personal Care,BloomNote,10000
+4299,Sports & Outdoors,PeakPath,24090
+3932,Beauty & Personal Care,BloomNote,4280
+3404,Beauty & Personal Care,BloomNote,10000
+3308,Home & Kitchen,KitchenPro,23980
+4236,Sports & Outdoors,TrailStar,10400
+2324,Fashion,SilkStreet,5950
+1658,Electronics,CoreLink,59850
+4428,Sports & Outdoors,PulseGear,17650
+1657,Electronics,Zentrix,150000
+1753,Electronics,ApexOne,35080
+4409,Sports & Outdoors,TrailStar,14860
+3030,Home & Kitchen,HeatWave,14990
+1139,Electronics,TechSphere,150000
+4197,Beauty & Personal Care,PureLeaf,8320
+1632,Electronics,ApexOne,150000
+2678,Home & Kitchen,ZenLiving,35000
+3200,Home & Kitchen,HeatWave,33620
+1621,Electronics,CoreLink,67640
+4831,Sports & Outdoors,StaminaX,8370
+2604,Home & Kitchen,HeatWave,35000
+3461,Beauty & Personal Care,VelvetMist,6490
+2580,Fashion,UrbanThread,4400
+3601,Beauty & Personal Care,SilkStrand,1950
+2649,Home & Kitchen,CasaCharm,13990
+3506,Beauty & Personal Care,DermaDawn,3520
+2617,Home & Kitchen,HomePulse,19100
+4357,Sports & Outdoors,StaminaX,30000
+3700,Beauty & Personal Care,VelvetMist,5860
+2526,Fashion,Ivory&Co,6680
+1173,Electronics,ElectraNova,104390
+1588,Electronics,ApexOne,150000
+2605,Home & Kitchen,HeatWave,11050
+3952,Beauty & Personal Care,BloomNote,6680
+4132,Beauty & Personal Care,HydraHue,3850
+2715,Home & Kitchen,HomePulse,14580
+2548,Fashion,LunaWear,7360
+1728,Electronics,ApexOne,38080
+4017,Beauty & Personal Care,BloomNote,2700
+3017,Home & Kitchen,CoolBreeze,3580
+1488,Electronics,ApexOne,150000
+4837,Sports & Outdoors,CorePlus,12260
+1625,Electronics,ApexOne,150000
+3465,Beauty & Personal Care,DermaDawn,2450
+2146,Fashion,CanvasCo,12000
+4622,Sports & Outdoors,StaminaX,10050
+4114,Beauty & Personal Care,BloomNote,8410
+2633,Home & Kitchen,HomePulse,35000
+4810,Sports & Outdoors,PeakPath,1850
+2158,Fashion,NorthBay,6330
+1741,Electronics,TechSphere,150000
+2199,Fashion,LunaWear,4410
+2049,Fashion,Ivory&Co,4440
+3969,Beauty & Personal Care,HydraHue,6360
+1152,Electronics,BlueWave,48230
+2195,Fashion,ModeMuse,9670
+2213,Fashion,ModeMuse,2270
+1618,Electronics,CoreLink,133370
+1283,Electronics,GigaMax,55700
+3523,Beauty & Personal Care,DermaDawn,10000
+2461,Fashion,UrbanThread,2950
+4699,Sports & Outdoors,PeakPath,30000
+1864,Fashion,UrbanThread,6720
+3495,Beauty & Personal Care,GlowWell,5170
+1125,Electronics,ApexOne,60090
+4351,Sports & Outdoors,FlexForge,14870
+2373,Fashion,Heritage,3970
+2346,Fashion,UrbanThread,2920
+3833,Beauty & Personal Care,VelvetMist,10000
+2297,Fashion,NorthBay,12000
+3229,Home & Kitchen,CoolBreeze,7420
+4098,Beauty & Personal Care,VelvetMist,3420
+2166,Fashion,LunaWear,12000
+1409,Electronics,ApexOne,150000
+2536,Fashion,SilkStreet,2400
+4242,Sports & Outdoors,FlexForge,13360
+4687,Sports & Outdoors,StaminaX,1840
+3462,Beauty & Personal Care,GlowWell,1610
+3981,Beauty & Personal Care,PureLeaf,10000
+3395,Home & Kitchen,CasaCharm,6110
+3046,Home & Kitchen,AuraHome,5480
+3725,Beauty & Personal Care,SilkStrand,9340
+5000,Sports & Outdoors,PeakPath,4910
+1520,Electronics,TechSphere,150000
+3021,Home & Kitchen,AuraHome,25150
+1303,Electronics,OrbitX,79920
+4057,Beauty & Personal Care,RootRise,3550
+1038,Electronics,OrbitX,150000
+4912,Sports & Outdoors,TrailStar,12360
+4243,Sports & Outdoors,PulseGear,30000
+3147,Home & Kitchen,HeatWave,23820
+3719,Beauty & Personal Care,RootRise,3370
+4929,Sports & Outdoors,TrailStar,11400
+4666,Sports & Outdoors,RunRidge,7060
+4709,Sports & Outdoors,CorePlus,12130
+2935,Home & Kitchen,HeatWave,10720
+1599,Electronics,GigaMax,149790
+3860,Beauty & Personal Care,VelvetMist,5520
+1869,Fashion,ModeMuse,2620
+1460,Electronics,ApexOne,150000
+1522,Electronics,TechSphere,52970
+4234,Sports & Outdoors,PeakPath,3150
+1163,Electronics,BlueWave,40600
+2539,Fashion,UrbanThread,12000
+4321,Sports & Outdoors,FlexForge,30000
+2628,Home & Kitchen,CoolBreeze,19550
+1287,Electronics,BlueWave,19350
+2502,Fashion,NorthBay,7390
+2430,Fashion,NorthBay,3670
+1242,Electronics,OrbitX,150000
+2803,Home & Kitchen,HomePulse,28110
+2163,Fashion,ModeMuse,12000
+1454,Electronics,Zentrix,60390
+2822,Home & Kitchen,KitchenPro,20680
+1141,Electronics,ApexOne,56320
+2629,Home & Kitchen,ZenLiving,4080
+1675,Electronics,TechSphere,68240
+2070,Fashion,NorthBay,12000
+2237,Fashion,CanvasCo,3060
+2152,Fashion,LunaWear,6620
+1543,Electronics,Zentrix,77630
+1259,Electronics,ElectraNova,40310
+2485,Fashion,NorthBay,4240
+1056,Electronics,CoreLink,47340
+1423,Electronics,TechSphere,68910
+3201,Home & Kitchen,CasaCharm,16100
+1415,Electronics,Zentrix,121000
+2647,Home & Kitchen,CoolBreeze,5310
+1955,Fashion,ModeMuse,6530
+3656,Beauty & Personal Care,RootRise,6840
+3001,Home & Kitchen,CasaCharm,12960
+4056,Beauty & Personal Care,RootRise,2530
+2252,Fashion,SilkStreet,12000
+3914,Beauty & Personal Care,SilkStrand,10000
+3026,Home & Kitchen,HomePulse,6800
+2182,Fashion,NorthBay,12000
+3570,Beauty & Personal Care,SilkStrand,1200
+1986,Fashion,LunaWear,12000
+4930,Sports & Outdoors,RunRidge,16210
+4942,Sports & Outdoors,TrailStar,30000
+4403,Sports & Outdoors,MotionMade,4880
+1164,Electronics,Zentrix,69070
+3441,Beauty & Personal Care,SilkStrand,3060
+3473,Beauty & Personal Care,SilkStrand,6470
+2527,Fashion,Heritage,1240
+1803,Fashion,LunaWear,5530
+2506,Fashion,Ivory&Co,9220
+4475,Sports & Outdoors,CorePlus,15500
+4714,Sports & Outdoors,RunRidge,2810
+4060,Beauty & Personal Care,BloomNote,10000
+4797,Sports & Outdoors,TrailStar,30000
+2646,Home & Kitchen,Nest&Nook,15370
+2557,Fashion,SilkStreet,1830
+1281,Electronics,CoreLink,25090
+1600,Electronics,BlueWave,57770
+2925,Home & Kitchen,HomePulse,7530
+1807,Fashion,CanvasCo,12000
+2809,Home & Kitchen,KitchenPro,5530
+2077,Fashion,SilkStreet,4820
+2262,Fashion,ModeMuse,1390
+4864,Sports & Outdoors,TrailStar,21360
+2029,Fashion,Heritage,9840
+3144,Home & Kitchen,Nest&Nook,1420
+1176,Electronics,CoreLink,150000
+2743,Home & Kitchen,AuraHome,9440
+1643,Electronics,GigaMax,40980
+3627,Beauty & Personal Care,PureLeaf,10000
+1224,Electronics,OrbitX,150000
+1079,Electronics,GigaMax,83660
+1325,Electronics,Zentrix,19440
+2542,Fashion,LunaWear,12000
+1463,Electronics,ElectraNova,102420
+4882,Sports & Outdoors,CorePlus,20170
+4310,Sports & Outdoors,TrailStar,17900
+2241,Fashion,SilkStreet,12000
+3442,Beauty & Personal Care,PureLeaf,1110
+4426,Sports & Outdoors,MotionMade,19650
+4221,Sports & Outdoors,TrailStar,30000
+1377,Electronics,Zentrix,59130
+2265,Fashion,CanvasCo,12000
+1492,Electronics,TechSphere,27180
+4213,Sports & Outdoors,RunRidge,21750
+4830,Sports & Outdoors,PulseGear,7420
+3929,Beauty & Personal Care,GlowWell,3440
+2074,Fashion,CanvasCo,12000
+1449,Electronics,OrbitX,31250
+4345,Sports & Outdoors,CorePlus,24230
+3978,Beauty & Personal Care,GlowWell,10000
+4931,Sports & Outdoors,CorePlus,6970
+3106,Home & Kitchen,AuraHome,10010
+2203,Fashion,NorthBay,12000
+2671,Home & Kitchen,HomePulse,11220
+4355,Sports & Outdoors,TrailStar,24570
+3068,Home & Kitchen,CoolBreeze,10500
+2754,Home & Kitchen,ZenLiving,15520
+3633,Beauty & Personal Care,HydraHue,1390
+2843,Home & Kitchen,CoolBreeze,16450
+1677,Electronics,Zentrix,39670
+3460,Beauty & Personal Care,SilkStrand,4490
+3352,Home & Kitchen,HeatWave,14440
+4456,Sports & Outdoors,RunRidge,9620
+1527,Electronics,Zentrix,45290
+1722,Electronics,Zentrix,100920
+2434,Fashion,CanvasCo,9970
+4736,Sports & Outdoors,MotionMade,9790
+2875,Home & Kitchen,CasaCharm,32510
+4479,Sports & Outdoors,RunRidge,21670
+1504,Electronics,BlueWave,150000
+4700,Sports & Outdoors,FlexForge,26250
+3027,Home & Kitchen,HeatWave,35000
+4973,Sports & Outdoors,RunRidge,3180
+3194,Home & Kitchen,HomePulse,6560
+3756,Beauty & Personal Care,VelvetMist,4040
+2745,Home & Kitchen,KitchenPro,7770
+2411,Fashion,ModeMuse,8990
+2092,Fashion,Heritage,12000
+4517,Sports & Outdoors,MotionMade,18150
+3293,Home & Kitchen,HeatWave,30910
+4015,Beauty & Personal Care,BloomNote,3900
+4675,Sports & Outdoors,TrailStar,23860
+1579,Electronics,ApexOne,105860
+3939,Beauty & Personal Care,DermaDawn,2160
+4328,Sports & Outdoors,MotionMade,9300
+1241,Electronics,GigaMax,99250
+4567,Sports & Outdoors,StaminaX,7710
+4557,Sports & Outdoors,CorePlus,23750
+4039,Beauty & Personal Care,SilkStrand,5210
+1275,Electronics,TechSphere,70460
+3393,Home & Kitchen,CasaCharm,33980
+3104,Home & Kitchen,CasaCharm,11020
+1206,Electronics,Zentrix,150000
+1908,Fashion,CanvasCo,2350
+1166,Electronics,Zentrix,143740
+4707,Sports & Outdoors,CorePlus,27480
+1693,Electronics,BlueWave,74500
+1068,Electronics,BlueWave,42720
+2611,Home & Kitchen,ZenLiving,17610
+3445,Beauty & Personal Care,BloomNote,9700
+1084,Electronics,BlueWave,62990
+1058,Electronics,Zentrix,22960
+2350,Fashion,ModeMuse,760
+2022,Fashion,ModeMuse,5200
+3718,Beauty & Personal Care,VelvetMist,1660
+2753,Home & Kitchen,HeatWave,5280
+3963,Beauty & Personal Care,BloomNote,3040
+4313,Sports & Outdoors,FlexForge,30000
+2858,Home & Kitchen,AuraHome,19120
+3934,Beauty & Personal Care,HydraHue,1080
+1742,Electronics,Zentrix,37270
+3226,Home & Kitchen,Nest&Nook,35000
+4203,Sports & Outdoors,StaminaX,9000
+4959,Sports & Outdoors,MotionMade,5100
+3652,Beauty & Personal Care,RootRise,2830
+1581,Electronics,Zentrix,150000
+3741,Beauty & Personal Care,VelvetMist,10000
+1963,Fashion,SilkStreet,12000
+3354,Home & Kitchen,HeatWave,24580
+2513,Fashion,ModeMuse,12000
+2635,Home & Kitchen,HeatWave,23990
+2871,Home & Kitchen,CasaCharm,35000
+3519,Beauty & Personal Care,HydraHue,1470
+2966,Home & Kitchen,KitchenPro,24380
+3572,Beauty & Personal Care,SilkStrand,4750
+4431,Sports & Outdoors,FlexForge,4930
+2696,Home & Kitchen,Nest&Nook,13920
+2894,Home & Kitchen,Nest&Nook,11160
+2831,Home & Kitchen,CoolBreeze,5940
+4916,Sports & Outdoors,RunRidge,30000
+1368,Electronics,ElectraNova,99520
+4485,Sports & Outdoors,PeakPath,30000
+3477,Beauty & Personal Care,VelvetMist,4700
+3132,Home & Kitchen,HeatWave,23410
+3554,Beauty & Personal Care,DermaDawn,3530
+1817,Fashion,ModeMuse,4870
+1003,Electronics,Zentrix,150000
+2926,Home & Kitchen,AuraHome,14510
+1934,Fashion,UrbanThread,8310
+2986,Home & Kitchen,KitchenPro,7590
+1748,Electronics,ApexOne,150000
+4121,Beauty & Personal Care,DermaDawn,10000
+1532,Electronics,ApexOne,87580
+2938,Home & Kitchen,ZenLiving,35000
+3249,Home & Kitchen,HeatWave,16000
+1392,Electronics,ElectraNova,72550
+3943,Beauty & Personal Care,DermaDawn,10000
+2939,Home & Kitchen,HomePulse,7700
+1573,Electronics,CoreLink,33100
+2045,Fashion,Ivory&Co,2240
+2731,Home & Kitchen,ZenLiving,35000
+2304,Fashion,Heritage,5770
+3173,Home & Kitchen,ZenLiving,7980
+4164,Beauty & Personal Care,VelvetMist,3300
+4405,Sports & Outdoors,FlexForge,30000
+1889,Fashion,SilkStreet,8510
+2253,Fashion,SilkStreet,2750
+1041,Electronics,BlueWave,135180
+1939,Fashion,Heritage,3570
+1849,Fashion,SilkStreet,8190
+2632,Home & Kitchen,CoolBreeze,35000
+2776,Home & Kitchen,ZenLiving,19860
+2185,Fashion,Ivory&Co,8020
+4801,Sports & Outdoors,PulseGear,6020
+4352,Sports & Outdoors,PulseGear,6770
+4842,Sports & Outdoors,RunRidge,21880
+4554,Sports & Outdoors,FlexForge,7280
+3366,Home & Kitchen,ZenLiving,13090
+2642,Home & Kitchen,HeatWave,4910
+2501,Fashion,ModeMuse,6060
+4528,Sports & Outdoors,PulseGear,5920
+3038,Home & Kitchen,CoolBreeze,35000
+3463,Beauty & Personal Care,RootRise,10000
+2529,Fashion,NorthBay,1160
+4867,Sports & Outdoors,PeakPath,16860
+4977,Sports & Outdoors,MotionMade,5490
+2616,Home & Kitchen,CoolBreeze,35000
+1397,Electronics,ApexOne,86130
+1052,Electronics,GigaMax,77210
+2824,Home & Kitchen,CoolBreeze,35000
+3294,Home & Kitchen,KitchenPro,27890
+1695,Electronics,CoreLink,113740
+4127,Beauty & Personal Care,RootRise,3480
+2561,Fashion,LunaWear,12000
+3805,Beauty & Personal Care,SilkStrand,7690
+1202,Electronics,TechSphere,39510
+4659,Sports & Outdoors,MotionMade,30000
+3321,Home & Kitchen,AuraHome,21710
+3900,Beauty & Personal Care,VelvetMist,9890
+2877,Home & Kitchen,CoolBreeze,35000
+2840,Home & Kitchen,CasaCharm,16450
+2959,Home & Kitchen,HomePulse,9400
+3022,Home & Kitchen,Nest&Nook,16520
+4381,Sports & Outdoors,MotionMade,7100
+3300,Home & Kitchen,CasaCharm,19180
+2719,Home & Kitchen,AuraHome,7260
+3675,Beauty & Personal Care,HydraHue,2180
+4803,Sports & Outdoors,FlexForge,8320
+4998,Sports & Outdoors,PulseGear,9790
+1457,Electronics,GigaMax,150000
+4542,Sports & Outdoors,PulseGear,30000
+4806,Sports & Outdoors,TrailStar,30000
+2977,Home & Kitchen,AuraHome,5810
+1103,Electronics,CoreLink,59520
+2912,Home & Kitchen,AuraHome,3140
+1161,Electronics,BlueWave,16100
+3890,Beauty & Personal Care,BloomNote,5220
+1405,Electronics,ElectraNova,62800
+4532,Sports & Outdoors,MotionMade,30000
+3093,Home & Kitchen,HeatWave,35000
+3279,Home & Kitchen,CasaCharm,10200
+3261,Home & Kitchen,ZenLiving,35000
+3166,Home & Kitchen,Nest&Nook,9070
+3880,Beauty & Personal Care,SilkStrand,3320
+1129,Electronics,TechSphere,150000
+3504,Beauty & Personal Care,SilkStrand,3000
+4708,Sports & Outdoors,PulseGear,20090
+1399,Electronics,ElectraNova,81450
+3343,Home & Kitchen,Nest&Nook,1920
+2984,Home & Kitchen,AuraHome,35000
+4673,Sports & Outdoors,MotionMade,9400
+3964,Beauty & Personal Care,PureLeaf,10000
+3854,Beauty & Personal Care,BloomNote,6430
+3708,Beauty & Personal Care,HydraHue,4460
+3348,Home & Kitchen,KitchenPro,25390
+2321,Fashion,Ivory&Co,2360
+3362,Home & Kitchen,HomePulse,25270
+1784,Electronics,Zentrix,59710
+4235,Sports & Outdoors,TrailStar,16920
+1940,Fashion,NorthBay,3740
+2827,Home & Kitchen,HeatWave,12140
+4909,Sports & Outdoors,MotionMade,25550
+4672,Sports & Outdoors,StaminaX,30000
+2922,Home & Kitchen,Nest&Nook,35000
+3619,Beauty & Personal Care,SilkStrand,1000
+3942,Beauty & Personal Care,HydraHue,2370
+4001,Beauty & Personal Care,PureLeaf,6000
+3546,Beauty & Personal Care,VelvetMist,2950
+1301,Electronics,OrbitX,27120
+3066,Home & Kitchen,HeatWave,23820
+4091,Beauty & Personal Care,BloomNote,5590
+4119,Beauty & Personal Care,VelvetMist,6600
+1485,Electronics,OrbitX,31190
+1944,Fashion,CanvasCo,7350
+3422,Beauty & Personal Care,BloomNote,6820
+4815,Sports & Outdoors,PeakPath,12690
+4054,Beauty & Personal Care,RootRise,4350
+2788,Home & Kitchen,HeatWave,35000
+3528,Beauty & Personal Care,DermaDawn,10000
+1511,Electronics,GigaMax,60000
+3225,Home & Kitchen,ZenLiving,8230
+1517,Electronics,ApexOne,150000
+4250,Sports & Outdoors,TrailStar,2590
+2641,Home & Kitchen,ZenLiving,27690
+3543,Beauty & Personal Care,SilkStrand,520
+2683,Home & Kitchen,ZenLiving,17620
+1196,Electronics,TechSphere,85140
+2507,Fashion,SilkStreet,8530
+4433,Sports & Outdoors,PulseGear,25530
+4172,Beauty & Personal Care,GlowWell,5030
+3411,Beauty & Personal Care,RootRise,5180
+3467,Beauty & Personal Care,VelvetMist,5410
+1110,Electronics,ElectraNova,150000
+3448,Beauty & Personal Care,DermaDawn,3550
+4396,Sports & Outdoors,FlexForge,8170
+2952,Home & Kitchen,CasaCharm,35000
+1826,Fashion,Heritage,12000
+3129,Home & Kitchen,KitchenPro,35000
+1700,Electronics,CoreLink,45410
+1010,Electronics,CoreLink,58340
+4021,Beauty & Personal Care,HydraHue,10000
+2951,Home & Kitchen,Nest&Nook,22430
+1660,Electronics,Zentrix,150000
+4220,Sports & Outdoors,StaminaX,14750
+2602,Home & Kitchen,Nest&Nook,35000
+2215,Fashion,Heritage,2970
+2863,Home & Kitchen,ZenLiving,3870
+2268,Fashion,LunaWear,3180
+1535,Electronics,TechSphere,100880
+2226,Fashion,LunaWear,12000
+2445,Fashion,Ivory&Co,5340
+3692,Beauty & Personal Care,VelvetMist,10000
+4866,Sports & Outdoors,PeakPath,7860
+2150,Fashion,Ivory&Co,8160
+3213,Home & Kitchen,HeatWave,18940
+4607,Sports & Outdoors,StaminaX,21440
+3559,Beauty & Personal Care,DermaDawn,1570
+1508,Electronics,Zentrix,116570
+1755,Electronics,OrbitX,150000
+3792,Beauty & Personal Care,HydraHue,6630
+1933,Fashion,UrbanThread,12000
+4904,Sports & Outdoors,CorePlus,18080
+2929,Home & Kitchen,AuraHome,10200
+2360,Fashion,SilkStreet,9680
+1637,Electronics,CoreLink,150000
+1593,Electronics,GigaMax,137850
+2563,Fashion,CanvasCo,2120
+1093,Electronics,Zentrix,110940
+1689,Electronics,GigaMax,70400
+3842,Beauty & Personal Care,GlowWell,10000
+3485,Beauty & Personal Care,DermaDawn,1410
+2947,Home & Kitchen,ZenLiving,23930
+2911,Home & Kitchen,HeatWave,4130
+4182,Beauty & Personal Care,VelvetMist,1450
+2369,Fashion,Heritage,2580
+1091,Electronics,ElectraNova,150000
+1901,Fashion,Heritage,5270
+2503,Fashion,SilkStreet,5960
+2351,Fashion,UrbanThread,6260
+3111,Home & Kitchen,ZenLiving,28290
+2082,Fashion,SilkStreet,12000
+2577,Fashion,ModeMuse,2040
+1752,Electronics,ApexOne,150000
+2804,Home & Kitchen,HomePulse,26950
+4861,Sports & Outdoors,TrailStar,25230
+3436,Beauty & Personal Care,RootRise,3080
+1426,Electronics,ElectraNova,136650
+4036,Beauty & Personal Care,PureLeaf,1410
+4576,Sports & Outdoors,RunRidge,19530
+2920,Home & Kitchen,AuraHome,35000
+3671,Beauty & Personal Care,GlowWell,10000
+4210,Sports & Outdoors,MotionMade,5840
+1706,Electronics,CoreLink,59910
+2308,Fashion,ModeMuse,8540
+3616,Beauty & Personal Care,RootRise,1450
+2233,Fashion,UrbanThread,4110
+1931,Fashion,SilkStreet,2620
+4135,Beauty & Personal Care,HydraHue,4690
+3171,Home & Kitchen,AuraHome,14670
+1145,Electronics,Zentrix,104870
+3954,Beauty & Personal Care,HydraHue,3880
+1334,Electronics,CoreLink,145300
+3101,Home & Kitchen,HomePulse,29910
+4888,Sports & Outdoors,StaminaX,28590
+2176,Fashion,CanvasCo,7750
+4410,Sports & Outdoors,PulseGear,30000
+1042,Electronics,CoreLink,27520
+1813,Fashion,LunaWear,2010
+2576,Fashion,Ivory&Co,11240
+3263,Home & Kitchen,CasaCharm,25130
+4058,Beauty & Personal Care,PureLeaf,5060
+4911,Sports & Outdoors,PulseGear,30000
+2340,Fashion,Ivory&Co,1840
+3822,Beauty & Personal Care,SilkStrand,7010
+4764,Sports & Outdoors,TrailStar,30000
+4716,Sports & Outdoors,MotionMade,9620
+4846,Sports & Outdoors,MotionMade,23500
+3730,Beauty & Personal Care,RootRise,2550
+2586,Fashion,Ivory&Co,5290
+2125,Fashion,ModeMuse,3220
+1787,Electronics,BlueWave,74860
+3268,Home & Kitchen,Nest&Nook,22130
+4802,Sports & Outdoors,FlexForge,30000
+2961,Home & Kitchen,KitchenPro,30530
+1830,Fashion,UrbanThread,8240
+4892,Sports & Outdoors,PulseGear,11150
+4268,Sports & Outdoors,PulseGear,4690
+1620,Electronics,GigaMax,101320
+4306,Sports & Outdoors,PeakPath,12020
+2900,Home & Kitchen,CoolBreeze,14040
+2886,Home & Kitchen,CoolBreeze,8500
+1378,Electronics,ElectraNova,27480
+1292,Electronics,TechSphere,150000
+2778,Home & Kitchen,CoolBreeze,35000
+4375,Sports & Outdoors,RunRidge,29060
+3609,Beauty & Personal Care,PureLeaf,10000
+1571,Electronics,BlueWave,91790
+1811,Fashion,NorthBay,6950
+4906,Sports & Outdoors,PulseGear,2110
+1552,Electronics,OrbitX,32190
+2378,Fashion,SilkStreet,3220
+3394,Home & Kitchen,HomePulse,7930
+3837,Beauty & Personal Care,VelvetMist,6820
+4641,Sports & Outdoors,PeakPath,6220
+2783,Home & Kitchen,KitchenPro,25190
+4850,Sports & Outdoors,StaminaX,19930
+4011,Beauty & Personal Care,HydraHue,2040
+2422,Fashion,Ivory&Co,5910
+3968,Beauty & Personal Care,PureLeaf,1480
+2845,Home & Kitchen,AuraHome,6920
+2323,Fashion,SilkStreet,2450
+3053,Home & Kitchen,CasaCharm,9650
+1024,Electronics,CoreLink,150000
+3785,Beauty & Personal Care,PureLeaf,10000
+3347,Home & Kitchen,KitchenPro,8200
+1050,Electronics,ApexOne,42500
+3995,Beauty & Personal Care,PureLeaf,2950
+2298,Fashion,ModeMuse,2680
+1468,Electronics,TechSphere,150000
+1781,Electronics,Zentrix,123670
+2852,Home & Kitchen,HomePulse,18660
+2764,Home & Kitchen,ZenLiving,20110
+4577,Sports & Outdoors,MotionMade,30000
+3669,Beauty & Personal Care,BloomNote,2300
+3888,Beauty & Personal Care,HydraHue,2950
+1028,Electronics,Zentrix,150000
+2349,Fashion,LunaWear,6780
+2242,Fashion,CanvasCo,8590
+2358,Fashion,Heritage,12000
+2312,Fashion,UrbanThread,12000
+2975,Home & Kitchen,HomePulse,35000
+3224,Home & Kitchen,Nest&Nook,26180
+2973,Home & Kitchen,HeatWave,12290
+4255,Sports & Outdoors,PeakPath,29840
+1568,Electronics,ApexOne,118510
+3589,Beauty & Personal Care,DermaDawn,2520
+3851,Beauty & Personal Care,HydraHue,4840
+2191,Fashion,Heritage,5830
+2488,Fashion,SilkStreet,12000
+2011,Fashion,Heritage,7390
+2812,Home & Kitchen,CoolBreeze,2880
+1850,Fashion,SilkStreet,9070
+4336,Sports & Outdoors,MotionMade,17770
+4174,Beauty & Personal Care,PureLeaf,2610
+2717,Home & Kitchen,CasaCharm,6070
+1286,Electronics,BlueWave,44010
+4756,Sports & Outdoors,TrailStar,30000
+2142,Fashion,ModeMuse,12000
+2198,Fashion,Heritage,1490
+3172,Home & Kitchen,Nest&Nook,11040
+4350,Sports & Outdoors,PulseGear,8060
+1011,Electronics,ElectraNova,81600
+3778,Beauty & Personal Care,BloomNote,3810
+3590,Beauty & Personal Care,DermaDawn,3010
+2264,Fashion,UrbanThread,5110
+3597,Beauty & Personal Care,PureLeaf,10000
+2420,Fashion,CanvasCo,3130
+2905,Home & Kitchen,CasaCharm,16390
+1833,Fashion,LunaWear,8590
+1783,Electronics,BlueWave,111860
+4418,Sports & Outdoors,StaminaX,3710
+4569,Sports & Outdoors,PeakPath,17350
+2466,Fashion,ModeMuse,12000
+4686,Sports & Outdoors,StaminaX,22050
+1960,Fashion,Heritage,12000
+3149,Home & Kitchen,CasaCharm,30450
+2978,Home & Kitchen,HomePulse,34300
+3712,Beauty & Personal Care,GlowWell,10000
+3746,Beauty & Personal Care,GlowWell,2400
+3240,Home & Kitchen,CasaCharm,35000
+1975,Fashion,NorthBay,5320
+3772,Beauty & Personal Care,GlowWell,2040
+2688,Home & Kitchen,Nest&Nook,26910
+2680,Home & Kitchen,CasaCharm,9760
+2239,Fashion,NorthBay,12000
+3644,Beauty & Personal Care,HydraHue,2650
+1339,Electronics,Zentrix,150000
+2394,Fashion,Ivory&Co,10140
+3490,Beauty & Personal Care,GlowWell,9320
+3475,Beauty & Personal Care,SilkStrand,4660
+3193,Home & Kitchen,ZenLiving,20270
+2615,Home & Kitchen,Nest&Nook,35000
+2025,Fashion,UrbanThread,6880
+1761,Electronics,OrbitX,122390
+2057,Fashion,NorthBay,4800
+4209,Sports & Outdoors,RunRidge,8890
+3128,Home & Kitchen,KitchenPro,11020
+3518,Beauty & Personal Care,HydraHue,10000
+1491,Electronics,BlueWave,43340
+2471,Fashion,NorthBay,5680
+3380,Home & Kitchen,Nest&Nook,24880
+2041,Fashion,ModeMuse,2450
+4919,Sports & Outdoors,RunRidge,30000
+4247,Sports & Outdoors,RunRidge,2770
+2116,Fashion,Heritage,6310
+1171,Electronics,GigaMax,124430
+1273,Electronics,Zentrix,82870
+3907,Beauty & Personal Care,SilkStrand,10000
+3131,Home & Kitchen,ZenLiving,11630
+3373,Home & Kitchen,CasaCharm,25870
+4445,Sports & Outdoors,CorePlus,15060
+2164,Fashion,Heritage,3160
+2859,Home & Kitchen,Nest&Nook,9120
+2706,Home & Kitchen,AuraHome,10810
+3105,Home & Kitchen,HomePulse,35000
+4148,Beauty & Personal Care,BloomNote,10000
+4875,Sports & Outdoors,PulseGear,30000
+1108,Electronics,TechSphere,150000
+2901,Home & Kitchen,HomePulse,4500
+3585,Beauty & Personal Care,DermaDawn,7950
+3285,Home & Kitchen,ZenLiving,5530
+2736,Home & Kitchen,CoolBreeze,4570
+4115,Beauty & Personal Care,SilkStrand,10000
+3318,Home & Kitchen,HomePulse,3990
+1338,Electronics,Zentrix,150000
+1270,Electronics,GigaMax,51060
+4033,Beauty & Personal Care,VelvetMist,5860
+1462,Electronics,TechSphere,19430
+3123,Home & Kitchen,HeatWave,7420
+3108,Home & Kitchen,CoolBreeze,35000
+3453,Beauty & Personal Care,HydraHue,1560
+1493,Electronics,BlueWave,150000
+3620,Beauty & Personal Care,VelvetMist,2580
+2193,Fashion,ModeMuse,12000
+4393,Sports & Outdoors,TrailStar,4060
+2432,Fashion,UrbanThread,12000
+1740,Electronics,Zentrix,150000
+4516,Sports & Outdoors,CorePlus,30000
+3060,Home & Kitchen,CasaCharm,11010
+4124,Beauty & Personal Care,RootRise,10000
+2817,Home & Kitchen,KitchenPro,3410
+3276,Home & Kitchen,CasaCharm,16240
+4834,Sports & Outdoors,MotionMade,30000
+3033,Home & Kitchen,CoolBreeze,16140
+4664,Sports & Outdoors,RunRidge,3080
+3075,Home & Kitchen,KitchenPro,12250
+3208,Home & Kitchen,AuraHome,35000
+3576,Beauty & Personal Care,PureLeaf,10000
+2289,Fashion,SilkStreet,12000
+4693,Sports & Outdoors,MotionMade,30000
+3291,Home & Kitchen,KitchenPro,26610
+3776,Beauty & Personal Care,RootRise,1060
+4883,Sports & Outdoors,FlexForge,15710
+4449,Sports & Outdoors,MotionMade,5170
+2026,Fashion,NorthBay,9470
+1878,Fashion,Heritage,6200
+1471,Electronics,ApexOne,32300
+1072,Electronics,GigaMax,101020
+3624,Beauty & Personal Care,SilkStrand,3510
+4165,Beauty & Personal Care,PureLeaf,4110
+4145,Beauty & Personal Care,DermaDawn,4160
+1506,Electronics,TechSphere,150000
+1212,Electronics,TechSphere,108470
+4868,Sports & Outdoors,CorePlus,30000
+4120,Beauty & Personal Care,HydraHue,1020
+4454,Sports & Outdoors,FlexForge,7550
+3668,Beauty & Personal Care,GlowWell,4720
+4611,Sports & Outdoors,RunRidge,20820
+4784,Sports & Outdoors,TrailStar,18100
+2836,Home & Kitchen,KitchenPro,6890
+3330,Home & Kitchen,AuraHome,18530
+4468,Sports & Outdoors,StaminaX,15920
+1514,Electronics,ElectraNova,79290
+2949,Home & Kitchen,AuraHome,21240
+3403,Beauty & Personal Care,PureLeaf,2380
+2173,Fashion,CanvasCo,6560
+4579,Sports & Outdoors,PulseGear,7580
+2777,Home & Kitchen,ZenLiving,7190
+3536,Beauty & Personal Care,SilkStrand,5490
+4856,Sports & Outdoors,TrailStar,3660
+1895,Fashion,Ivory&Co,7930
+1802,Fashion,Heritage,12000
+1364,Electronics,Zentrix,25510
+2126,Fashion,Heritage,4890
+2936,Home & Kitchen,CoolBreeze,35000
+4501,Sports & Outdoors,MotionMade,30000
+4415,Sports & Outdoors,TrailStar,3100
+2713,Home & Kitchen,HeatWave,35000
+1865,Fashion,Ivory&Co,3760
+4548,Sports & Outdoors,StaminaX,3720
+4571,Sports & Outdoors,PulseGear,9950
+4059,Beauty & Personal Care,VelvetMist,4650
+4981,Sports & Outdoors,StaminaX,14700
+4167,Beauty & Personal Care,SilkStrand,9730
+2881,Home & Kitchen,HeatWave,14910
+3333,Home & Kitchen,Nest&Nook,31440
+4363,Sports & Outdoors,RunRidge,9970
+1366,Electronics,Zentrix,96530
+2666,Home & Kitchen,CoolBreeze,12260
+2540,Fashion,SilkStreet,12000
+1431,Electronics,Zentrix,62720
+4018,Beauty & Personal Care,BloomNote,1810
+2948,Home & Kitchen,KitchenPro,35000
+1497,Electronics,Zentrix,86330
+4690,Sports & Outdoors,MotionMade,3690
+3758,Beauty & Personal Care,DermaDawn,1810
+1870,Fashion,CanvasCo,5770
+4792,Sports & Outdoors,PulseGear,12660
+2979,Home & Kitchen,HeatWave,17440
+1874,Fashion,Ivory&Co,3610
+4640,Sports & Outdoors,FlexForge,7700
+1540,Electronics,Zentrix,121490
+1691,Electronics,CoreLink,108380
+4880,Sports & Outdoors,StaminaX,15010
+3384,Home & Kitchen,Nest&Nook,17850
+4742,Sports & Outdoors,PulseGear,8560
+2687,Home & Kitchen,AuraHome,16660
+3251,Home & Kitchen,HomePulse,19910
+2837,Home & Kitchen,KitchenPro,27860
+1790,Electronics,GigaMax,37360
+2255,Fashion,CanvasCo,12000
+4678,Sports & Outdoors,RunRidge,28850
+4006,Beauty & Personal Care,HydraHue,10000
+2710,Home & Kitchen,AuraHome,8420
+2800,Home & Kitchen,KitchenPro,7100
+3819,Beauty & Personal Care,PureLeaf,3660
+4824,Sports & Outdoors,PulseGear,11370
+1233,Electronics,GigaMax,12470
+1663,Electronics,Zentrix,16640
+2945,Home & Kitchen,HomePulse,20240
+4713,Sports & Outdoors,MotionMade,25230
+1342,Electronics,BlueWave,40640
+1909,Fashion,CanvasCo,12000
+4205,Sports & Outdoors,PulseGear,5310
+2368,Fashion,CanvasCo,6070
+2546,Fashion,Ivory&Co,1460
+3303,Home & Kitchen,CasaCharm,8330
+2071,Fashion,Heritage,6170
+4590,Sports & Outdoors,MotionMade,6660
+2967,Home & Kitchen,KitchenPro,11970
+4502,Sports & Outdoors,PeakPath,6090
+1083,Electronics,GigaMax,150000
+2089,Fashion,CanvasCo,1780
+1678,Electronics,OrbitX,56100
+3028,Home & Kitchen,CoolBreeze,11410
+4278,Sports & Outdoors,TrailStar,19140
+3724,Beauty & Personal Care,VelvetMist,10000
+2768,Home & Kitchen,CoolBreeze,6900
+4248,Sports & Outdoors,RunRidge,14540
+3032,Home & Kitchen,HeatWave,26530
+3680,Beauty & Personal Care,BloomNote,2870
+2993,Home & Kitchen,HomePulse,18560
+4166,Beauty & Personal Care,GlowWell,6110
+2140,Fashion,NorthBay,12000
+4206,Sports & Outdoors,StaminaX,6290
+3713,Beauty & Personal Care,VelvetMist,4520
+4750,Sports & Outdoors,RunRidge,26100
+2556,Fashion,ModeMuse,7000
+3794,Beauty & Personal Care,SilkStrand,2440
+1379,Electronics,OrbitX,23330
+1769,Electronics,CoreLink,134550
+1239,Electronics,BlueWave,84880
+3170,Home & Kitchen,AuraHome,35000
+2509,Fashion,Ivory&Co,3170
+2063,Fashion,LunaWear,3030
+2495,Fashion,Ivory&Co,6950
+2954,Home & Kitchen,CasaCharm,11060
+1704,Electronics,ApexOne,65810
+3514,Beauty & Personal Care,BloomNote,4710
+4642,Sports & Outdoors,CorePlus,9500
+4950,Sports & Outdoors,RunRidge,10580
+4925,Sports & Outdoors,StaminaX,24810
+4948,Sports & Outdoors,PeakPath,17720
+2399,Fashion,SilkStreet,5720
+1920,Fashion,Ivory&Co,5600
+4915,Sports & Outdoors,FlexForge,18270
+1845,Fashion,CanvasCo,10120
+3742,Beauty & Personal Care,BloomNote,5180
+2476,Fashion,Heritage,12000
+3970,Beauty & Personal Care,VelvetMist,10000
+2508,Fashion,NorthBay,4500
+2874,Home & Kitchen,AuraHome,15560
+1507,Electronics,CoreLink,71260
+1218,Electronics,GigaMax,100840
+1390,Electronics,BlueWave,150000
+2735,Home & Kitchen,Nest&Nook,35000
+3474,Beauty & Personal Care,VelvetMist,9570
+1763,Electronics,GigaMax,150000
+2407,Fashion,SilkStreet,3110
+3885,Beauty & Personal Care,PureLeaf,10000
+1330,Electronics,ElectraNova,150000
+3398,Home & Kitchen,HomePulse,35000
+4286,Sports & Outdoors,RunRidge,8610
+2278,Fashion,CanvasCo,2630
+1023,Electronics,ElectraNova,150000
+4934,Sports & Outdoors,MotionMade,30000
+1035,Electronics,OrbitX,56150
+1822,Fashion,LunaWear,9810
+2862,Home & Kitchen,CoolBreeze,6120
+2439,Fashion,CanvasCo,7410
+2700,Home & Kitchen,KitchenPro,17590
+3419,Beauty & Personal Care,VelvetMist,2270
+4232,Sports & Outdoors,StaminaX,27430
+1288,Electronics,ElectraNova,96920
+3232,Home & Kitchen,HomePulse,7790
+3415,Beauty & Personal Care,BloomNote,6330
+4928,Sports & Outdoors,StaminaX,11690
+1533,Electronics,OrbitX,90710
+4769,Sports & Outdoors,FlexForge,30000
+2820,Home & Kitchen,ZenLiving,3350
+4424,Sports & Outdoors,StaminaX,9850
+2162,Fashion,SilkStreet,1990
+4986,Sports & Outdoors,PulseGear,3200
+4233,Sports & Outdoors,MotionMade,4750
+2989,Home & Kitchen,CoolBreeze,8770
+3789,Beauty & Personal Care,DermaDawn,5790
+3041,Home & Kitchen,HomePulse,35000
+2657,Home & Kitchen,ZenLiving,31770
+2031,Fashion,SilkStreet,2670
+4200,Beauty & Personal Care,HydraHue,10000
+1007,Electronics,ElectraNova,45380
+3990,Beauty & Personal Care,BloomNote,10000
+1582,Electronics,ElectraNova,49050
+2105,Fashion,Heritage,4620
+1905,Fashion,LunaWear,12000
+2212,Fashion,NorthBay,2940
+3081,Home & Kitchen,AuraHome,26160
+3714,Beauty & Personal Care,SilkStrand,3100
+3413,Beauty & Personal Care,HydraHue,10000
+2440,Fashion,UrbanThread,1080
+2685,Home & Kitchen,Nest&Nook,5150
+3241,Home & Kitchen,Nest&Nook,22040
+2559,Fashion,Heritage,2260
+1182,Electronics,CoreLink,79450
+1215,Electronics,GigaMax,135240
+3534,Beauty & Personal Care,PureLeaf,6310
+4865,Sports & Outdoors,MotionMade,23760
+3697,Beauty & Personal Care,GlowWell,4400
+2147,Fashion,SilkStreet,3720
+3857,Beauty & Personal Care,VelvetMist,10000
+1359,Electronics,BlueWave,26240
+3608,Beauty & Personal Care,GlowWell,4890
+1417,Electronics,BlueWave,39350
+1873,Fashion,CanvasCo,12000
+4505,Sports & Outdoors,CorePlus,22900
+2603,Home & Kitchen,CasaCharm,35000
+1597,Electronics,OrbitX,150000
+4595,Sports & Outdoors,TrailStar,27180
+2356,Fashion,LunaWear,5180
+3823,Beauty & Personal Care,DermaDawn,7630
+3479,Beauty & Personal Care,GlowWell,6150
+3496,Beauty & Personal Care,RootRise,2810
+3150,Home & Kitchen,HomePulse,15210
+4832,Sports & Outdoors,TrailStar,29050
+1061,Electronics,CoreLink,48890
+3256,Home & Kitchen,AuraHome,14500
+1789,Electronics,ApexOne,133350
+1890,Fashion,Heritage,12000
+2119,Fashion,UrbanThread,6010
+2455,Fashion,ModeMuse,1940
+1289,Electronics,BlueWave,32580
+4845,Sports & Outdoors,PeakPath,11190
+3806,Beauty & Personal Care,RootRise,2960
+3893,Beauty & Personal Care,GlowWell,4380
+1009,Electronics,CoreLink,58610
+2750,Home & Kitchen,CoolBreeze,35000
+2826,Home & Kitchen,Nest&Nook,6780
+3965,Beauty & Personal Care,GlowWell,10000
+4215,Sports & Outdoors,StaminaX,30000
+1714,Electronics,GigaMax,42570
+4744,Sports & Outdoors,MotionMade,23130
+3853,Beauty & Personal Care,RootRise,3620
+1965,Fashion,CanvasCo,11040
+4758,Sports & Outdoors,MotionMade,18590
+4421,Sports & Outdoors,CorePlus,18680
+4372,Sports & Outdoors,PulseGear,30000
+3302,Home & Kitchen,CoolBreeze,21810
+4661,Sports & Outdoors,PeakPath,5340
+1937,Fashion,SilkStreet,3890
+1456,Electronics,Zentrix,90450
+1539,Electronics,ApexOne,150000
+1875,Fashion,Heritage,1950
+1269,Electronics,Zentrix,115830
+4136,Beauty & Personal Care,GlowWell,6580
+2315,Fashion,ModeMuse,4200
+1766,Electronics,ApexOne,78900
+1546,Electronics,GigaMax,60810
+4450,Sports & Outdoors,CorePlus,28210
+4966,Sports & Outdoors,TrailStar,30000
+4555,Sports & Outdoors,CorePlus,6110
+3167,Home & Kitchen,HomePulse,16150
+2552,Fashion,NorthBay,7520
+2259,Fashion,UrbanThread,9020
+1414,Electronics,TechSphere,117060
+4499,Sports & Outdoors,TrailStar,23300
+3223,Home & Kitchen,CasaCharm,27690
+4618,Sports & Outdoors,PulseGear,30000
+1401,Electronics,CoreLink,150000
+3297,Home & Kitchen,Nest&Nook,35000
+2547,Fashion,CanvasCo,4320
+1094,Electronics,CoreLink,67030
+2525,Fashion,LunaWear,1210
+4439,Sports & Outdoors,StaminaX,19090
+2008,Fashion,ModeMuse,6350
+3360,Home & Kitchen,AuraHome,10090
+3024,Home & Kitchen,CoolBreeze,28250
+3567,Beauty & Personal Care,RootRise,1690
+1127,Electronics,Zentrix,80240
+3202,Home & Kitchen,KitchenPro,5630
+2141,Fashion,LunaWear,3030
+1921,Fashion,CanvasCo,12000
+4799,Sports & Outdoors,FlexForge,14690
+1444,Electronics,Zentrix,21390
+4522,Sports & Outdoors,RunRidge,30000
+4133,Beauty & Personal Care,GlowWell,2460
+3579,Beauty & Personal Care,DermaDawn,3590
+4096,Beauty & Personal Care,SilkStrand,5300
+2055,Fashion,UrbanThread,7170
+1226,Electronics,ElectraNova,48490
+4073,Beauty & Personal Care,GlowWell,3180
+2650,Home & Kitchen,CasaCharm,6210
+4535,Sports & Outdoors,PeakPath,16140
+3762,Beauty & Personal Care,GlowWell,2190
+3484,Beauty & Personal Care,SilkStrand,10000
+3228,Home & Kitchen,HeatWave,8940
+2648,Home & Kitchen,KitchenPro,22150
+1435,Electronics,Zentrix,28800
+4188,Beauty & Personal Care,VelvetMist,2590
+1509,Electronics,BlueWave,49360
+1033,Electronics,TechSphere,150000
+4656,Sports & Outdoors,TrailStar,12510
+3379,Home & Kitchen,Nest&Nook,19700
+3087,Home & Kitchen,ZenLiving,10550
+3073,Home & Kitchen,AuraHome,26330
+3078,Home & Kitchen,ZenLiving,12160
+1200,Electronics,OrbitX,20030
+2230,Fashion,Heritage,12000
+3881,Beauty & Personal Care,VelvetMist,10000
+4453,Sports & Outdoors,CorePlus,17980
+4368,Sports & Outdoors,StaminaX,30000
+3820,Beauty & Personal Care,SilkStrand,1880
+1181,Electronics,GigaMax,50950
+3872,Beauty & Personal Care,RootRise,6600
+2283,Fashion,NorthBay,5980
+4921,Sports & Outdoors,RunRidge,18590
+3047,Home & Kitchen,HomePulse,17820
+1265,Electronics,GigaMax,62370
+3175,Home & Kitchen,HomePulse,12610
+4777,Sports & Outdoors,PulseGear,30000
+1720,Electronics,TechSphere,92630
+1296,Electronics,CoreLink,150000
+1795,Electronics,GigaMax,18300
+3701,Beauty & Personal Care,HydraHue,2040
+4544,Sports & Outdoors,MotionMade,18510
+1661,Electronics,BlueWave,48970
+2915,Home & Kitchen,Nest&Nook,31410
+2608,Home & Kitchen,AuraHome,19360
+1496,Electronics,TechSphere,51590
+1106,Electronics,ElectraNova,100700
+4144,Beauty & Personal Care,RootRise,6560
+2651,Home & Kitchen,Nest&Nook,35000
+4307,Sports & Outdoors,CorePlus,16070
+3396,Home & Kitchen,HeatWave,15260
+1746,Electronics,ApexOne,42140
+1923,Fashion,Heritage,9440
+3468,Beauty & Personal Care,RootRise,2620
+3451,Beauty & Personal Care,GlowWell,7390
+2521,Fashion,SilkStreet,3420
+3558,Beauty & Personal Care,RootRise,1760
+4820,Sports & Outdoors,MotionMade,18740
+4122,Beauty & Personal Care,SilkStrand,10000
+2327,Fashion,CanvasCo,3500
+4628,Sports & Outdoors,FlexForge,29520
+4252,Sports & Outdoors,CorePlus,30000
+4274,Sports & Outdoors,StaminaX,30000
+1670,Electronics,TechSphere,150000
+1916,Fashion,UrbanThread,1200
+2426,Fashion,Heritage,12000
+1232,Electronics,ApexOne,7710
+3779,Beauty & Personal Care,VelvetMist,3290
+2475,Fashion,Heritage,10350
+2222,Fashion,Heritage,12000
+3752,Beauty & Personal Care,VelvetMist,9130
+3918,Beauty & Personal Care,RootRise,8290
+2990,Home & Kitchen,HeatWave,15630
+2101,Fashion,LunaWear,10730
+4529,Sports & Outdoors,StaminaX,7840
+2322,Fashion,LunaWear,1640
+2889,Home & Kitchen,AuraHome,28220
+3593,Beauty & Personal Care,BloomNote,4430
+4631,Sports & Outdoors,MotionMade,7560
+2923,Home & Kitchen,CoolBreeze,21710
+3765,Beauty & Personal Care,SilkStrand,10000
+3174,Home & Kitchen,HomePulse,34510
+1688,Electronics,ElectraNova,36780
+4753,Sports & Outdoors,PeakPath,14670
+3600,Beauty & Personal Care,VelvetMist,3010
+3796,Beauty & Personal Care,SilkStrand,5250
+1608,Electronics,TechSphere,33340
+2785,Home & Kitchen,ZenLiving,35000
+3487,Beauty & Personal Care,BloomNote,1400
+4093,Beauty & Personal Care,SilkStrand,3410
+1809,Fashion,Heritage,12000
+4081,Beauty & Personal Care,DermaDawn,6750
+1541,Electronics,ElectraNova,87700
+3044,Home & Kitchen,ZenLiving,35000
+2302,Fashion,Heritage,4250
+3626,Beauty & Personal Care,VelvetMist,1350
+3845,Beauty & Personal Care,VelvetMist,3320
+1090,Electronics,TechSphere,70740
+4329,Sports & Outdoors,TrailStar,10930
+3447,Beauty & Personal Care,VelvetMist,2110
+1114,Electronics,ApexOne,8510
+4941,Sports & Outdoors,CorePlus,13270
+2236,Fashion,LunaWear,11140
+4593,Sports & Outdoors,TrailStar,21100
+3138,Home & Kitchen,CasaCharm,33890
+4477,Sports & Outdoors,MotionMade,30000
+3937,Beauty & Personal Care,DermaDawn,4050
+1192,Electronics,GigaMax,132420
+4525,Sports & Outdoors,FlexForge,30000
+4476,Sports & Outdoors,TrailStar,30000
+3342,Home & Kitchen,HomePulse,11670
+4958,Sports & Outdoors,FlexForge,6390
+3946,Beauty & Personal Care,SilkStrand,10000
+2499,Fashion,NorthBay,2800
+4857,Sports & Outdoors,MotionMade,8320
+4696,Sports & Outdoors,PulseGear,15660
+4100,Beauty & Personal Care,GlowWell,4000
+4296,Sports & Outdoors,TrailStar,6950
+4289,Sports & Outdoors,MotionMade,24690
+1249,Electronics,OrbitX,150000
+4262,Sports & Outdoors,RunRidge,7960
+4604,Sports & Outdoors,CorePlus,16170
+4464,Sports & Outdoors,PeakPath,14700
+2761,Home & Kitchen,ZenLiving,35000
+1071,Electronics,OrbitX,63740
+3848,Beauty & Personal Care,GlowWell,7110
+3901,Beauty & Personal Care,VelvetMist,4160
+3748,Beauty & Personal Care,VelvetMist,1200
+1159,Electronics,BlueWave,109190
+2558,Fashion,LunaWear,840
+3160,Home & Kitchen,CoolBreeze,8850
+2756,Home & Kitchen,AuraHome,4910
+4179,Beauty & Personal Care,HydraHue,3830
+1881,Fashion,ModeMuse,3330
+2872,Home & Kitchen,Nest&Nook,13310
+2272,Fashion,ModeMuse,3180
+2244,Fashion,CanvasCo,3250
+2258,Fashion,NorthBay,9310
+2760,Home & Kitchen,KitchenPro,13060
+1772,Electronics,BlueWave,77030
+4487,Sports & Outdoors,PeakPath,2380
+2313,Fashion,LunaWear,12000
+3426,Beauty & Personal Care,VelvetMist,9710
+4000,Beauty & Personal Care,RootRise,2080
+1673,Electronics,GigaMax,102040
+4311,Sports & Outdoors,FlexForge,30000
+1367,Electronics,ApexOne,150000
+4035,Beauty & Personal Care,HydraHue,3710
+1860,Fashion,LunaWear,6030
+1515,Electronics,BlueWave,29490
+2551,Fashion,CanvasCo,4610
+2249,Fashion,UrbanThread,9920
+2518,Fashion,Ivory&Co,1850
+3019,Home & Kitchen,KitchenPro,6280
+2795,Home & Kitchen,AuraHome,19160
+1852,Fashion,NorthBay,3450
+4581,Sports & Outdoors,TrailStar,22530
+3655,Beauty & Personal Care,BloomNote,2210
+3382,Home & Kitchen,HeatWave,30440
+4199,Beauty & Personal Care,BloomNote,10000
+2663,Home & Kitchen,HomePulse,16790
+2129,Fashion,Ivory&Co,3790
+4201,Sports & Outdoors,TrailStar,9970
+4881,Sports & Outdoors,RunRidge,12940
+3612,Beauty & Personal Care,GlowWell,4730
+4297,Sports & Outdoors,TrailStar,21980
+4829,Sports & Outdoors,CorePlus,20990
+3290,Home & Kitchen,ZenLiving,27100
+1846,Fashion,LunaWear,2730
+3011,Home & Kitchen,HeatWave,35000
+4079,Beauty & Personal Care,BloomNote,1730
+4598,Sports & Outdoors,StaminaX,7680
+2428,Fashion,NorthBay,1930
+3271,Home & Kitchen,HomePulse,33210
+1550,Electronics,GigaMax,26700
+2106,Fashion,LunaWear,4730
+1362,Electronics,ElectraNova,76730
+1893,Fashion,Ivory&Co,3770
+4134,Beauty & Personal Care,PureLeaf,1490
+3575,Beauty & Personal Care,RootRise,7820
+1446,Electronics,Zentrix,75360
+2087,Fashion,SilkStreet,2920
+3992,Beauty & Personal Care,BloomNote,4520
+2062,Fashion,Heritage,4580
+2667,Home & Kitchen,ZenLiving,23760
+1481,Electronics,OrbitX,32390
+1641,Electronics,ApexOne,137770
+1626,Electronics,GigaMax,10820
+1015,Electronics,CoreLink,150000
+3214,Home & Kitchen,HeatWave,11420
+3667,Beauty & Personal Care,VelvetMist,2880
+2544,Fashion,ModeMuse,5330
+4884,Sports & Outdoors,MotionMade,5810
+4761,Sports & Outdoors,StaminaX,30000
+4473,Sports & Outdoors,FlexForge,30000
+4540,Sports & Outdoors,PeakPath,30000
+2627,Home & Kitchen,CoolBreeze,4970
+4085,Beauty & Personal Care,VelvetMist,7780
+4231,Sports & Outdoors,PulseGear,7180
+1465,Electronics,BlueWave,31980
+3488,Beauty & Personal Care,SilkStrand,4580
+4359,Sports & Outdoors,PeakPath,11850
+2169,Fashion,UrbanThread,960
+1406,Electronics,OrbitX,88020
+3642,Beauty & Personal Care,VelvetMist,3480
+2438,Fashion,CanvasCo,12000
+3491,Beauty & Personal Care,RootRise,1140
+4694,Sports & Outdoors,TrailStar,22640
+3526,Beauty & Personal Care,PureLeaf,2620
+1630,Electronics,ElectraNova,124540
+1610,Electronics,CoreLink,124910
+3074,Home & Kitchen,Nest&Nook,28710
+3638,Beauty & Personal Care,GlowWell,1060
+4154,Beauty & Personal Care,RootRise,10000
+3410,Beauty & Personal Care,SilkStrand,2200
+1134,Electronics,ElectraNova,150000
+1002,Electronics,OrbitX,56260
+1294,Electronics,ElectraNova,82350
+4092,Beauty & Personal Care,BloomNote,10000
+4102,Beauty & Personal Care,HydraHue,2720
+4407,Sports & Outdoors,PeakPath,7550
+1887,Fashion,UrbanThread,4200
+2876,Home & Kitchen,HeatWave,25110
+4574,Sports & Outdoors,StaminaX,6640
+2880,Home & Kitchen,HomePulse,35000
+4112,Beauty & Personal Care,VelvetMist,6140
+1584,Electronics,CoreLink,150000
+3399,Home & Kitchen,ZenLiving,14420
+4156,Beauty & Personal Care,PureLeaf,4780
+1882,Fashion,CanvasCo,2570
+3945,Beauty & Personal Care,BloomNote,4890
+3544,Beauty & Personal Care,SilkStrand,4160
+1331,Electronics,GigaMax,86760
+3010,Home & Kitchen,AuraHome,25890
+1054,Electronics,ApexOne,78920
+2535,Fashion,CanvasCo,10170
+3839,Beauty & Personal Care,RootRise,7690
+4246,Sports & Outdoors,CorePlus,3660
+1914,Fashion,ModeMuse,5850
+4509,Sports & Outdoors,PulseGear,22350
+1489,Electronics,OrbitX,150000
+3818,Beauty & Personal Care,VelvetMist,5810
+2595,Fashion,LunaWear,5850
+4492,Sports & Outdoors,TrailStar,15640
+3408,Beauty & Personal Care,SilkStrand,8220
+2640,Home & Kitchen,CoolBreeze,8760
+2491,Fashion,ModeMuse,6260
+4992,Sports & Outdoors,PulseGear,30000
+2891,Home & Kitchen,AuraHome,35000
+4843,Sports & Outdoors,FlexForge,28400
+2448,Fashion,SilkStreet,4950
+1545,Electronics,BlueWave,115860
+1150,Electronics,OrbitX,66650
+3565,Beauty & Personal Care,PureLeaf,3060
+1886,Fashion,ModeMuse,2210
+2243,Fashion,UrbanThread,12000
+3800,Beauty & Personal Care,VelvetMist,10000
+2772,Home & Kitchen,KitchenPro,32100
+4055,Beauty & Personal Care,BloomNote,1960
+1495,Electronics,ElectraNova,73270
+1640,Electronics,Zentrix,82240
+3513,Beauty & Personal Care,GlowWell,4920
+3192,Home & Kitchen,AuraHome,25720
+2151,Fashion,SilkStreet,3440
+4225,Sports & Outdoors,MotionMade,8860
+3287,Home & Kitchen,AuraHome,25760
+3801,Beauty & Personal Care,DermaDawn,1340
+3641,Beauty & Personal Care,RootRise,3740
+3678,Beauty & Personal Care,PureLeaf,7050
+1925,Fashion,LunaWear,4170
+3879,Beauty & Personal Care,DermaDawn,1140
+4608,Sports & Outdoors,FlexForge,5740
+4087,Beauty & Personal Care,VelvetMist,10000
+1248,Electronics,OrbitX,81390
+2014,Fashion,Heritage,4650
+2897,Home & Kitchen,AuraHome,13650
+3622,Beauty & Personal Care,GlowWell,10000
+2133,Fashion,LunaWear,11710
+3432,Beauty & Personal Care,HydraHue,2080
+4048,Beauty & Personal Care,SilkStrand,3990
+3386,Home & Kitchen,HomePulse,28030
+3388,Home & Kitchen,HomePulse,35000
+3020,Home & Kitchen,HomePulse,31050
+1605,Electronics,CoreLink,70040
+4117,Beauty & Personal Care,GlowWell,9680
+2957,Home & Kitchen,AuraHome,34390
+3867,Beauty & Personal Care,DermaDawn,8070
+3650,Beauty & Personal Care,HydraHue,4050
+4478,Sports & Outdoors,CorePlus,8190
+1745,Electronics,ApexOne,150000
+3264,Home & Kitchen,CasaCharm,31480
+2531,Fashion,Ivory&Co,5870
+4397,Sports & Outdoors,PulseGear,20350
+4885,Sports & Outdoors,TrailStar,12680
+3217,Home & Kitchen,KitchenPro,15500
+3186,Home & Kitchen,Nest&Nook,15880
+3950,Beauty & Personal Care,PureLeaf,4840
+3471,Beauty & Personal Care,GlowWell,7550
+3269,Home & Kitchen,CoolBreeze,35000
+4027,Beauty & Personal Care,PureLeaf,5330
+2250,Fashion,NorthBay,4740
+2892,Home & Kitchen,CoolBreeze,25230
+1455,Electronics,Zentrix,150000
+3568,Beauty & Personal Care,PureLeaf,3210
+4394,Sports & Outdoors,CorePlus,9360
+2652,Home & Kitchen,Nest&Nook,19580
+4652,Sports & Outdoors,PeakPath,30000
+1356,Electronics,BlueWave,104700
+2306,Fashion,CanvasCo,3040
+1993,Fashion,LunaWear,4190
+1758,Electronics,OrbitX,94310
+2161,Fashion,Heritage,7640
+4721,Sports & Outdoors,StaminaX,6530
+2326,Fashion,CanvasCo,12000
+1195,Electronics,ApexOne,83420
+2211,Fashion,LunaWear,11380
+3450,Beauty & Personal Care,DermaDawn,1800
+1666,Electronics,ApexOne,26300
+2878,Home & Kitchen,KitchenPro,19780
+4739,Sports & Outdoors,RunRidge,13040
+4378,Sports & Outdoors,TrailStar,12270
+4366,Sports & Outdoors,PeakPath,17250
+1291,Electronics,Zentrix,36820
+2720,Home & Kitchen,HeatWave,16600
+1732,Electronics,TechSphere,54780
+3840,Beauty & Personal Care,PureLeaf,6380
+2969,Home & Kitchen,CasaCharm,13570
+2796,Home & Kitchen,ZenLiving,24270
+2765,Home & Kitchen,CasaCharm,3470
+4083,Beauty & Personal Care,BloomNote,1500
+1323,Electronics,ApexOne,76580
+2565,Fashion,LunaWear,8810
+4324,Sports & Outdoors,MotionMade,15690
+2232,Fashion,Heritage,2340
+4466,Sports & Outdoors,PulseGear,27620
+3685,Beauty & Personal Care,RootRise,10000
+2094,Fashion,NorthBay,9670
+3722,Beauty & Personal Care,BloomNote,9570
+1998,Fashion,Ivory&Co,8270
+2219,Fashion,UrbanThread,4040
+3698,Beauty & Personal Care,GlowWell,2370
+3621,Beauty & Personal Care,BloomNote,10000
+3361,Home & Kitchen,AuraHome,7210
+4185,Beauty & Personal Care,BloomNote,6050
+1326,Electronics,ApexOne,14870
+3949,Beauty & Personal Care,HydraHue,2180
+1613,Electronics,ElectraNova,104290
+1856,Fashion,Ivory&Co,4100
+4032,Beauty & Personal Care,HydraHue,10000
+2337,Fashion,NorthBay,8700
+3481,Beauty & Personal Care,HydraHue,2060
+4575,Sports & Outdoors,MotionMade,30000
+4004,Beauty & Personal Care,PureLeaf,10000
+2366,Fashion,ModeMuse,12000
+3767,Beauty & Personal Care,PureLeaf,10000
+2636,Home & Kitchen,HeatWave,30750
+1260,Electronics,OrbitX,23360
+4580,Sports & Outdoors,StaminaX,22060
+1623,Electronics,ElectraNova,46910
+1442,Electronics,OrbitX,81560
+3844,Beauty & Personal Care,DermaDawn,10000
+1282,Electronics,ApexOne,140990
+1408,Electronics,TechSphere,26550
+4260,Sports & Outdoors,MotionMade,26620
+1443,Electronics,TechSphere,95420
+3683,Beauty & Personal Care,PureLeaf,6090
+3606,Beauty & Personal Care,RootRise,4170
+3948,Beauty & Personal Care,SilkStrand,10000
+3508,Beauty & Personal Care,RootRise,2830
+3141,Home & Kitchen,HomePulse,29820
+2435,Fashion,Heritage,9370
+2676,Home & Kitchen,HomePulse,35000
+2732,Home & Kitchen,KitchenPro,16510
+3623,Beauty & Personal Care,VelvetMist,10000
+4026,Beauty & Personal Care,RootRise,8470
+4983,Sports & Outdoors,CorePlus,30000
+3552,Beauty & Personal Care,VelvetMist,3470
+1687,Electronics,Zentrix,150000
+3524,Beauty & Personal Care,HydraHue,10000
+2555,Fashion,Heritage,12000
+1932,Fashion,SilkStreet,3120
+1558,Electronics,ElectraNova,54030
+2839,Home & Kitchen,Nest&Nook,17050
+3707,Beauty & Personal Care,SilkStrand,1320
+2155,Fashion,Heritage,3180
+4430,Sports & Outdoors,PulseGear,8670
+3611,Beauty & Personal Care,GlowWell,4010
+3658,Beauty & Personal Care,HydraHue,4490
+1198,Electronics,TechSphere,31490
+4288,Sports & Outdoors,StaminaX,7510
+1751,Electronics,TechSphere,29680
+2113,Fashion,Ivory&Co,12000
+1018,Electronics,ElectraNova,44530
+4891,Sports & Outdoors,MotionMade,17160
+1482,Electronics,ElectraNova,67360
+1576,Electronics,OrbitX,83980
+3520,Beauty & Personal Care,HydraHue,10000
+4513,Sports & Outdoors,StaminaX,19260
+2231,Fashion,SilkStreet,7280
+4754,Sports & Outdoors,PulseGear,6140
+2784,Home & Kitchen,CasaCharm,16540
+4330,Sports & Outdoors,CorePlus,30000
+1764,Electronics,ElectraNova,20740
+2453,Fashion,UrbanThread,11490
+3830,Beauty & Personal Care,DermaDawn,10000
+1136,Electronics,GigaMax,80090
+2522,Fashion,Ivory&Co,7750
+1636,Electronics,Zentrix,66220
+2515,Fashion,SilkStreet,6640
+4738,Sports & Outdoors,PulseGear,10500
+1461,Electronics,ApexOne,150000
+4149,Beauty & Personal Care,PureLeaf,9690
+2995,Home & Kitchen,HomePulse,35000
+1553,Electronics,CoreLink,22310
+4870,Sports & Outdoors,PulseGear,30000
+4878,Sports & Outdoors,FlexForge,3730
+4138,Beauty & Personal Care,SilkStrand,2800
+4920,Sports & Outdoors,PulseGear,28860
+4279,Sports & Outdoors,StaminaX,21590
+3057,Home & Kitchen,HomePulse,20400
+1078,Electronics,TechSphere,81760
+4566,Sports & Outdoors,CorePlus,4850
+3107,Home & Kitchen,KitchenPro,35000
+4008,Beauty & Personal Care,GlowWell,7740
+3811,Beauty & Personal Care,VelvetMist,7160
+3933,Beauty & Personal Care,SilkStrand,1780
+4545,Sports & Outdoors,TrailStar,30000
+1425,Electronics,OrbitX,56410
+2402,Fashion,Ivory&Co,4020
+3529,Beauty & Personal Care,BloomNote,7390
+3545,Beauty & Personal Care,HydraHue,10000
+4704,Sports & Outdoors,CorePlus,7090
+1341,Electronics,Zentrix,150000
+2344,Fashion,CanvasCo,5290
+2389,Fashion,Ivory&Co,2900
+1413,Electronics,BlueWave,60690
+4214,Sports & Outdoors,CorePlus,26090
+2991,Home & Kitchen,CoolBreeze,13150
+1089,Electronics,TechSphere,105860
+1999,Fashion,CanvasCo,2630
+4720,Sports & Outdoors,PeakPath,9970
+1820,Fashion,ModeMuse,2670
+1324,Electronics,GigaMax,103070
+2997,Home & Kitchen,KitchenPro,14110
+1767,Electronics,CoreLink,47180
+1322,Electronics,OrbitX,81320
+3109,Home & Kitchen,HeatWave,12840
+2511,Fashion,CanvasCo,12000
+3975,Beauty & Personal Care,PureLeaf,10000
+1837,Fashion,SilkStreet,7190
+1980,Fashion,UrbanThread,4360
+4458,Sports & Outdoors,TrailStar,5630
+2444,Fashion,Heritage,5760
+2793,Home & Kitchen,HomePulse,35000
+4506,Sports & Outdoors,FlexForge,30000
+4374,Sports & Outdoors,CorePlus,15140
+4978,Sports & Outdoors,FlexForge,26880
+3345,Home & Kitchen,CasaCharm,16300
+4388,Sports & Outdoors,FlexForge,10930
+1272,Electronics,BlueWave,98690
+1047,Electronics,TechSphere,71880
+2111,Fashion,ModeMuse,1150
+2134,Fashion,LunaWear,8960
+3409,Beauty & Personal Care,BloomNote,3500
+2670,Home & Kitchen,HeatWave,32510
+1017,Electronics,ApexOne,150000
+3542,Beauty & Personal Care,SilkStrand,4600
+3864,Beauty & Personal Care,SilkStrand,6710
+3242,Home & Kitchen,AuraHome,4140
+4956,Sports & Outdoors,TrailStar,12190
+4701,Sports & Outdoors,StaminaX,30000
+1868,Fashion,SilkStreet,4930
+2903,Home & Kitchen,CoolBreeze,35000
+4474,Sports & Outdoors,PeakPath,8780
+3855,Beauty & Personal Care,GlowWell,10000
+3588,Beauty & Personal Care,BloomNote,10000
+1439,Electronics,OrbitX,27470
+3189,Home & Kitchen,CoolBreeze,12900
+2223,Fashion,SilkStreet,10250
+3938,Beauty & Personal Care,GlowWell,6940
+3516,Beauty & Personal Care,RootRise,9150
+3023,Home & Kitchen,CasaCharm,32830
+2039,Fashion,ModeMuse,4830
+2112,Fashion,Heritage,4130
+3314,Home & Kitchen,HeatWave,14490
+1263,Electronics,OrbitX,150000
+2247,Fashion,CanvasCo,9160
+4065,Beauty & Personal Care,HydraHue,10000
+1756,Electronics,BlueWave,146180
+4332,Sports & Outdoors,FlexForge,14390
+2932,Home & Kitchen,CasaCharm,9930
+1004,Electronics,TechSphere,88170
+2379,Fashion,UrbanThread,10400
+2514,Fashion,ModeMuse,11890
+4688,Sports & Outdoors,PulseGear,18710
+3522,Beauty & Personal Care,SilkStrand,1800
+3710,Beauty & Personal Care,DermaDawn,3550
+1140,Electronics,ElectraNova,64150
+4140,Beauty & Personal Care,GlowWell,9470
+3564,Beauty & Personal Care,SilkStrand,2520
+1343,Electronics,TechSphere,150000
+2970,Home & Kitchen,HeatWave,6760
+3012,Home & Kitchen,AuraHome,10130
+4129,Beauty & Personal Care,DermaDawn,5800
+2329,Fashion,ModeMuse,5750
+4818,Sports & Outdoors,StaminaX,30000
+1941,Fashion,SilkStreet,10500
+3100,Home & Kitchen,ZenLiving,22990
+2538,Fashion,UrbanThread,2470
+4538,Sports & Outdoors,PeakPath,30000
+1531,Electronics,ApexOne,26400
+4853,Sports & Outdoors,PulseGear,30000
+2330,Fashion,NorthBay,4480
+4897,Sports & Outdoors,MotionMade,3980
+3005,Home & Kitchen,ZenLiving,10850
+3483,Beauty & Personal Care,HydraHue,5370
+3586,Beauty & Personal Care,PureLeaf,4260
+1696,Electronics,OrbitX,150000
+2382,Fashion,UrbanThread,8090
+4259,Sports & Outdoors,StaminaX,30000
+1556,Electronics,ElectraNova,102910
+2154,Fashion,Heritage,3990
+2992,Home & Kitchen,CasaCharm,8230
+1951,Fashion,SilkStreet,12000
+1360,Electronics,TechSphere,63000
+4317,Sports & Outdoors,CorePlus,22070
+1256,Electronics,GigaMax,48310
+4855,Sports & Outdoors,CorePlus,19620
+1391,Electronics,ApexOne,150000
+3769,Beauty & Personal Care,VelvetMist,3760
+4227,Sports & Outdoors,CorePlus,11350
+1372,Electronics,BlueWave,89590
+2390,Fashion,Ivory&Co,8520
+4655,Sports & Outdoors,FlexForge,5830
+4953,Sports & Outdoors,RunRidge,11710
+3207,Home & Kitchen,CasaCharm,35000
+2790,Home & Kitchen,ZenLiving,14870
+1412,Electronics,Zentrix,54880
+4052,Beauty & Personal Care,GlowWell,5770
+4344,Sports & Outdoors,RunRidge,5970
+3533,Beauty & Personal Care,VelvetMist,1950
+1147,Electronics,BlueWave,86260
+2742,Home & Kitchen,CoolBreeze,11220
+4863,Sports & Outdoors,MotionMade,10390
+2419,Fashion,NorthBay,12000
+1827,Fashion,CanvasCo,4770
+2443,Fashion,NorthBay,12000
+1844,Fashion,UrbanThread,11380
+3625,Beauty & Personal Care,HydraHue,3100
+1838,Fashion,Ivory&Co,7350
+1107,Electronics,CoreLink,62590
+2705,Home & Kitchen,HeatWave,9380
+1589,Electronics,TechSphere,46630
+3018,Home & Kitchen,ZenLiving,26190
+3339,Home & Kitchen,ZenLiving,14440
+2436,Fashion,UrbanThread,12000
+1863,Fashion,NorthBay,12000
+4703,Sports & Outdoors,CorePlus,11150
+1214,Electronics,Zentrix,132040
+4938,Sports & Outdoors,StaminaX,7200
+2383,Fashion,Heritage,12000
+4253,Sports & Outdoors,CorePlus,30000
+4933,Sports & Outdoors,FlexForge,27710
+3429,Beauty & Personal Care,SilkStrand,2400
+1100,Electronics,Zentrix,149070
+2898,Home & Kitchen,KitchenPro,15190
+2160,Fashion,SilkStreet,12000
+4249,Sports & Outdoors,PeakPath,7400
+2982,Home & Kitchen,CasaCharm,35000
+3553,Beauty & Personal Care,RootRise,1850
+2584,Fashion,Ivory&Co,3750
+3645,Beauty & Personal Care,SilkStrand,920
+4997,Sports & Outdoors,MotionMade,30000
+1040,Electronics,GigaMax,59790
+3389,Home & Kitchen,CasaCharm,13500
+3051,Home & Kitchen,CoolBreeze,6000
+1452,Electronics,BlueWave,21900
+2848,Home & Kitchen,CoolBreeze,4070
+4890,Sports & Outdoors,PeakPath,27350
+2093,Fashion,CanvasCo,3860
+4281,Sports & Outdoors,PeakPath,14850
+3657,Beauty & Personal Care,SilkStrand,3140
+3469,Beauty & Personal Care,DermaDawn,3780
+4326,Sports & Outdoors,MotionMade,23980
+3895,Beauty & Personal Care,PureLeaf,3670
+2364,Fashion,LunaWear,2310
+4482,Sports & Outdoors,StaminaX,16420
+1112,Electronics,TechSphere,19600
+3273,Home & Kitchen,HomePulse,28030
+1943,Fashion,Ivory&Co,12000
+2569,Fashion,Heritage,7010
+1074,Electronics,GigaMax,150000
+1048,Electronics,CoreLink,55140
+3687,Beauty & Personal Care,GlowWell,10000
+3162,Home & Kitchen,AuraHome,12150
+1097,Electronics,TechSphere,59220
+2762,Home & Kitchen,KitchenPro,22440
+4287,Sports & Outdoors,TrailStar,6820
+2594,Fashion,ModeMuse,7300
+2148,Fashion,CanvasCo,8760
+3155,Home & Kitchen,CasaCharm,35000
+4668,Sports & Outdoors,FlexForge,22580
+4090,Beauty & Personal Care,RootRise,1420
+2767,Home & Kitchen,KitchenPro,35000
+2123,Fashion,NorthBay,2950
+2347,Fashion,LunaWear,12000
+4455,Sports & Outdoors,FlexForge,30000
+4438,Sports & Outdoors,RunRidge,21650
+4583,Sports & Outdoors,StaminaX,26450
